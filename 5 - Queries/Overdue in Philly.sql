@@ -17,7 +17,7 @@ WITH FilteredSongs AS (
             'Born To Run',
             'Wild Innocent & E Street Shuffle',
             'Greetings From Asbury Park NJ'
-        )
+        ) 
 ),
 PhillyShows AS (
     -- Select shows that occurred in Philadelphia, PA
