@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Springsteen AI Query</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-okaidia.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
+    <style>
+        body { font-family: sans-serif; }
+        table { border-collapse: collapse; width: 100%; margin-top: 1rem; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; position: sticky; top: 0; }
+        summary { cursor: pointer; font-weight: 600; padding: 0.5rem 0; }
+        summary::marker { content: '▶ '; }
+        details[open] > summary::marker { content: '▼ '; }
+        #nl-query { min-height: 60px; }
+        .hidden { display: none; }
+        .animate-spin { animation: spin 1s linear infinite; }
+        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        pre[class*="language-"] { margin: 0; border-radius: 0.25rem; font-size: 0.8rem; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word; }
+        code[class*="language-"] { font-family: monospace; }
+        /* Style ONLY for the resize handles below Explanation/SQL and Table */
+        .resize-handle-y {
+            cursor: ns-resize; height: 12px;
+            background-color: #e5e7eb; border-top: 1px solid #d1d5db; border-bottom: 1px solid #d1d5db;
+            transition: background-color 0.2s ease-in-out; width: 100%; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #4b5563; user-select: none; -webkit-user-select: none; -ms-user-select: none;
+        }
+        .resize-handle-y:hover { background-color: #d1d5db; }
+        /* Container that will be resized by JS */
+        .resizable-y { overflow: hidden; }
+    </style>
+</head>
+<body class="bg-gray-100 p-4 md:p-8">
+
+    <div class="container mx-auto bg-white p-6 rounded shadow">
+        <h1 class="text-2xl font-bold mb-4 text-center">Springsteen AI Query</h1>
+
+        <!-- Removed border/padding from details, removed ID/resizable class/style from inner div -->
+        <details open class="mb-4 pb-2">
+            <summary class="text-lg mb-2">Ask a question about the data:</summary>
+            <div>
+                <div class="mt-2">
+                    <!-- Textarea NO LONGER has resize:vertical from CSS -->
+                    <textarea id="nl-query" class="w-full p-2 border rounded focus:outline-none focus:ring-2 focus:ring-blue-500 font-mono text-sm" placeholder="e.g., How many times was Thunder Road played..."></textarea>
+                </div>
+                <button id="submit-button" class="mt-2 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-full transition"> Ask AI Assistant </button>
+            </div>
+            <!-- REMOVED Resize Handle for Input Area -->
+            <!-- <div id="resize-handle-input" class="resize-handle-y mt-1">...</div> -->
+        </details>
+
+        <div id="status-message" class="mt-4 p-2 text-sm rounded"></div>
+        <div id="loading-spinner" class="hidden animate-spin rounded-full h-6 w-6 border-t-2 border-b-2 border-blue-500 mx-auto my-4"></div>
+
+        <!-- This section KEEPS the JS resize handle -->
+        <details open class="mt-6 border rounded p-4" id="details-explanation-sql">
+            <summary class="text-lg mb-2">AI Explanation & SQL</summary>
+            <div id="explanation-sql-grid" class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2 overflow-hidden">
+                <div id="results-analysis" class="bg-gray-50 text-sm text-gray-700 p-2 whitespace-pre-wrap rounded border"></div>
+                <div id="generated-sql-container" class="text-xs border rounded" style="display: none;">
+                     <pre class="!m-0 !rounded-none"><code id="generated-sql-display" class="language-sql block"></code></pre>
+                 </div>
+            </div>
+        </details>
+
+        <!-- This section KEEPS the JS resize handle -->
+        <!-- MODIFIED: Removed JS resize handle, fixed height, overflow, and resizable class -->
+        <details open class="mt-6 border rounded p-4" id="details-results-table">
+            <summary class="text-lg mb-2">Query Results Table</summary>
+            <!-- REMOVED: style="height: 300px;", resizable-y class, overflow-y-auto class -->
+            <div id="results-table-container" class="mt-2">
+                 <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-gray-50"></thead>
+                    <tbody class="bg-white divide-y divide-gray-200"></tbody>
+                </table>
+            </div>
+            <!-- REMOVED: resize handle div -->
+            <!-- <div id="resize-handle-table" class="resize-handle-y mt-1">
+                 <span>↕️ Resize Table ↕️</span>
+            </div> -->
+        </details>
+
+    </div>
+
+    <script src="script.js" defer></script>
+</body>
+</html>

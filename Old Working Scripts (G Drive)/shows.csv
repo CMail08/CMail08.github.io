@@ -1,0 +1,2819 @@
+﻿show_id,date,tour,city,venue
+1,1968-09-28,1968,Red Bank,Off Broad Street Coffee House
+2,1969-02-22,1969,Asbury Park,Upstage Club
+3,1969-02-28,1969,Asbury Park,Upstage Club
+4,1969-09-20,1969,Richmond,The Center
+5,1971-03-18,1971,Deal,Deal Park Recreation Center
+6,1971-03-27,1971,Asbury Park,Sunshine In
+7,1971-04-02,1971,Asbury Park,Upstage Club
+8,1971-04-03,1971,Asbury Park,Upstage Club
+9,1971-04-10,1971,Asbury Park,The Green Mermaid
+10,1971-04-11,1971,Asbury Park,The Green Mermaid
+11,1971-04-16,1971,Asbury Park,Upstage Club
+12,1971-04-17,1971,Asbury Park,Upstage Club
+13,1971-04-23,1971,Asbury Park,Upstage Club
+14,1971-04-24,1971,Asbury Park,Upstage Club
+15,1971-05-15,1971,Union,Newark State College
+16,1971-05-21,1971,Asbury Park,Upstage Club
+17,1971-05-22,1971,Asbury Park,Upstage Club
+18,1971-07-10,1971,Lincroft,Brookdale Community College
+19,1971-07-11,1971,Asbury Park,Sunshine In
+20,1971-07-18,1971,Richmond,Monroe Park
+21,1971-07-22,1971,Sayreville,D'Scene
+22,1971-07-23,1971,New York,Damrosch Park Bandshell
+23,1971-07-25,1971,Rumson,Monmouth Hills Clubhouse
+24,1971-07-29,1971,Sayreville,D'Scene
+25,1971-08-05,1971,Long Branch,Garfield Park
+26,1971-08-07,1971,Asbury Park,Sunshine In
+27,1971-09-01,1971,Long Branch,Garfield Park
+28,1971-09-03,1971,Asbury Park,Student Prince
+29,1971-09-04,1971,Asbury Park,Student Prince
+30,1971-09-05,1971,Asbury Park,Student Prince
+31,1971-09-10,1971,Asbury Park,Student Prince
+32,1971-09-11,1971,Asbury Park,Student Prince
+33,1971-09-12,1971,Asbury Park,Student Prince
+34,1971-09-17,1971,Asbury Park,Student Prince
+35,1971-09-18,1971,Asbury Park,Student Prince
+36,1971-09-19,1971,Asbury Park,Student Prince
+37,1971-09-24,1971,Asbury Park,Student Prince
+38,1971-09-25,1971,Asbury Park,Student Prince
+39,1971-09-26,1971,Asbury Park,Student Prince
+40,1971-10-01,1971,Asbury Park,Student Prince
+41,1971-10-02,1971,Asbury Park,Student Prince
+42,1971-10-03,1971,Asbury Park,Student Prince
+43,1971-10-08,1971,New Brunswick,Rutgers University-New Brunswick
+44,1971-10-15,1971,Asbury Park,Student Prince
+45,1971-10-16,1971,Asbury Park,Student Prince
+46,1971-10-17,1971,Asbury Park,Student Prince
+47,1971-10-23,1971,Richmond,University of Richmond
+48,1971-10-29,1971,West Long Branch,St. Jerome School
+49,1971-10-29,1971,Asbury Park,Upstage Club
+50,1971-10-30,1971,Richmond,Virginia Commonwealth University
+51,1971-10-31,1971,Long Branch,National Guard Armory
+52,1971-11-04,1971,New York,Pocketful of Tunes Inc.
+53,1971-11-12,1971,Asbury Park,Student Prince
+54,1971-11-13,1971,Asbury Park,Student Prince
+55,1971-11-14,1971,Asbury Park,Student Prince
+56,1971-11-19,1971,Asbury Park,Student Prince
+57,1971-11-20,1971,Asbury Park,Student Prince
+58,1971-11-21,1971,Asbury Park,Student Prince
+59,1971-11-23,1971,Linden,New Plaza Theater
+60,1971-11-24,1971,Asbury Park,Student Prince
+61,1971-11-26,1971,Asbury Park,Student Prince
+62,1971-11-27,1971,Asbury Park,Student Prince
+63,1971-11-28,1971,Asbury Park,Student Prince
+64,1971-12-03,1971,Asbury Park,Student Prince
+65,1971-12-04,1971,Asbury Park,Student Prince
+66,1971-12-05,1971,Asbury Park,Student Prince
+67,1971-12-10,1971,Asbury Park,Student Prince
+68,1971-12-11,1971,Asbury Park,Student Prince
+69,1971-12-12,1971,Asbury Park,Student Prince
+70,1971-12-17,1971,New Brunswick,Rutgers University-New Brunswick
+71,1971-12-18,1971,Asbury Park,Student Prince
+72,1971-12-19,1971,Asbury Park,Student Prince
+73,1972-01-28,1972,Neptune City,Captain's Garter
+74,1972-01-29,1972,Neptune City,Captain's Garter
+75,1972-01-30,1972,Neptune City,Captain's Garter
+76,1972-02-04,1972,Richmond,The Back Door
+77,1972-02-05,1972,Richmond,The Back Door
+78,1972-02-06,1972,Richmond,The Back Door
+79,1972-02-11,1972,Piscataway,Livingston Student Center
+80,1972-02-12,1972,Asbury Park,Sunshine In
+81,1972-02-14,1972,New York,Pocketful of Tunes Inc.
+82,1972-02-18,1972,Richmond,The Back Door
+83,1972-02-19,1972,Richmond,The Back Door
+84,1972-02-20,1972,Richmond,The Back Door
+85,1972-02-25,1972,Richmond,The Back Door
+86,1972-02-26,1972,Richmond,The Back Door
+87,1972-02-27,1972,Richmond,The Back Door
+88,1972-03-03,1972,Metuchen,Saint Joseph High School
+89,1972-03-14,1972,Highlands,Challenger Eastern Surfboards
+90,1972-03-17,1972,Richmond,Richmond Arena
+91,1972-03-18,1972,Hampden Sydney,Hampden-Sydney College
+92,1972-04-15,1972,New Brunswick,Rutgers University-New Brunswick
+93,1972-04-21,1972,Red Bank,Red Bank Catholic High School
+94,1972-05-02,1972,New York,Gaslight II
+95,1972-07-05,1972,Red Bank,Cinema III
+96,1972-08-09,1972,New York,Max's Kansas City
+97,1972-08-10,1972,New York,Max's Kansas City
+98,1972-08-11,1972,New York,Max's Kansas City
+99,1972-08-12,1972,New York,Max's Kansas City
+100,1972-08-13,1972,New York,Max's Kansas City
+101,1972-08-14,1972,New York,Max's Kansas City
+102,1972-08-30,1972,New York,Max's Kansas City
+103,1972-09-04,1972,New York,The Bitter End
+104,1972-09-04,1972,New York,Max's Kansas City
+105,1972-10-28,"Greetings From Asbury Park, N.J.",West Chester,Hollinger Field House
+106,1972-10-29,"Greetings From Asbury Park, N.J.",Long Branch,National Guard Armory
+107,1972-11-11,"Greetings From Asbury Park, N.J.",York,York College of Pennsylvania
+108,1972-11-25,"Greetings From Asbury Park, N.J.",Detroit,Cobo Arena
+109,1972-12-05,"Greetings From Asbury Park, N.J.",New York,Kenny's Castaways
+110,1972-12-06,"Greetings From Asbury Park, N.J.",New York,Kenny's Castaways
+111,1972-12-07,"Greetings From Asbury Park, N.J.",New York,New York City Center
+112,1972-12-07,"Greetings From Asbury Park, N.J.",Ossining,Sing Sing Correctional Facility
+113,1972-12-07,"Greetings From Asbury Park, N.J.",New York,Kenny's Castaways
+114,1972-12-08,"Greetings From Asbury Park, N.J.",New York,Kenny's Castaways
+115,1972-12-09,"Greetings From Asbury Park, N.J.",New York,Kenny's Castaways
+116,1972-12-10,"Greetings From Asbury Park, N.J.",New York,Kenny's Castaways
+117,1972-12-29,"Greetings From Asbury Park, N.J.",Dayton,Hara Arena
+118,1972-12-30,"Greetings From Asbury Park, N.J.",Columbus,Ohio Theatre
+119,1973-01-04,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+120,1973-01-05,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+121,1973-01-06,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+122,1973-01-07,1973,Bryn Mawr,The Main Point
+123,1973-01-08,"Greetings From Asbury Park, N.J.",Boston,Paul's Mall
+124,1973-01-09,"Greetings From Asbury Park, N.J.",Boston,Paul's Mall
+125,1973-01-09,"Greetings From Asbury Park, N.J.",Boston,WBCN-FM Studios
+126,1973-01-10,"Greetings From Asbury Park, N.J.",Boston,Paul's Mall
+127,1973-01-11,"Greetings From Asbury Park, N.J.",Boston,Paul's Mall
+128,1973-01-12,"Greetings From Asbury Park, N.J.",Boston,Paul's Mall
+129,1973-01-13,"Greetings From Asbury Park, N.J.",Boston,Paul's Mall
+130,1973-01-14,"Greetings From Asbury Park, N.J.",Boston,Paul's Mall
+131,1973-01-16,"Greetings From Asbury Park, N.J.",Villanova,Jake Nevin Field House
+132,1973-01-18,"Greetings From Asbury Park, N.J.",Roslyn,My Father’s Place
+133,1973-01-19,"Greetings From Asbury Park, N.J.",Roslyn,My Father’s Place
+134,1973-01-20,"Greetings From Asbury Park, N.J.",Roslyn,My Father’s Place
+135,1973-01-21,"Greetings From Asbury Park, N.J.",Roslyn,My Father’s Place
+136,1973-01-24,"Greetings From Asbury Park, N.J.",Chicago,The Quiet Knight
+137,1973-01-25,"Greetings From Asbury Park, N.J.",Chicago,The Quiet Knight
+138,1973-01-26,"Greetings From Asbury Park, N.J.",Chicago,The Quiet Knight
+139,1973-01-27,"Greetings From Asbury Park, N.J.",Chicago,The Quiet Knight
+140,1973-01-28,"Greetings From Asbury Park, N.J.",Chicago,The Quiet Knight
+141,1973-01-31,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+142,1973-02-01,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+143,1973-02-02,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+144,1973-02-03,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+145,1973-02-04,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+146,1973-02-05,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+147,1973-02-10,"Greetings From Asbury Park, N.J.",Asbury Park,Sunshine In
+148,1973-02-11,"Greetings From Asbury Park, N.J.",South Orange,Seton Hall University
+149,1973-02-14,"Greetings From Asbury Park, N.J.",Richmond,Franklin Street Gymnasium
+150,1973-02-16,"Greetings From Asbury Park, N.J.",West Long Branch,Pollak Theatre
+151,1973-02-26,"Greetings From Asbury Park, N.J.",West Hollywood,Troubadour
+152,1973-02-28,"Greetings From Asbury Park, N.J.",Stockton,Stockton Memorial Civic Auditorium
+153,1973-03-01,"Greetings From Asbury Park, N.J.",Los Angeles,Ahmanson Theater
+154,1973-03-02,"Greetings From Asbury Park, N.J.",Berkeley,Berkeley Community Theatre
+155,1973-03-03,"Greetings From Asbury Park, N.J.",Santa Monica,Santa Monica Civic Auditorium
+156,1973-03-12,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+157,1973-03-13,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+158,1973-03-14,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+159,1973-03-15,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+160,1973-03-16,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+161,1973-03-17,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+162,1973-03-18,"Greetings From Asbury Park, N.J.",Kingston,Keaney Gymnasium
+163,1973-03-23,"Greetings From Asbury Park, N.J.",Providence,Palace Concert Theater
+164,1973-03-24,"Greetings From Asbury Park, N.J.",Lewiston,Niagara University
+165,1973-03-29,"Greetings From Asbury Park, N.J.",Kutztown,Keystone Hall
+166,1973-04-01,"Greetings From Asbury Park, N.J.",New Brunswick,Rutgers University-New Brunswick
+167,1973-04-06,"Greetings From Asbury Park, N.J.",Westbury,Westbury Music Fair
+168,1973-04-07,"Greetings From Asbury Park, N.J.",Norfolk,Scope Arena
+169,1973-04-11,"Greetings From Asbury Park, N.J.",Atlanta,The Omni
+170,1973-04-14,"Greetings From Asbury Park, N.J.",Richmond,Richmond Coliseum
+171,1973-04-18,"Greetings From Asbury Park, N.J.",Lincroft,Robert J. Collins Arena
+172,1973-04-23,"Greetings From Asbury Park, N.J.",Hartford,Bushnell Memorial Hall
+173,1973-04-24,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+174,1973-04-25,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+175,1973-04-27,"Greetings From Asbury Park, N.J.",Athens,Convocation Center
+176,1973-04-28,"Greetings From Asbury Park, N.J.",College Park,Cole Field House
+177,1973-05-01,"Greetings From Asbury Park, N.J.",Los Angeles,Ahmanson Theater
+178,1973-05-05,"Greetings From Asbury Park, N.J.",Providence,"Alumni Hall, Providence College"
+179,1973-05-06,"Greetings From Asbury Park, N.J.",Amherst,Alumni Stadium
+180,1973-05-11,"Greetings From Asbury Park, N.J.",Bexley,Capital University
+181,1973-05-12,"Greetings From Asbury Park, N.J.",Lewiston,Niagara University
+182,1973-05-19,"Greetings From Asbury Park, N.J.",Detroit,Masonic Temple Theatre
+183,1973-05-24,"Greetings From Asbury Park, N.J.",Washington,Childe Harold
+184,1973-05-25,"Greetings From Asbury Park, N.J.",Washington,Childe Harold
+185,1973-05-26,"Greetings From Asbury Park, N.J.",Washington,Childe Harold
+186,1973-05-30,"Greetings From Asbury Park, N.J.",Fayetteville,Cumberland County Memorial Arena
+187,1973-05-31,"Greetings From Asbury Park, N.J.",Richmond,Richmond Coliseum
+188,1973-05-31,"Greetings From Asbury Park, N.J.",Richmond,WGOE Radio
+189,1973-06-01,"Greetings From Asbury Park, N.J.",Hampton,Hampton Coliseum
+190,1973-06-02,1973,Bethesda,WHFS-FM Studios
+191,1973-06-02,"Greetings From Asbury Park, N.J.",Baltimore,Baltimore Civic Center
+192,1973-06-03,"Greetings From Asbury Park, N.J.",New Haven,New Haven Veterans Memorial Coliseum
+193,1973-06-06,"Greetings From Asbury Park, N.J.",Philadelphia,Spectrum
+194,1973-06-07,"Greetings From Asbury Park, N.J.",Syracuse,Onondaga War Memorial Auditorium
+195,1973-06-08,"Greetings From Asbury Park, N.J.",Boston,Boston Garden
+196,1973-06-09,"Greetings From Asbury Park, N.J.",Boston,Boston Garden
+197,1973-06-10,"Greetings From Asbury Park, N.J.",Springfield,Springfield Civic Center
+198,1973-06-13,"Greetings From Asbury Park, N.J.",Binghamton,Broome County Veterans Memorial Arena
+199,1973-06-14,"Greetings From Asbury Park, N.J.",New York,Madison Square Garden
+200,1973-06-15,"Greetings From Asbury Park, N.J.",New York,Madison Square Garden
+201,1973-06-22,"Greetings From Asbury Park, N.J.",Seaside Heights,Fat City
+202,1973-06-23,"Greetings From Asbury Park, N.J.",Seaside Heights,Fat City
+203,1973-06-24,"Greetings From Asbury Park, N.J.",Seaside Heights,Fat City
+204,1973-07-05,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+205,1973-07-06,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+206,1973-07-07,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+207,1973-07-08,"Greetings From Asbury Park, N.J.",Bryn Mawr,The Main Point
+208,1973-07-18,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+209,1973-07-19,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+210,1973-07-20,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+211,1973-07-21,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+212,1973-07-22,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+213,1973-07-23,"Greetings From Asbury Park, N.J.",New York,Max's Kansas City
+214,1973-07-27,"Greetings From Asbury Park, N.J.",San Francisco,Fairmont Hotel
+215,1973-07-27,"Greetings From Asbury Park, N.J.",Los Angeles,Ahmanson Theater
+216,1973-07-31,"Greetings From Asbury Park, N.J.",Roslyn,My Father’s Place
+217,1973-08-01,"Greetings From Asbury Park, N.J.",Roslyn,My Father’s Place
+218,1973-08-02,"Greetings From Asbury Park, N.J.",Roslyn,My Father’s Place
+219,1973-08-14,"Greetings From Asbury Park, N.J.",Cherry Hill,Erlton Lounge
+220,1973-08-20,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+221,1973-08-21,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+222,1973-08-22,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+223,1973-08-23,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+224,1973-08-24,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+225,1973-08-25,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+226,1973-08-26,"Greetings From Asbury Park, N.J.",Boston,Oliver's
+227,1973-08-31,"Greetings From Asbury Park, N.J.",Seaside Heights,Fat City
+228,1973-09-01,"Greetings From Asbury Park, N.J.",Seaside Heights,Fat City
+229,1973-09-02,"Greetings From Asbury Park, N.J.",Seaside Heights,Fat City
+230,1973-09-08,"Greetings From Asbury Park, N.J.",Pittsburgh,Schenley Plaza
+231,1973-09-28,"The Wild, The Innocent & The E Street Shuffle",Hampden Sydney,Hampden-Sydney College
+232,1973-09-29,"The Wild, The Innocent & The E Street Shuffle",Waynesburg,Waynesburg College
+233,1973-09-30,"The Wild, The Innocent & The E Street Shuffle",New York,New York University
+234,1973-10-06,"The Wild, The Innocent & The E Street Shuffle",Villanova,Jake Nevin Field House
+235,1973-10-09,"The Wild, The Innocent & The E Street Shuffle",Philadelphia,Grendel's Lair
+236,1973-10-10,"The Wild, The Innocent & The E Street Shuffle",Philadelphia,Grendel's Lair
+237,1973-10-15,"The Wild, The Innocent & The E Street Shuffle",Boston,Oliver's
+238,1973-10-16,"The Wild, The Innocent & The E Street Shuffle",Boston,Oliver's
+239,1973-10-17,"The Wild, The Innocent & The E Street Shuffle",Boston,Oliver's
+240,1973-10-18,"The Wild, The Innocent & The E Street Shuffle",Boston,Oliver's
+241,1973-10-19,"The Wild, The Innocent & The E Street Shuffle",Boston,Oliver's
+242,1973-10-20,"The Wild, The Innocent & The E Street Shuffle",Rindge,Franklin Pierce College
+243,1973-10-26,"The Wild, The Innocent & The E Street Shuffle",Geneva,Geneva Theatre
+244,1973-10-29,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+245,1973-10-30,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+246,1973-10-31,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+247,1973-11-03,"The Wild, The Innocent & The E Street Shuffle",Houlton,Ricker College
+248,1973-11-06,"The Wild, The Innocent & The E Street Shuffle",New York,Max's Kansas City
+249,1973-11-07,"The Wild, The Innocent & The E Street Shuffle",New York,Max's Kansas City
+250,1973-11-08,"The Wild, The Innocent & The E Street Shuffle",New York,Max's Kansas City
+251,1973-11-09,"The Wild, The Innocent & The E Street Shuffle",New York,Max's Kansas City
+252,1973-11-10,"The Wild, The Innocent & The E Street Shuffle",New York,Max's Kansas City
+253,1973-11-11,"The Wild, The Innocent & The E Street Shuffle",Ewing,Trenton State College
+254,1973-11-14,"The Wild, The Innocent & The E Street Shuffle",Roslyn,My Father’s Place
+255,1973-11-15,"The Wild, The Innocent & The E Street Shuffle",Roslyn,My Father’s Place
+256,1973-11-16,"The Wild, The Innocent & The E Street Shuffle",Roslyn,My Father’s Place
+257,1973-11-25,"The Wild, The Innocent & The E Street Shuffle",Amherst,Curry Hicks Cage
+258,1973-12-01,"The Wild, The Innocent & The E Street Shuffle",Hamden,Quinnipiac College
+259,1973-12-06,"The Wild, The Innocent & The E Street Shuffle",Washington,Childe Harold
+260,1973-12-07,"The Wild, The Innocent & The E Street Shuffle",Washington,Childe Harold
+261,1973-12-08,"The Wild, The Innocent & The E Street Shuffle",Washington,Childe Harold
+262,1973-12-14,"The Wild, The Innocent & The E Street Shuffle",Shelton,Pinecrest Country Club
+263,1973-12-15,"The Wild, The Innocent & The E Street Shuffle",Garden City,Nassau Community College
+264,1973-12-17,"The Wild, The Innocent & The E Street Shuffle",Asbury Park,Student Prince
+265,1973-12-18,"The Wild, The Innocent & The E Street Shuffle",Asbury Park,Student Prince
+266,1973-12-19,"The Wild, The Innocent & The E Street Shuffle",Asbury Park,Student Prince
+267,1973-12-20,"The Wild, The Innocent & The E Street Shuffle",Bristol,Roger Williams College
+268,1973-12-21,"The Wild, The Innocent & The E Street Shuffle",Beverly,Sandy's
+269,1973-12-22,"The Wild, The Innocent & The E Street Shuffle",Cherry Hill,Erlton Lounge
+270,1973-12-23,"The Wild, The Innocent & The E Street Shuffle",Cassville,Rova Farms
+271,1973-12-27,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+272,1973-12-28,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+273,1973-12-29,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+274,1973-12-30,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+275,1974-01-04,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Joe's Place
+276,1974-01-05,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Joe's Place
+277,1974-01-06,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Joe's Place
+278,1974-01-12,"The Wild, The Innocent & The E Street Shuffle",Parsippany,The Joint in the Woods
+279,1974-01-19,"The Wild, The Innocent & The E Street Shuffle",Kent,Student Center Ballroom
+280,1974-01-25,"The Wild, The Innocent & The E Street Shuffle",Richmond,The Mosque
+281,1974-01-26,"The Wild, The Innocent & The E Street Shuffle",Norfolk,Chrysler Hall
+282,1974-01-29,"The Wild, The Innocent & The E Street Shuffle",Nashville,Muther’s Music Emporium
+283,1974-01-30,"The Wild, The Innocent & The E Street Shuffle",Nashville,Muther’s Music Emporium
+284,1974-02-01,"The Wild, The Innocent & The E Street Shuffle",Cleveland,Allen Theatre
+285,1974-02-02,"The Wild, The Innocent & The E Street Shuffle",Springfield,Springfield College
+286,1974-02-07,"The Wild, The Innocent & The E Street Shuffle",Atlanta,Richards Club
+287,1974-02-08,"The Wild, The Innocent & The E Street Shuffle",Atlanta,Richards Club
+288,1974-02-09,"The Wild, The Innocent & The E Street Shuffle",Atlanta,Richards Club
+289,1974-02-12,"The Wild, The Innocent & The E Street Shuffle",Lexington,University of Kentucky Student Ballroom
+290,1974-02-23,"The Wild, The Innocent & The E Street Shuffle",Cookstown,Satellite Lounge
+291,1974-02-24,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+292,1974-02-25,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+293,1974-02-26,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+294,1974-02-27,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+295,1974-03-03,"The Wild, The Innocent & The E Street Shuffle",Washington,Georgetown University - Gaston Hall
+296,1974-03-07,"The Wild, The Innocent & The E Street Shuffle",Houston,Liberty Hall
+297,1974-03-08,"The Wild, The Innocent & The E Street Shuffle",Houston,Liberty Hall
+298,1974-03-09,"The Wild, The Innocent & The E Street Shuffle",Houston,Liberty Hall
+299,1974-03-10,"The Wild, The Innocent & The E Street Shuffle",Houston,Liberty Hall
+300,1974-03-15,"The Wild, The Innocent & The E Street Shuffle",Austin,Armadillo World Headquarters
+301,1974-03-16,"The Wild, The Innocent & The E Street Shuffle",Austin,Armadillo World Headquarters
+302,1974-03-18,"The Wild, The Innocent & The E Street Shuffle",Dallas,Gertie's
+303,1974-03-19,"The Wild, The Innocent & The E Street Shuffle",Dallas,Gertie's
+304,1974-03-20,"The Wild, The Innocent & The E Street Shuffle",Dallas,Gertie's
+305,1974-03-21,"The Wild, The Innocent & The E Street Shuffle",Dallas,Gertie's
+306,1974-03-24,"The Wild, The Innocent & The E Street Shuffle",Phoenix,Celebrity Theatre
+307,1974-04-05,"The Wild, The Innocent & The E Street Shuffle",Chester,Schwartz Field House
+308,1974-04-06,"The Wild, The Innocent & The E Street Shuffle",Pemberton,Burlington County College
+309,1974-04-07,"The Wild, The Innocent & The E Street Shuffle",South Orange,Seton Hall University
+310,1974-04-09,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Charlie's Place
+311,1974-04-09,1974,Boston,WBCN-FM Studios
+312,1974-04-10,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Charlie's Place
+313,1974-04-11,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Charlie's Place
+314,1974-04-12,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Charlie's Place
+315,1974-04-13,"The Wild, The Innocent & The E Street Shuffle",Parsippany,The Joint in the Woods
+316,1974-04-18,"The Wild, The Innocent & The E Street Shuffle",West Long Branch,Monmouth College
+317,1974-04-19,"The Wild, The Innocent & The E Street Shuffle",New Brunswick,State Theatre
+318,1974-04-20,"The Wild, The Innocent & The E Street Shuffle",Collegeville,Ursinus College
+319,1974-04-26,"The Wild, The Innocent & The E Street Shuffle",Providence,"Alumnae Hall, Brown University"
+320,1974-04-27,"The Wild, The Innocent & The E Street Shuffle",Storrs,University of Connecticut
+321,1974-04-27,"The Wild, The Innocent & The E Street Shuffle",West Hartford,University of Hartford
+322,1974-04-28,"The Wild, The Innocent & The E Street Shuffle",Swarthmore,Swarthmore College
+323,1974-04-29,"The Wild, The Innocent & The E Street Shuffle",Northampton,Roxy Theatre
+324,1974-05-04,"The Wild, The Innocent & The E Street Shuffle",Montclair,Montclair State College
+325,1974-05-06,"The Wild, The Innocent & The E Street Shuffle",Newtown,Bucks County Community College
+326,1974-05-09,"The Wild, The Innocent & The E Street Shuffle",Cambridge,Harvard Square Theatre
+327,1974-05-11,"The Wild, The Innocent & The E Street Shuffle",Hackensack,Rothman Center
+328,1974-05-24,"The Wild, The Innocent & The E Street Shuffle",Trenton,Trenton War Memorial
+329,1974-05-28,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+330,1974-05-29,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+331,1974-06-01,"The Wild, The Innocent & The E Street Shuffle",Kent,Memorial Gymnasium
+332,1974-06-02,"The Wild, The Innocent & The E Street Shuffle",Toledo,Agora
+333,1974-06-03,"The Wild, The Innocent & The E Street Shuffle",Cleveland,Agora
+334,1974-06-21,"The Wild, The Innocent & The E Street Shuffle",Beach Haven,Le Garage
+335,1974-06-22,"The Wild, The Innocent & The E Street Shuffle",Beach Haven,Le Garage
+336,1974-06-23,"The Wild, The Innocent & The E Street Shuffle",Beach Haven,Le Garage
+337,1974-07-12,"The Wild, The Innocent & The E Street Shuffle",New York,The Bottom Line
+338,1974-07-13,"The Wild, The Innocent & The E Street Shuffle",New York,The Bottom Line
+339,1974-07-14,"The Wild, The Innocent & The E Street Shuffle",New York,The Bottom Line
+340,1974-07-17,"The Wild, The Innocent & The E Street Shuffle",Beach Haven,Le Garage
+341,1974-07-18,"The Wild, The Innocent & The E Street Shuffle",Beach Haven,Le Garage
+342,1974-07-25,"The Wild, The Innocent & The E Street Shuffle",Santa Monica,Santa Monica Civic Auditorium
+343,1974-07-27,"The Wild, The Innocent & The E Street Shuffle",Phoenix,Celebrity Theatre
+344,1974-07-28,"The Wild, The Innocent & The E Street Shuffle",Tucson,Tucson Convention Center
+345,1974-07-30,"The Wild, The Innocent & The E Street Shuffle",West Hollywood,Troubadour
+346,1974-08-03,"The Wild, The Innocent & The E Street Shuffle",New York,Wollman Skating Rink
+347,1974-08-13,"The Wild, The Innocent & The E Street Shuffle",Newark,Stone Balloon
+348,1974-08-14,"The Wild, The Innocent & The E Street Shuffle",Red Bank,Jamian's
+349,1974-09-19,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+350,1974-09-20,"The Wild, The Innocent & The E Street Shuffle",Upper Darby,Tower Theatre
+351,1974-09-21,"The Wild, The Innocent & The E Street Shuffle",Oneonta,Hunt Union Ballroom
+352,1974-09-22,"The Wild, The Innocent & The E Street Shuffle",Union,Kean College of New Jersey
+353,1974-10-04,"The Wild, The Innocent & The E Street Shuffle",New York,Avery Fisher Hall at Lincoln Center
+354,1974-10-05,"The Wild, The Innocent & The E Street Shuffle",Reading,Albright College
+355,1974-10-06,"The Wild, The Innocent & The E Street Shuffle",Worcester,Clark University
+356,1974-10-11,"The Wild, The Innocent & The E Street Shuffle",Gaithersburg,Shady Grove Music Fair
+357,1974-10-12,"The Wild, The Innocent & The E Street Shuffle",Princeton,Alexander Hall
+358,1974-10-18,"The Wild, The Innocent & The E Street Shuffle",Passaic,Capitol Theatre
+359,1974-10-19,"The Wild, The Innocent & The E Street Shuffle",Schenectady,Union College
+360,1974-10-20,"The Wild, The Innocent & The E Street Shuffle",Carlisle,Dickinson College
+361,1974-10-25,"The Wild, The Innocent & The E Street Shuffle",Hanover,Dartmouth College
+362,1974-10-26,"The Wild, The Innocent & The E Street Shuffle",Springfield,Julia Sanderson Theatre
+363,1974-10-29,"The Wild, The Innocent & The E Street Shuffle",Boston,The Music Hall
+364,1974-11-01,"The Wild, The Innocent & The E Street Shuffle",Upper Darby,Tower Theatre
+365,1974-11-02,"The Wild, The Innocent & The E Street Shuffle",Upper Darby,Tower Theatre
+366,1974-11-06,"The Wild, The Innocent & The E Street Shuffle",Austin,Armadillo World Headquarters
+367,1974-11-07,"The Wild, The Innocent & The E Street Shuffle",Austin,Armadillo World Headquarters
+368,1974-11-08,"The Wild, The Innocent & The E Street Shuffle",Corpus Christi,Ritz Music Hall
+369,1974-11-09,"The Wild, The Innocent & The E Street Shuffle",Houston,Houston Music Hall
+370,1974-11-15,"The Wild, The Innocent & The E Street Shuffle",Easton,Allan Kirby Field House
+371,1974-11-16,"The Wild, The Innocent & The E Street Shuffle",Washington,American University
+372,1974-11-17,"The Wild, The Innocent & The E Street Shuffle",Charlottesville,"Memorial Gymnasium, University of Virginia"
+373,1974-11-21,"The Wild, The Innocent & The E Street Shuffle",Blackwood,Camden County College
+374,1974-11-22,"The Wild, The Innocent & The E Street Shuffle",West Chester,Hollinger Field House
+375,1974-11-23,"The Wild, The Innocent & The E Street Shuffle",Salem,Salem State College
+376,1974-11-29,"The Wild, The Innocent & The E Street Shuffle",Trenton,Trenton War Memorial
+377,1974-11-30,"The Wild, The Innocent & The E Street Shuffle",Trenton,Trenton War Memorial
+378,1974-12-06,"The Wild, The Innocent & The E Street Shuffle",New Brunswick,State Theatre
+379,1974-12-07,"The Wild, The Innocent & The E Street Shuffle",Geneva,Geneva Theatre
+380,1974-12-08,"The Wild, The Innocent & The E Street Shuffle",Burlington,Memorial Auditorium
+381,1975-02-05,"The Wild, The Innocent & The E Street Shuffle",Bryn Mawr,The Main Point
+382,1975-02-06,"The Wild, The Innocent & The E Street Shuffle",Chester,Schwartz Field House
+383,1975-02-07,"The Wild, The Innocent & The E Street Shuffle",Chester,Schwartz Field House
+384,1975-02-18,"The Wild, The Innocent & The E Street Shuffle",University Heights,John Carroll Gymnasium
+385,1975-02-19,"The Wild, The Innocent & The E Street Shuffle",University Park,University Auditorium
+386,1975-02-20,"The Wild, The Innocent & The E Street Shuffle",Pittsburgh,Syria Mosque
+387,1975-02-23,"The Wild, The Innocent & The E Street Shuffle",Westbury,Westbury Music Fair
+388,1975-03-07,"The Wild, The Innocent & The E Street Shuffle",Owings Mills,Painters Mill Music Fair
+389,1975-03-08,"The Wild, The Innocent & The E Street Shuffle",Washington,D.A.R. Constitution Hall
+390,1975-03-09,"The Wild, The Innocent & The E Street Shuffle",Washington,D.A.R. Constitution Hall
+391,1975-03-25,"The Wild, The Innocent & The E Street Shuffle",Columbia,Township Auditorium
+392,1975-05-30,1975,Asbury Park,The Stone Pony
+393,1975-07-20,Born to Run,Providence,Palace Concert Theater
+394,1975-07-22,Born to Run,Geneva,Geneva Theatre
+395,1975-07-23,Born to Run,Stockbridge,Music Inn
+396,1975-07-25,Born to Run,Kutztown,Schaeffer Auditorium
+397,1975-07-26,Born to Run,Kutztown,Schaeffer Auditorium
+398,1975-07-28,Born to Run,Washington,Carter Barron Amphitheater
+399,1975-07-29,Born to Run,Washington,Carter Barron Amphitheater
+400,1975-07-30,Born to Run,Washington,Carter Barron Amphitheater
+401,1975-08-01,Born to Run,Richmond,The Mosque
+402,1975-08-02,Born to Run,Norfolk,Chrysler Hall
+403,1975-08-08,Born to Run,Akron,Akron Civic Theatre
+404,1975-08-09,Born to Run,Pittsburgh,Syria Mosque
+405,1975-08-10,Born to Run,Cleveland,Allen Theatre
+406,1975-08-13,Born to Run,New York,The Bottom Line
+407,1975-08-14,Born to Run,New York,The Bottom Line
+408,1975-08-15,Born to Run,New York,The Bottom Line
+409,1975-08-16,Born to Run,New York,The Bottom Line
+410,1975-08-17,Born to Run,New York,The Bottom Line
+411,1975-08-21,Born to Run,Atlanta,Electric Ballroom
+412,1975-08-22,Born to Run,Atlanta,Electric Ballroom
+413,1975-08-23,Born to Run,Atlanta,Electric Ballroom
+414,1975-09-04,Born to Run,Bryn Mawr,The Main Point
+415,1975-09-06,Born to Run,New Orleans,New Orleans Theatre of the Performing Arts
+416,1975-09-07,Born to Run,New Orleans,Ya Ya Lounge
+417,1975-09-12,Born to Run,Austin,Municipal Auditorium
+418,1975-09-13,Born to Run,Houston,Houston Music Hall
+419,1975-09-14,Born to Run,Houston,Houston Music Hall
+420,1975-09-16,Born to Run,Dallas,Dallas Convention Center
+421,1975-09-17,Born to Run,Oklahoma City,Civic Center Music Hall
+422,1975-09-20,Born to Run,Grinnell,Darby Gymnasium
+423,1975-09-21,Born to Run,Minneapolis,Guthrie Theater
+424,1975-09-23,Born to Run,Ann Arbor,Hill Auditorium
+425,1975-09-25,Born to Run,Chicago,Auditorium Theatre
+426,1975-09-26,Born to Run,Iowa City,Hancher Auditorium
+427,1975-09-27,Born to Run,St. Louis,Ambassador Theatre
+428,1975-09-28,Born to Run,Kansas City,Memorial Hall
+429,1975-09-30,Born to Run,Omaha,Music Hall
+430,1975-10-02,Born to Run,Milwaukee,Uptown Theatre
+431,1975-10-03,Born to Run,Indianapolis,Rivoli Theatre
+432,1975-10-04,Born to Run,Detroit,Michigan Palace
+433,1975-10-11,Born to Run,Red Bank,Monmouth Arts Center
+434,1975-10-16,Born to Run,West Hollywood,The Roxy
+435,1975-10-17,Born to Run,West Hollywood,The Roxy
+436,1975-10-18,Born to Run,West Hollywood,The Roxy
+437,1975-10-19,Born to Run,West Hollywood,The Roxy
+438,1975-10-25,Born to Run,Portland,Paramount Theatre
+439,1975-10-26,Born to Run,Seattle,Paramount Theatre
+440,1975-10-29,Born to Run,Sacramento,Sacramento Memorial Auditorium
+441,1975-10-31,Born to Run,Oakland,Paramount Theatre
+442,1975-11-01,Born to Run,University of California Santa Barbara Campus,Robertson Gymnasium
+443,1975-11-03,Born to Run,Tempe,Gammage Auditorium
+444,1975-11-04,Born to Run,Tempe,Gammage Auditorium
+445,1975-11-06,Born to Run,Tempe,Gammage Auditorium
+446,1975-11-09,Born to Run,Tampa,Tampa Jai Alai Fronton
+447,1975-11-10,Born to Run,Tampa,Tampa Jai Alai Fronton
+448,1975-11-11,Born to Run,Miami,Miami Jai-Alai Fronton
+449,1975-11-18,Born to Run,London,Hammersmith Odeon
+450,1975-11-21,Born to Run,Stockholm,Konserthuset
+451,1975-11-23,Born to Run,Amsterdam,RAI
+452,1975-11-24,Born to Run,London,Hammersmith Odeon
+453,1975-12-02,Born to Run,Boston,The Music Hall
+454,1975-12-03,Born to Run,Boston,The Music Hall
+455,1975-12-05,Born to Run,Washington,"McDonough Memorial Gymnasium, Georgetown University"
+456,1975-12-06,Born to Run,Washington,"McDonough Memorial Gymnasium, Georgetown University"
+457,1975-12-07,Born to Run,Washington,"McDonough Memorial Gymnasium, Georgetown University"
+458,1975-12-10,Born to Run,Lewisburg,Bucknell University
+459,1975-12-11,Born to Run,South Orange,Walsh Gymnasium
+460,1975-12-12,Born to Run,Brookville,"Dome Auditorium, C.W. Post College"
+461,1975-12-16,Born to Run,Oswego,Laker Hall Gym
+462,1975-12-17,Born to Run,Buffalo,Kleinhans Music Hall
+463,1975-12-19,Born to Run,Montreal,Théâtre Maisonneuve
+464,1975-12-20,Born to Run,Ottawa,"Southam Hall, National Arts Centre"
+465,1975-12-21,Born to Run,North York,Seneca College Field House
+466,1975-12-27,Born to Run,Upper Darby,Tower Theatre
+467,1975-12-28,Born to Run,Upper Darby,Tower Theatre
+468,1975-12-30,Born to Run,Upper Darby,Tower Theatre
+469,1975-12-31,Born to Run,Upper Darby,Tower Theatre
+470,1976-03-21,1976,Asbury Park,The Stone Pony
+471,1976-03-25,Chicken Scratch Tour,Columbia,Township Auditorium
+472,1976-03-26,Chicken Scratch Tour,Atlanta,Fox Theatre
+473,1976-03-28,Chicken Scratch Tour,Durham,Cameron Indoor Stadium
+474,1976-03-29,Chicken Scratch Tour,Charlotte,Ovens Auditorium
+475,1976-04-01,Chicken Scratch Tour,Athens,Templeton-Blackburn Alumni Memorial Auditorium
+476,1976-04-02,Chicken Scratch Tour,Louisville,The Macauley Theater
+477,1976-04-04,Chicken Scratch Tour,East Lansing,MSU Auditorium
+478,1976-04-05,Chicken Scratch Tour,Columbus,Ohio Theatre
+479,1976-04-07,Chicken Scratch Tour,Cleveland,Allen Theatre
+480,1976-04-08,Chicken Scratch Tour,Cleveland,Allen Theatre
+481,1976-04-09,Chicken Scratch Tour,Hamilton,Reid Athletic Center
+482,1976-04-10,Chicken Scratch Tour,Wallingford,Paul Mellon Arts Center at Choate Rosemary Hall
+483,1976-04-12,Chicken Scratch Tour,Johnstown,Cambria County War Memorial Arena
+484,1976-04-13,Chicken Scratch Tour,University Park,"Recreation Building, Penn State University"
+485,1976-04-15,Chicken Scratch Tour,Pittsburgh,Syria Mosque
+486,1976-04-16,Chicken Scratch Tour,Meadville,Allegheny College
+487,1976-04-17,Chicken Scratch Tour,Rochester,University of Rochester
+488,1976-04-20,Chicken Scratch Tour,Johnson City,Freedom Hall Civic Center
+489,1976-04-21,Chicken Scratch Tour,Knoxville,Knoxville Civic Coliseum
+490,1976-04-22,Chicken Scratch Tour,Blacksburg,Burruss Hall Auditorium
+491,1976-04-24,Chicken Scratch Tour,Boone,Varsity Gymnasium
+492,1976-04-26,Chicken Scratch Tour,Chattanooga,Soldiers and Sailors Memorial Auditorium
+493,1976-04-28,Chicken Scratch Tour,Nashville,Grand Ole Opry House
+494,1976-04-29,Chicken Scratch Tour,Memphis,Ellis Memorial Auditorium
+495,1976-04-30,Chicken Scratch Tour,Birmingham,Municipal Auditorium
+496,1976-05-03,Chicken Scratch Tour,Little Rock,Robinson Center Music Hall
+497,1976-05-04,Chicken Scratch Tour,Jackson,Mississippi Coliseum
+498,1976-05-06,Chicken Scratch Tour,Shreveport,Shreveport Municipal Auditorium
+499,1976-05-08,Chicken Scratch Tour,Baton Rouge,LSU Assembly Center
+500,1976-05-09,Chicken Scratch Tour,Mobile,Municipal Auditorium
+501,1976-05-10,Chicken Scratch Tour,Mobile,Municipal Auditorium
+502,1976-05-11,Chicken Scratch Tour,Auburn,Memorial Coliseum
+503,1976-05-13,Chicken Scratch Tour,New Orleans,Municipal Auditorium
+504,1976-05-27,Chicken Scratch Tour,West Point,Eisenhower Hall Theatre
+505,1976-05-28,Chicken Scratch Tour,Annapolis,United States Naval Academy
+506,1976-07-04,Born to Run,Asbury Park,The Stone Pony
+507,1976-07-22,1976,Los Angeles,CBS Television City
+508,1976-08-01,1976,Red Bank,Monmouth Arts Center
+509,1976-08-02,1976,Red Bank,Monmouth Arts Center
+510,1976-08-03,1976,Red Bank,Monmouth Arts Center
+511,1976-08-05,1976,Red Bank,Monmouth Arts Center
+512,1976-08-06,1976,Red Bank,Monmouth Arts Center
+513,1976-08-07,1976,Red Bank,Monmouth Arts Center
+514,1976-08-21,1976,Waterbury,Palace Theater
+515,1976-08-22,1976,Springfield,Springfield Civic Center
+516,1976-09-04,1976,Asbury Park,The Stone Pony
+517,1976-09-26,Lawsuit Tour,Phoenix,Arizona Veterans Memorial Coliseum
+518,1976-09-29,Lawsuit Tour,Santa Monica,Santa Monica Civic Auditorium
+519,1976-09-30,Lawsuit Tour,Santa Monica,Santa Monica Civic Auditorium
+520,1976-10-02,Lawsuit Tour,Oakland,Paramount Theatre
+521,1976-10-03,Lawsuit Tour,Santa Clara,Harold J. Toso Pavilion
+522,1976-10-05,Lawsuit Tour,Santa Barbara,Santa Barbara Bowl
+523,1976-10-09,Lawsuit Tour,Notre Dame,Athletics and Convocation Center
+524,1976-10-10,Lawsuit Tour,Oxford,Millett Hall
+525,1976-10-12,Lawsuit Tour,New Brunswick,College Avenue Gymnasium
+526,1976-10-13,Lawsuit Tour,Union,Wilkins Theatre
+527,1976-10-16,Lawsuit Tour,Williamsburg,William & Mary Hall
+528,1976-10-17,Lawsuit Tour,Washington,"McDonough Memorial Gymnasium, Georgetown University"
+529,1976-10-18,Lawsuit Tour,Washington,"McDonough Memorial Gymnasium, Georgetown University"
+530,1976-10-22,Lawsuit Tour,Hazlet,Raritan High School
+531,1976-10-25,Lawsuit Tour,Philadelphia,Spectrum
+532,1976-10-27,Lawsuit Tour,Philadelphia,Spectrum
+533,1976-10-28,Lawsuit Tour,New York,The Palladium
+534,1976-10-29,Lawsuit Tour,New York,The Palladium
+535,1976-10-30,Lawsuit Tour,New York,The Palladium
+536,1976-11-02,Lawsuit Tour,New York,The Palladium
+537,1976-11-03,Lawsuit Tour,New York,The Palladium
+538,1976-11-04,Lawsuit Tour,New York,The Palladium
+539,1977-02-07,Lawsuit Tour,Albany,Palace Theatre
+540,1977-02-08,Lawsuit Tour,Rochester,Auditorium Theatre
+541,1977-02-09,Lawsuit Tour,Buffalo,Kleinhans Music Hall
+542,1977-02-10,Lawsuit Tour,Utica,Utica Memorial Auditorium
+543,1977-02-12,Lawsuit Tour,Ottawa,Ottawa Civic Centre
+544,1977-02-13,Lawsuit Tour,Toronto,Maple Leaf Gardens
+545,1977-02-15,Lawsuit Tour,Detroit,Masonic Temple Theatre
+546,1977-02-16,Lawsuit Tour,Columbus,Veterans Memorial Auditorium
+547,1977-02-17,Lawsuit Tour,Richfield,Richfield Coliseum
+548,1977-02-19,Lawsuit Tour,St. Paul,St. Paul Civic Center
+549,1977-02-19,Lawsuit Tour,St. Paul,Civic Center Theatre
+550,1977-02-20,Lawsuit Tour,Madison,Dane County Coliseum
+551,1977-02-22,Lawsuit Tour,Milwaukee,Milwaukee Auditorium
+552,1977-02-23,Lawsuit Tour,Chicago,Auditorium Theatre
+553,1977-02-25,Lawsuit Tour,West Lafayette,Elliott Hall of Music
+554,1977-02-26,Lawsuit Tour,Indianapolis,Indiana Convention Center
+555,1977-02-27,Lawsuit Tour,Cincinnati,Riverfront Coliseum
+556,1977-02-28,Lawsuit Tour,St. Louis,The Fabulous Fox Theatre
+557,1977-03-02,Lawsuit Tour,Atlanta,Atlanta Civic Center
+558,1977-03-04,Lawsuit Tour,Jacksonville,Civic Auditorium
+559,1977-03-05,Lawsuit Tour,Fern Park,Orlando Jai Alai Fronton
+560,1977-03-06,Lawsuit Tour,Miami,Miami Jai-Alai Fronton
+561,1977-03-10,Lawsuit Tour,Toledo,Toledo Sports Arena
+562,1977-03-11,Lawsuit Tour,Latrobe,Kennedy Hall
+563,1977-03-13,Lawsuit Tour,Towson,Towson Center Arena
+564,1977-03-14,Lawsuit Tour,Poughkeepsie,Mid-Hudson Civic Center
+565,1977-03-15,Lawsuit Tour,Binghamton,Broome County Veterans Memorial Arena
+566,1977-03-18,Lawsuit Tour,New Haven,New Haven Veterans Memorial Coliseum
+567,1977-03-19,Lawsuit Tour,Lewiston,Central Maine Youth Center
+568,1977-03-20,Lawsuit Tour,Providence,"Alumni Hall, Providence College"
+569,1977-03-22,Lawsuit Tour,Boston,The Music Hall
+570,1977-03-23,Lawsuit Tour,Boston,The Music Hall
+571,1977-03-24,Lawsuit Tour,Boston,The Music Hall
+572,1977-03-25,Lawsuit Tour,Boston,The Music Hall
+573,1977-05-12,1977,Red Bank,Monmouth Arts Center
+574,1977-05-13,1977,Red Bank,Monmouth Arts Center
+575,1977-12-31,1977,Passaic,Capitol Theatre
+576,1978-05-23,Darkness,Buffalo,Shea's Buffalo Theater
+577,1978-05-24,Darkness,Albany,Palace Theatre
+578,1978-05-26,Darkness,Philadelphia,Spectrum
+579,1978-05-27,Darkness,Philadelphia,Spectrum
+580,1978-05-29,Darkness,Boston,The Music Hall
+581,1978-05-30,Darkness,Boston,The Music Hall
+582,1978-05-31,Darkness,Boston,The Music Hall
+583,1978-06-02,Darkness,Annapolis,United States Naval Academy
+584,1978-06-03,Darkness,Uniondale,Nassau Veterans Memorial Coliseum
+585,1978-06-05,Darkness,Toledo,Toledo Sports Arena
+586,1978-06-06,Darkness,Indianapolis,Indiana Convention Center
+587,1978-06-08,Darkness,Madison,Dane County Coliseum
+588,1978-06-09,Darkness,Milwaukee,Milwaukee Arena
+589,1978-06-10,Darkness,Bloomington,Metropolitan Sports Center
+590,1978-06-13,Darkness,Iowa City,Hancher Auditorium
+591,1978-06-14,Darkness,Omaha,Music Hall
+592,1978-06-16,Darkness,Kansas City,Memorial Hall
+593,1978-06-17,Darkness,St. Louis,Kiel Auditorium
+594,1978-06-20,Darkness,Morrison,Red Rocks Amphitheatre
+595,1978-06-24,Darkness,Portland,Paramount Theatre
+596,1978-06-25,Darkness,Seattle,Paramount Theatre
+597,1978-06-26,Darkness,Vancouver,Queen Elizabeth Theatre
+598,1978-06-29,Darkness,San Jose,Center for the Performing Arts
+599,1978-06-30,Darkness,Berkeley,Berkeley Community Theatre
+600,1978-07-01,Darkness,Berkeley,Berkeley Community Theatre
+601,1978-07-05,Darkness,Inglewood,The Forum
+602,1978-07-07,Darkness,West Hollywood,The Roxy
+603,1978-07-08,Darkness,Phoenix,Arizona Veterans Memorial Coliseum
+604,1978-07-09,Darkness,San Diego,San Diego Sports Arena
+605,1978-07-12,Darkness,Dallas,Dallas Convention Center Theatre
+606,1978-07-14,Darkness,San Antonio,Municipal Auditorium
+607,1978-07-15,Darkness,Houston,Sam Houston Coliseum
+608,1978-07-16,Darkness,New Orleans,Municipal Auditorium
+609,1978-07-18,Darkness,Jackson,Municipal Auditorium
+610,1978-07-19,Darkness,Memphis,Ellis Memorial Auditorium
+611,1978-07-21,Darkness,Nashville,Nashville Municipal Auditorium
+612,1978-07-22,Darkness,Birmingham,Birmingham-Jefferson Civic Center Coliseum
+613,1978-07-28,Darkness,Miami,Miami Jai-Alai Fronton
+614,1978-07-29,Darkness,St. Petersburg,Bayfront Center
+615,1978-07-31,Darkness,Columbia,Township Auditorium
+616,1978-08-01,Darkness,Charleston,Gaillard Municipal Auditorium
+617,1978-08-02,Darkness,Charlotte,Charlotte Coliseum
+618,1978-08-04,Darkness,Charleston,Charleston Civic Center
+619,1978-08-05,Darkness,Louisville,Louisville Gardens
+620,1978-08-07,Darkness,Kalamazoo,Wings Stadium
+621,1978-08-09,Darkness,Cleveland,Agora
+622,1978-08-11,Darkness,Rochester,Rochester Community War Memorial
+623,1978-08-12,Darkness,Augusta,Augusta Civic Center
+624,1978-08-14,Darkness,Hampton,Hampton Coliseum
+625,1978-08-15,Darkness,Landover,Capital Centre
+626,1978-08-18,Darkness,Philadelphia,Spectrum
+627,1978-08-19,Darkness,Philadelphia,Spectrum
+628,1978-08-21,Darkness,New York,Madison Square Garden
+629,1978-08-22,Darkness,New York,Madison Square Garden
+630,1978-08-23,Darkness,New York,Madison Square Garden
+631,1978-08-25,Darkness,New Haven,New Haven Veterans Memorial Coliseum
+632,1978-08-26,Darkness,Providence,Providence Civic Center
+633,1978-08-28,Darkness,Pittsburgh,Stanley Theatre
+634,1978-08-29,Darkness,Pittsburgh,Stanley Theatre
+635,1978-08-30,Darkness,Richfield,Richfield Coliseum
+636,1978-09-01,Darkness,Detroit,Masonic Temple Theatre
+637,1978-09-03,Darkness,Saginaw,Saginaw Civic Center
+638,1978-09-05,Darkness,Columbus,Veterans Memorial Auditorium
+639,1978-09-06,Darkness,Chicago,Uptown Theater
+640,1978-09-09,Darkness,Notre Dame,Athletics and Convocation Center
+641,1978-09-10,Darkness,Cincinnati,Riverfront Coliseum
+642,1978-09-12,Darkness,Syracuse,Onondaga War Memorial Auditorium
+643,1978-09-13,Darkness,Springfield,Springfield Civic Center
+644,1978-09-15,Darkness,New York,The Palladium
+645,1978-09-16,Darkness,New York,The Palladium
+646,1978-09-17,Darkness,New York,The Palladium
+647,1978-09-19,Darkness,Passaic,Capitol Theatre
+648,1978-09-20,Darkness,Passaic,Capitol Theatre
+649,1978-09-21,Darkness,Passaic,Capitol Theatre
+650,1978-09-25,Darkness,Boston,Boston Garden
+651,1978-09-29,Darkness,Birmingham,Boutwell Auditorium
+652,1978-09-30,Darkness,Atlanta,Fox Theatre
+653,1978-10-01,Darkness,Atlanta,Fox Theatre
+654,1978-11-01,Darkness,Princeton,Jadwin Gymnasium
+655,1978-11-02,Darkness,Landover,Capital Centre
+656,1978-11-04,Darkness,Burlington,Patrick Gymnasium
+657,1978-11-05,Darkness,Durham,UNH Fieldhouse
+658,1978-11-07,Darkness,Ithaca,"Barton Hall, Cornell University"
+659,1978-11-08,Darkness,Montreal,Forum de Montréal
+660,1978-11-10,Darkness,Saint Bonaventure,Reilly Center
+661,1978-11-12,Darkness,Troy,RPI Fieldhouse
+662,1978-11-14,Darkness,Utica,Utica Memorial Auditorium
+663,1978-11-16,Darkness,Toronto,Maple Leaf Gardens
+664,1978-11-17,Darkness,East Lansing,Munn Ice Arena
+665,1978-11-18,Darkness,Oxford,Millett Hall
+666,1978-11-20,Darkness,Champaign,Assembly Hall
+667,1978-11-21,Darkness,Evanston,McGaw Memorial Hall
+668,1978-11-25,Darkness,St. Louis,Kiel Opera House
+669,1978-11-27,Darkness,Milwaukee,Milwaukee Arena
+670,1978-11-28,Darkness,Madison,Dane County Coliseum
+671,1978-11-29,Darkness,St. Paul,St. Paul Civic Center
+672,1978-12-01,Darkness,Norman,Lloyd Noble Center
+673,1978-12-03,Darkness,Carbondale,SIU Arena
+674,1978-12-05,Darkness,Baton Rouge,LSU Assembly Center
+675,1978-12-07,Darkness,Austin,Special Events Center
+676,1978-12-08,Darkness,Houston,The Summit
+677,1978-12-09,Darkness,Dallas,Dallas Convention Center
+678,1978-12-13,Darkness,Tucson,Tucson Convention Center
+679,1978-12-15,Darkness,San Francisco,Winterland Arena
+680,1978-12-16,Darkness,San Francisco,Winterland Arena
+681,1978-12-19,Darkness,Portland,Paramount Theatre
+682,1978-12-20,Darkness,Seattle,Seattle Center Arena
+683,1978-12-27,Darkness,Pittsburgh,Stanley Theatre
+684,1978-12-28,Darkness,Pittsburgh,Stanley Theatre
+685,1978-12-30,Darkness,Detroit,Cobo Arena
+686,1978-12-31,Darkness,Richfield,Richfield Coliseum
+687,1979-01-01,Darkness,Richfield,Richfield Coliseum
+688,1979-01-11,1979,Fair Haven,Lock Stock And Barrel
+689,1979-04-13,1979,Asbury Park,Fast Lane
+690,1979-04-15,1979,Asbury Park,Fast Lane
+691,1979-06-03,1979,West Hollywood,Whisky A Go Go
+692,1979-09-21,1979,New York,Madison Square Garden
+693,1979-09-22,1979,New York,Madison Square Garden
+694,1979-10-05,1979,Asbury Park,Fast Lane
+695,1980-09-26,1980,Lititz,Clair Brothers Audio
+696,1980-09-27,1980,Lititz,Clair Brothers Audio
+697,1980-10-03,The River,Ann Arbor,Crisler Arena
+698,1980-10-04,The River,Cincinnati,Riverfront Coliseum
+699,1980-10-06,The River,Richfield,Richfield Coliseum
+700,1980-10-07,The River,Richfield,Richfield Coliseum
+701,1980-10-09,The River,Detroit,Cobo Arena
+702,1980-10-10,The River,Chicago,Uptown Theater
+703,1980-10-11,The River,Chicago,Uptown Theater
+704,1980-10-13,The River,St. Paul,St. Paul Civic Center
+705,1980-10-14,The River,Milwaukee,MECCA Arena
+706,1980-10-17,The River,St. Louis,Kiel Opera House
+707,1980-10-18,The River,St. Louis,Kiel Opera House
+708,1980-10-20,The River,Denver,McNichols Sports Arena
+709,1980-10-24,The River,Seattle,Seattle Center Coliseum
+710,1980-10-25,The River,Portland,Portland Memorial Coliseum
+711,1980-10-27,The River,Oakland,Oakland-Alameda County Coliseum Arena
+712,1980-10-28,The River,Oakland,Oakland-Alameda County Coliseum Arena
+713,1980-10-30,The River,Los Angeles,Los Angeles Sports Arena
+714,1980-10-31,The River,Los Angeles,Los Angeles Sports Arena
+715,1980-11-01,The River,Los Angeles,Los Angeles Sports Arena
+716,1980-11-03,The River,Los Angeles,Los Angeles Sports Arena
+717,1980-11-05,The River,Tempe,ASU Activity Center
+718,1980-11-08,The River,Dallas,Reunion Arena
+719,1980-11-09,The River,Austin,Frank Erwin Center
+720,1980-11-11,The River,Baton Rouge,LSU Assembly Center
+721,1980-11-14,The River,Houston,The Summit
+722,1980-11-15,The River,Houston,The Summit
+723,1980-11-20,The River,Rosemont,Rosemont Horizon
+724,1980-11-23,The River,Landover,Capital Centre
+725,1980-11-24,The River,Landover,Capital Centre
+726,1980-11-27,The River,New York,Madison Square Garden
+727,1980-11-28,The River,New York,Madison Square Garden
+728,1980-11-30,The River,Pittsburgh,Civic Arena
+729,1980-12-01,1980,Pittsburgh,Civic Arena
+730,1980-12-02,The River,Rochester,Rochester Community War Memorial
+731,1980-12-04,The River,Buffalo,Buffalo Memorial Auditorium
+732,1980-12-06,The River,Philadelphia,Spectrum
+733,1980-12-08,The River,Philadelphia,Spectrum
+734,1980-12-09,The River,Philadelphia,Spectrum
+735,1980-12-11,The River,Providence,Providence Civic Center
+736,1980-12-12,The River,Hartford,Hartford Civic Center
+737,1980-12-15,The River,Boston,Boston Garden
+738,1980-12-16,The River,Boston,Boston Garden
+739,1980-12-18,The River,New York,Madison Square Garden
+740,1980-12-19,The River,New York,Madison Square Garden
+741,1980-12-28,The River,Uniondale,Nassau Veterans Memorial Coliseum
+742,1980-12-29,The River,Uniondale,Nassau Veterans Memorial Coliseum
+743,1980-12-31,The River,Uniondale,Nassau Veterans Memorial Coliseum
+744,1981-01-20,The River,Toronto,Maple Leaf Gardens
+745,1981-01-21,The River,Toronto,Maple Leaf Gardens
+746,1981-01-23,The River,Montreal,Forum de Montréal
+747,1981-01-24,The River,Ottawa,Ottawa Civic Centre
+748,1981-01-26,The River,Notre Dame,Athletics and Convocation Center
+749,1981-01-28,The River,St. Louis,Checkerdome
+750,1981-01-29,The River,Ames,Hilton Coliseum
+751,1981-02-01,The River,St. Paul,St. Paul Civic Center
+752,1981-02-02,The River,Madison,Dane County Coliseum
+753,1981-02-04,The River,Carbondale,SIU Arena
+754,1981-02-05,The River,Kansas City,Kemper Arena
+755,1981-02-07,The River,Champaign,Assembly Hall
+756,1981-02-12,The River,Mobile,Municipal Auditorium
+757,1981-02-13,The River,Starkville,"Humphrey Coliseum, Mississippi State University"
+758,1981-02-15,The River,Lakeland,Lakeland Civic Center
+759,1981-02-16,The River,Lakeland,Lakeland Civic Center
+760,1981-02-18,The River,Jacksonville,Civic Auditorium
+761,1981-02-20,The River,Pembroke Pines,Hollywood Sportatorium
+762,1981-02-22,The River,Columbia,Carolina Coliseum
+763,1981-02-23,The River,Atlanta,The Omni
+764,1981-02-25,The River,Memphis,Mid-South Coliseum
+765,1981-02-26,The River,Nashville,Nashville Municipal Auditorium
+766,1981-02-28,The River,Greensboro,Greensboro Coliseum
+767,1981-03-02,The River,Hampton,Hampton Coliseum
+768,1981-03-04,The River,Lexington,Rupp Arena
+769,1981-03-05,The River,Indianapolis,Market Square Arena
+770,1981-03-19,The River,London,Wembley Arena
+771,1981-03-28,The River,Birmingham,Birmingham International Arena
+772,1981-04-07,The River,Hamburg,Congress Centrum CCH
+773,1981-04-09,The River,Berlin,ICC
+774,1981-04-11,The River,Zurich,Hallenstadion
+775,1981-04-14,The River,Frankfurt,Festhalle
+776,1981-04-16,The River,Munich,Olympiahalle
+777,1981-04-18,The River,L'Île-Saint-Denis,Centre sportif de l'Île de Vannes
+778,1981-04-19,The River,L'Île-Saint-Denis,Centre sportif de l'Île de Vannes
+779,1981-04-21,The River,Barcelona,Palau dels Esports
+780,1981-04-24,The River,Lyon,Palais des Sports
+781,1981-04-26,The River,Vorst / Forest,Vorst Nationaal / Forest National
+782,1981-04-28,The River,Rotterdam,Ahoy
+783,1981-04-29,The River,Rotterdam,Ahoy
+784,1981-05-02,The River,Copenhagen,Brøndby Hallen
+785,1981-05-03,The River,Gothenburg,Scandinavium
+786,1981-05-05,The River,Drammen,Drammenshallen
+787,1981-05-07,The River,Stockholm,Johanneshov Isstadion
+788,1981-05-08,The River,Stockholm,Johanneshov Isstadion
+789,1981-05-11,The River,Newcastle upon Tyne,Newcastle City Hall
+790,1981-05-13,The River,Manchester,Manchester Apollo
+791,1981-05-14,The River,Manchester,Manchester Apollo
+792,1981-05-16,The River,Edinburgh,Edinburgh Playhouse
+793,1981-05-17,The River,Edinburgh,Edinburgh Playhouse
+794,1981-05-20,The River,Stafford,Bingley Hall
+795,1981-05-26,The River,Brighton,Brighton Centre
+796,1981-05-27,The River,Brighton,Brighton Centre
+797,1981-05-29,The River,London,Wembley Arena
+798,1981-05-30,The River,London,Wembley Arena
+799,1981-06-01,The River,London,Wembley Arena
+800,1981-06-02,The River,London,Wembley Arena
+801,1981-06-04,The River,London,Wembley Arena
+802,1981-06-05,The River,London,Wembley Arena
+803,1981-06-07,The River,Birmingham,Birmingham International Arena
+804,1981-06-08,The River,Birmingham,Birmingham International Arena
+805,1981-06-14,The River,Los Angeles,Hollywood Bowl
+806,1981-07-02,The River,East Rutherford,Brendan Byrne Arena
+807,1981-07-03,The River,East Rutherford,Brendan Byrne Arena
+808,1981-07-05,The River,East Rutherford,Brendan Byrne Arena
+809,1981-07-06,The River,East Rutherford,Brendan Byrne Arena
+810,1981-07-08,The River,East Rutherford,Brendan Byrne Arena
+811,1981-07-09,The River,East Rutherford,Brendan Byrne Arena
+812,1981-07-11,The River,Red Bank,Big Man's West
+813,1981-07-13,The River,Philadelphia,Spectrum
+814,1981-07-15,The River,Philadelphia,Spectrum
+815,1981-07-16,The River,Philadelphia,Spectrum
+816,1981-07-18,The River,Philadelphia,Spectrum
+817,1981-07-19,The River,Philadelphia,Spectrum
+818,1981-07-24,The River,Rosemont,Rosemont Horizon
+819,1981-07-26,The River,Cincinnati,Riverfront Coliseum
+820,1981-07-29,The River,Richfield,Richfield Coliseum
+821,1981-07-30,The River,Richfield,Richfield Coliseum
+822,1981-08-04,The River,Landover,Capital Centre
+823,1981-08-05,The River,Landover,Capital Centre
+824,1981-08-07,The River,Landover,Capital Centre
+825,1981-08-11,The River,Detroit,Joe Louis Arena
+826,1981-08-12,The River,Detroit,Joe Louis Arena
+827,1981-08-16,The River,Morrison,Red Rocks Amphitheatre
+828,1981-08-17,The River,Morrison,Red Rocks Amphitheatre
+829,1981-08-20,The River,Los Angeles,Los Angeles Sports Arena
+830,1981-08-21,The River,Los Angeles,Los Angeles Sports Arena
+831,1981-08-23,The River,Los Angeles,Los Angeles Sports Arena
+832,1981-08-24,The River,Los Angeles,Los Angeles Sports Arena
+833,1981-08-27,The River,Los Angeles,Los Angeles Sports Arena
+834,1981-08-28,The River,Los Angeles,Los Angeles Sports Arena
+835,1981-09-02,The River,San Diego,San Diego Sports Arena
+836,1981-09-05,The River,Pasadena,Perkins Palace
+837,1981-09-08,The River,Rosemont,Rosemont Horizon
+838,1981-09-10,The River,Rosemont,Rosemont Horizon
+839,1981-09-11,The River,Rosemont,Rosemont Horizon
+840,1981-09-13,The River,Cincinnati,Riverfront Coliseum
+841,1981-09-14,The River,Cincinnati,Riverfront Coliseum
+842,1982-06-12,1982,New York,"Sheep's Meadow, Central Park"
+843,1984-01-14,1984,New Brunswick,Patrix
+844,1984-06-08,1984,Asbury Park,The Stone Pony
+845,1984-06-21,1984,Lancaster,The Village
+846,1984-06-28,1984,St. Paul,St. Paul Civic Center
+847,1984-06-29,Born in the U.S.A.,St. Paul,St. Paul Civic Center
+848,1984-07-01,Born in the U.S.A.,St. Paul,St. Paul Civic Center
+849,1984-07-02,Born in the U.S.A.,St. Paul,St. Paul Civic Center
+850,1984-07-05,Born in the U.S.A.,Cincinnati,Riverfront Coliseum
+851,1984-07-06,Born in the U.S.A.,Cincinnati,Riverfront Coliseum
+852,1984-07-08,Born in the U.S.A.,Richfield,Richfield Coliseum
+853,1984-07-09,Born in the U.S.A.,Richfield,Richfield Coliseum
+854,1984-07-12,Born in the U.S.A.,East Troy,Alpine Valley Music Theatre
+855,1984-07-13,Born in the U.S.A.,East Troy,Alpine Valley Music Theatre
+856,1984-07-15,Born in the U.S.A.,Rosemont,Rosemont Horizon
+857,1984-07-17,Born in the U.S.A.,Rosemont,Rosemont Horizon
+858,1984-07-18,Born in the U.S.A.,Rosemont,Rosemont Horizon
+859,1984-07-21,Born in the U.S.A.,Montreal,Forum de Montréal
+860,1984-07-23,Born in the U.S.A.,Toronto,CNE Grandstand
+861,1984-07-24,Born in the U.S.A.,Toronto,CNE Grandstand
+862,1984-07-26,Born in the U.S.A.,Toronto,CNE Grandstand
+863,1984-07-27,Born in the U.S.A.,Saratoga Springs,Saratoga Performing Arts Center
+864,1984-07-30,Born in the U.S.A.,Detroit,Joe Louis Arena
+865,1984-07-31,Born in the U.S.A.,Detroit,Joe Louis Arena
+866,1984-08-05,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+867,1984-08-06,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+868,1984-08-08,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+869,1984-08-09,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+870,1984-08-11,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+871,1984-08-12,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+872,1984-08-16,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+873,1984-08-17,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+874,1984-08-19,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+875,1984-08-20,Born in the U.S.A.,East Rutherford,Brendan Byrne Arena
+876,1984-08-25,Born in the U.S.A.,Landover,Capital Centre
+877,1984-08-26,Born in the U.S.A.,Landover,Capital Centre
+878,1984-08-28,Born in the U.S.A.,Landover,Capital Centre
+879,1984-08-29,Born in the U.S.A.,Landover,Capital Centre
+880,1984-09-04,Born in the U.S.A.,Worcester,Centrum in Worcester
+881,1984-09-05,Born in the U.S.A.,Worcester,Centrum in Worcester
+882,1984-09-07,Born in the U.S.A.,Hartford,Hartford Civic Center
+883,1984-09-08,Born in the U.S.A.,Hartford,Hartford Civic Center
+884,1984-09-11,Born in the U.S.A.,Philadelphia,Spectrum
+885,1984-09-12,Born in the U.S.A.,Philadelphia,Spectrum
+886,1984-09-14,Born in the U.S.A.,Philadelphia,Spectrum
+887,1984-09-15,Born in the U.S.A.,Philadelphia,Spectrum
+888,1984-09-17,Born in the U.S.A.,Philadelphia,Spectrum
+889,1984-09-18,Born in the U.S.A.,Philadelphia,Spectrum
+890,1984-09-21,Born in the U.S.A.,Pittsburgh,Civic Arena
+891,1984-09-22,Born in the U.S.A.,Pittsburgh,Civic Arena
+892,1984-09-24,Born in the U.S.A.,Buffalo,Buffalo Memorial Auditorium
+893,1984-09-25,Born in the U.S.A.,Buffalo,Buffalo Memorial Auditorium
+894,1984-10-15,Born in the U.S.A.,Vancouver,Pacific Coliseum
+895,1984-10-17,Born in the U.S.A.,Tacoma,Tacoma Dome
+896,1984-10-19,Born in the U.S.A.,Tacoma,Tacoma Dome
+897,1984-10-21,Born in the U.S.A.,Oakland,Oakland-Alameda County Coliseum Arena
+898,1984-10-22,Born in the U.S.A.,Oakland,Oakland-Alameda County Coliseum Arena
+899,1984-10-25,Born in the U.S.A.,Los Angeles,Los Angeles Sports Arena
+900,1984-10-26,Born in the U.S.A.,Los Angeles,Los Angeles Sports Arena
+901,1984-10-28,Born in the U.S.A.,Los Angeles,Los Angeles Sports Arena
+902,1984-10-29,Born in the U.S.A.,Los Angeles,Los Angeles Sports Arena
+903,1984-10-31,Born in the U.S.A.,Los Angeles,Los Angeles Sports Arena
+904,1984-11-02,Born in the U.S.A.,Los Angeles,Los Angeles Sports Arena
+905,1984-11-04,Born in the U.S.A.,Los Angeles,Los Angeles Sports Arena
+906,1984-11-08,Born in the U.S.A.,Tempe,ASU Activity Center
+907,1984-11-11,Born in the U.S.A.,Denver,McNichols Sports Arena
+908,1984-11-12,Born in the U.S.A.,Denver,McNichols Sports Arena
+909,1984-11-15,Born in the U.S.A.,St. Louis,St. Louis Arena
+910,1984-11-16,Born in the U.S.A.,Ames,Hilton Coliseum
+911,1984-11-18,Born in the U.S.A.,Lincoln,Bob Devaney Sports Center
+912,1984-11-19,Born in the U.S.A.,Kansas City,Kemper Arena
+913,1984-11-23,Born in the U.S.A.,Austin,Frank Erwin Center
+914,1984-11-25,Born in the U.S.A.,Dallas,Reunion Arena
+915,1984-11-26,Born in the U.S.A.,Dallas,Reunion Arena
+916,1984-11-29,Born in the U.S.A.,Houston,The Summit
+917,1984-11-30,Born in the U.S.A.,Houston,The Summit
+918,1984-12-02,Born in the U.S.A.,Baton Rouge,LSU Assembly Center
+919,1984-12-06,Born in the U.S.A.,Birmingham,Birmingham-Jefferson Civic Center Coliseum
+920,1984-12-07,Born in the U.S.A.,Tallahassee,Tallahassee-Leon City Civic Center
+921,1984-12-09,Born in the U.S.A.,Murfreesboro,Charles M. Murphy Athletic Center
+922,1984-12-11,Born in the U.S.A.,Lexington,Rupp Arena
+923,1984-12-13,Born in the U.S.A.,Memphis,Mid-South Coliseum
+924,1984-12-14,Born in the U.S.A.,Memphis,Mid-South Coliseum
+925,1984-12-16,Born in the U.S.A.,Atlanta,The Omni
+926,1984-12-17,Born in the U.S.A.,Atlanta,The Omni
+927,1985-01-04,Born in the U.S.A.,Hampton,Hampton Coliseum
+928,1985-01-05,Born in the U.S.A.,Hampton,Hampton Coliseum
+929,1985-01-07,Born in the U.S.A.,Indianapolis,Market Square Arena
+930,1985-01-08,Born in the U.S.A.,Indianapolis,Market Square Arena
+931,1985-01-10,Born in the U.S.A.,Louisville,Freedom Hall
+932,1985-01-13,Born in the U.S.A.,Columbia,Carolina Coliseum
+933,1985-01-15,Born in the U.S.A.,Charlotte,Charlotte Coliseum
+934,1985-01-16,Born in the U.S.A.,Charlotte,Charlotte Coliseum
+935,1985-01-18,Born in the U.S.A.,Greensboro,Greensboro Coliseum
+936,1985-01-19,Born in the U.S.A.,Greensboro,Greensboro Coliseum
+937,1985-01-23,Born in the U.S.A.,Providence,Providence Civic Center
+938,1985-01-24,Born in the U.S.A.,Providence,Providence Civic Center
+939,1985-01-26,Born in the U.S.A.,Syracuse,Carrier Dome
+940,1985-01-27,Born in the U.S.A.,Syracuse,Carrier Dome
+941,1985-03-21,Born in the U.S.A.,Sydney,Sydney Entertainment Centre
+942,1985-03-23,Born in the U.S.A.,Sydney,Sydney Entertainment Centre
+943,1985-03-24,Born in the U.S.A.,Sydney,Sydney Entertainment Centre
+944,1985-03-27,Born in the U.S.A.,Sydney,Sydney Entertainment Centre
+945,1985-03-28,Born in the U.S.A.,Sydney,Sydney Entertainment Centre
+946,1985-03-31,Born in the U.S.A.,Brisbane,Queen Elizabeth Stadium
+947,1985-04-03,Born in the U.S.A.,Melbourne,Royal Melbourne Showgrounds
+948,1985-04-04,Born in the U.S.A.,Melbourne,Royal Melbourne Showgrounds
+949,1985-04-10,Born in the U.S.A.,Tokyo,Yoyogi Daiichi Taiikukan
+950,1985-04-11,Born in the U.S.A.,Tokyo,Yoyogi Daiichi Taiikukan
+951,1985-04-13,Born in the U.S.A.,Tokyo,Yoyogi Daiichi Taiikukan
+952,1985-04-15,Born in the U.S.A.,Tokyo,Yoyogi Daiichi Taiikukan
+953,1985-04-16,Born in the U.S.A.,Tokyo,Yoyogi Daiichi Taiikukan
+954,1985-04-19,Born in the U.S.A.,Kyoto,Kyoto Furitsu Taiikukan
+955,1985-04-22,Born in the U.S.A.,Osaka,Osaka-jou Hall
+956,1985-04-23,Born in the U.S.A.,Osaka,Osaka-jou Hall
+957,1985-06-01,Born in the U.S.A.,Slane,Slane Castle
+958,1985-06-04,Born in the U.S.A.,Newcastle upon Tyne,St James' Park
+959,1985-06-05,Born in the U.S.A.,Newcastle upon Tyne,St James' Park
+960,1985-06-08,Born in the U.S.A.,Gothenburg,Ullevi Stadium
+961,1985-06-09,Born in the U.S.A.,Gothenburg,Ullevi Stadium
+962,1985-06-12,Born in the U.S.A.,Rotterdam,Feijenoord Stadion
+963,1985-06-13,Born in the U.S.A.,Rotterdam,Feijenoord Stadion
+964,1985-06-15,Born in the U.S.A.,Frankfurt,Waldstadion
+965,1985-06-18,Born in the U.S.A.,Munich,Olympiastadion
+966,1985-06-21,Born in the U.S.A.,Milan,Stadio Giuseppe Meazza
+967,1985-06-23,Born in the U.S.A.,Montpellier,Stade Richter
+968,1985-06-25,Born in the U.S.A.,Saint-Étienne,Stade Geoffroy-Guichard
+969,1985-06-29,Born in the U.S.A.,La Courneuve,Parc de La Courneuve
+970,1985-06-30,Born in the U.S.A.,La Courneuve,Parc de La Courneuve
+971,1985-07-03,Born in the U.S.A.,London,Wembley Stadium
+972,1985-07-04,Born in the U.S.A.,London,Wembley Stadium
+973,1985-07-06,Born in the U.S.A.,London,Wembley Stadium
+974,1985-07-07,Born in the U.S.A.,Leeds,Roundhay Park
+975,1985-08-05,Born in the U.S.A.,Washington,Robert F. Kennedy Memorial Stadium
+976,1985-08-07,Born in the U.S.A.,Cleveland,Cleveland Stadium
+977,1985-08-09,Born in the U.S.A.,Chicago,Soldier Field
+978,1985-08-11,Born in the U.S.A.,Pittsburgh,Three Rivers Stadium
+979,1985-08-14,Born in the U.S.A.,Philadelphia,Veterans Stadium
+980,1985-08-15,Born in the U.S.A.,Philadelphia,Veterans Stadium
+981,1985-08-18,Born in the U.S.A.,East Rutherford,Giants Stadium
+982,1985-08-19,Born in the U.S.A.,East Rutherford,Giants Stadium
+983,1985-08-21,Born in the U.S.A.,East Rutherford,Giants Stadium
+984,1985-08-22,Born in the U.S.A.,East Rutherford,Giants Stadium
+985,1985-08-26,Born in the U.S.A.,Toronto,CNE Stadium
+986,1985-08-27,Born in the U.S.A.,Toronto,CNE Stadium
+987,1985-08-31,Born in the U.S.A.,East Rutherford,Giants Stadium
+988,1985-09-01,Born in the U.S.A.,East Rutherford,Giants Stadium
+989,1985-09-04,Born in the U.S.A.,Pontiac,Pontiac Silverdome
+990,1985-09-06,Born in the U.S.A.,Indianapolis,Hoosier Dome
+991,1985-09-09,Born in the U.S.A.,Miami,Miami Orange Bowl
+992,1985-09-10,Born in the U.S.A.,Miami,Miami Orange Bowl
+993,1985-09-13,Born in the U.S.A.,Dallas,Cotton Bowl
+994,1985-09-14,Born in the U.S.A.,Dallas,Cotton Bowl
+995,1985-09-18,Born in the U.S.A.,Oakland,Oakland-Alameda County Coliseum
+996,1985-09-19,Born in the U.S.A.,Oakland,Oakland-Alameda County Coliseum
+997,1985-09-23,Born in the U.S.A.,Denver,Mile High Stadium
+998,1985-09-24,Born in the U.S.A.,Denver,Mile High Stadium
+999,1985-09-27,Born in the U.S.A.,Los Angeles,Los Angeles Memorial Coliseum
+1000,1985-09-29,Born in the U.S.A.,Los Angeles,Los Angeles Memorial Coliseum
+1001,1985-09-30,Born in the U.S.A.,Los Angeles,Los Angeles Memorial Coliseum
+1002,1985-10-02,Born in the U.S.A.,Los Angeles,Los Angeles Memorial Coliseum
+1003,1986-01-19,1986,Asbury Park,The Stone Pony
+1004,1986-03-02,1986,Asbury Park,The Stone Pony
+1005,1986-10-13,1986,Mountain View,Shoreline Amphitheatre
+1006,1987-01-21,1987,New York,Waldorf Astoria New York
+1007,1987-04-12,1987,Asbury Park,The Stone Pony
+1008,1987-08-02,1987,Asbury Park,The Stone Pony
+1009,1987-08-09,1987,Asbury Park,The Stone Pony
+1010,1987-10-22,1987,New York,St. Peter's Episcopal Church
+1011,1987-10-31,1987,Sea Bright,Tradewinds
+1012,1987-12-07,1987,New York,Carnegie Hall
+1013,1987-12-13,1987,New York,Madison Square Garden
+1014,1988-02-03,1988,Eatontown,Monmouth Mall
+1015,1988-02-25,Tunnel of Love Express,Worcester,Centrum in Worcester
+1016,1988-02-28,Tunnel of Love Express,Worcester,Centrum in Worcester
+1017,1988-02-29,Tunnel of Love Express,Worcester,Centrum in Worcester
+1018,1988-03-03,Tunnel of Love Express,Chapel Hill,Dean E. Smith Student Activities Center
+1019,1988-03-04,Tunnel of Love Express,Chapel Hill,Dean E. Smith Student Activities Center
+1020,1988-03-08,Tunnel of Love Express,Philadelphia,Spectrum
+1021,1988-03-09,Tunnel of Love Express,Philadelphia,Spectrum
+1022,1988-03-13,Tunnel of Love Express,Richfield,Richfield Coliseum
+1023,1988-03-14,Tunnel of Love Express,Richfield,Richfield Coliseum
+1024,1988-03-16,Tunnel of Love Express,Rosemont,Rosemont Horizon
+1025,1988-03-17,Tunnel of Love Express,Rosemont,Rosemont Horizon
+1026,1988-03-20,Tunnel of Love Express,Pittsburgh,Civic Arena
+1027,1988-03-22,Tunnel of Love Express,Atlanta,The Omni
+1028,1988-03-23,Tunnel of Love Express,Atlanta,The Omni
+1029,1988-03-26,Tunnel of Love Express,Lexington,Rupp Arena
+1030,1988-03-28,Tunnel of Love Express,Detroit,Joe Louis Arena
+1031,1988-03-29,Tunnel of Love Express,Detroit,Joe Louis Arena
+1032,1988-04-01,Tunnel of Love Express,Uniondale,Nassau Veterans Memorial Coliseum
+1033,1988-04-02,Tunnel of Love Express,Uniondale,Nassau Veterans Memorial Coliseum
+1034,1988-04-04,Tunnel of Love Express,Landover,Capital Centre
+1035,1988-04-05,Tunnel of Love Express,Landover,Capital Centre
+1036,1988-04-12,Tunnel of Love Express,Houston,The Summit
+1037,1988-04-13,Tunnel of Love Express,Houston,The Summit
+1038,1988-04-15,Tunnel of Love Express,Austin,Frank Erwin Center
+1039,1988-04-17,Tunnel of Love Express,St. Louis,St. Louis Arena
+1040,1988-04-20,Tunnel of Love Express,Denver,McNichols Sports Arena
+1041,1988-04-22,Tunnel of Love Express,Los Angeles,Los Angeles Sports Arena
+1042,1988-04-23,Tunnel of Love Express,Los Angeles,Los Angeles Sports Arena
+1043,1988-04-25,Tunnel of Love Express,Los Angeles,Los Angeles Sports Arena
+1044,1988-04-27,Tunnel of Love Express,Los Angeles,Los Angeles Sports Arena
+1045,1988-04-28,Tunnel of Love Express,Los Angeles,Los Angeles Sports Arena
+1046,1988-05-02,Tunnel of Love Express,Mountain View,Shoreline Amphitheatre
+1047,1988-05-03,Tunnel of Love Express,Mountain View,Shoreline Amphitheatre
+1048,1988-05-05,Tunnel of Love Express,Tacoma,Tacoma Dome
+1049,1988-05-06,Tunnel of Love Express,Tacoma,Tacoma Dome
+1050,1988-05-09,Tunnel of Love Express,Bloomington,Met Center
+1051,1988-05-10,Tunnel of Love Express,Bloomington,Met Center
+1052,1988-05-13,Tunnel of Love Express,Indianapolis,Market Square Arena
+1053,1988-05-16,Tunnel of Love Express,New York,Madison Square Garden
+1054,1988-05-18,Tunnel of Love Express,New York,Madison Square Garden
+1055,1988-05-19,Tunnel of Love Express,New York,Madison Square Garden
+1056,1988-05-22,Tunnel of Love Express,New York,Madison Square Garden
+1057,1988-05-23,Tunnel of Love Express,New York,Madison Square Garden
+1058,1988-06-11,Tunnel of Love Express,Turin,Stadio Comunale Vittorio Pozzo
+1059,1988-06-13,1988,Rome,Piazza di Spagna
+1060,1988-06-15,Tunnel of Love Express,Rome,Stadio Flaminio
+1061,1988-06-16,Tunnel of Love Express,Rome,Stadio Flaminio
+1062,1988-06-18,1988,Paris,Esplanade du Château de Vincennes
+1063,1988-06-19,Tunnel of Love Express,Paris,Hippodrome de Vincennes
+1064,1988-06-21,Tunnel of Love Express,Birmingham,Villa Park
+1065,1988-06-22,Tunnel of Love Express,Birmingham,Villa Park
+1066,1988-06-25,Tunnel of Love Express,London,Wembley Stadium
+1067,1988-06-28,Tunnel of Love Express,Rotterdam,Feijenoord Stadion
+1068,1988-06-29,Tunnel of Love Express,Rotterdam,Feijenoord Stadion
+1069,1988-07-02,Tunnel of Love Express,Stockholm,Stockholms Stadion
+1070,1988-07-03,Tunnel of Love Express,Stockholm,Stockholms Stadion
+1071,1988-07-07,Tunnel of Love Express,Dublin,RDS Arena
+1072,1988-07-08,Tunnel of Love Express,Sheffield,Foodhall / Sheffield
+1073,1988-07-09,Tunnel of Love Express,Sheffield,Bramall Lane
+1074,1988-07-10,Tunnel of Love Express,Sheffield,Bramall Lane
+1075,1988-07-12,Tunnel of Love Express,Frankfurt,Waldstadion
+1076,1988-07-14,Tunnel of Love Express,Basel,St. Jakob's Stadion
+1077,1988-07-17,Tunnel of Love Express,Munich,Reitstadion Riem
+1078,1988-07-19,Tunnel of Love Express,Berlin,Radrennbahn Weissensee
+1079,1988-07-22,Tunnel of Love Express,Berlin,Waldbühne
+1080,1988-07-25,Tunnel of Love Express,Copenhagen,Idrætsparken
+1081,1988-07-27,Tunnel of Love Express,Oslo,Valle Hovin
+1082,1988-07-30,Tunnel of Love Express,Bremen,Weserstadion
+1083,1988-08-02,Tunnel of Love Express,Madrid,Estadio Vicente Calderón
+1084,1988-08-03,Tunnel of Love Express,Barcelona,Camp Nou
+1085,1988-09-02,Human Rights Now!,London,Wembley Stadium
+1086,1988-09-04,Human Rights Now!,Paris,Palais Omnisports de Paris-Bercy
+1087,1988-09-05,Human Rights Now!,Paris,Palais Omnisports de Paris-Bercy
+1088,1988-09-06,Human Rights Now!,Budapest,Népstadion
+1089,1988-09-08,Human Rights Now!,Turin,Stadio Comunale Vittorio Pozzo
+1090,1988-09-10,Human Rights Now!,Barcelona,Camp Nou
+1091,1988-09-13,Human Rights Now!,San José,Estadio Nacional de Costa Rica
+1092,1988-09-15,Human Rights Now!,Toronto,Maple Leaf Gardens
+1093,1988-09-17,Human Rights Now!,Montreal,Stade Olympique
+1094,1988-09-19,Human Rights Now!,Philadelphia,John F. Kennedy Stadium
+1095,1988-09-21,Human Rights Now!,Los Angeles,Los Angeles Memorial Coliseum
+1096,1988-09-23,Human Rights Now!,Oakland,Oakland-Alameda County Coliseum
+1097,1988-09-27,Human Rights Now!,Tokyo,Tokyo Dome
+1098,1988-09-30,Human Rights Now!,New Delhi,Jawaharlal Nehru Stadium
+1099,1988-10-03,Human Rights Now!,Athens,Olympic Stadium
+1100,1988-10-07,Human Rights Now!,Harare,National Sports Stadium
+1101,1988-10-09,Human Rights Now!,Abidjan,Stade Félix Houphouët-Boigny
+1102,1988-10-12,Human Rights Now!,São Paulo,Estádio Palestra Itália
+1103,1988-10-14,Human Rights Now!,Mendoza,Estadio Mundialista Mendoza
+1104,1988-10-15,Human Rights Now!,Buenos Aires,Estadio River Plate
+1105,1988-12-18,1988,Asbury Park,The Stone Pony
+1106,1989-09-23,1989,Sea Bright,McLoone's Rum Runner
+1107,1989-09-29,1989,Prescott,Matt’s Saloon
+1108,1990-01-17,1990,New York,Waldorf Astoria New York
+1109,1990-02-12,1990,Beverly Hills,Ted Field's Mansion
+1110,1990-11-16,1990,Los Angeles,Shrine Auditorium
+1111,1990-11-17,1990,Los Angeles,Shrine Auditorium
+1112,1991-01-16,1991,New York,Waldorf Astoria New York
+1113,1992-05-06,1992,New York,The Bottom Line
+1114,1992-05-09,1992,New York,Saturday Night Live
+1115,1992-06-05,1992,Los Angeles,Hollywood Center Studios
+1116,1992-06-15,Bruce Springsteen 1992–1993 World Tour,Stockholm,Stockholm Globe Arena
+1117,1992-06-17,Bruce Springsteen 1992–1993 World Tour,Stockholm,Stockholm Globe Arena
+1118,1992-06-20,Bruce Springsteen 1992–1993 World Tour,Assago,Forum di Assago
+1119,1992-06-21,Bruce Springsteen 1992–1993 World Tour,Assago,Forum di Assago
+1120,1992-06-25,Bruce Springsteen 1992–1993 World Tour,Frankfurt,Festhalle
+1121,1992-06-26,Bruce Springsteen 1992–1993 World Tour,Frankfurt,Festhalle
+1122,1992-06-29,Bruce Springsteen 1992–1993 World Tour,Paris,Palais Omnisports de Paris-Bercy
+1123,1992-06-30,Bruce Springsteen 1992–1993 World Tour,Paris,Palais Omnisports de Paris-Bercy
+1124,1992-07-03,Bruce Springsteen 1992–1993 World Tour,Barcelona,Plaza de Toros Monumental
+1125,1992-07-04,Bruce Springsteen 1992–1993 World Tour,Barcelona,Plaza de Toros Monumental
+1126,1992-07-06,Bruce Springsteen 1992–1993 World Tour,London,Wembley Arena
+1127,1992-07-09,Bruce Springsteen 1992–1993 World Tour,London,Wembley Arena
+1128,1992-07-10,Bruce Springsteen 1992–1993 World Tour,London,Wembley Arena
+1129,1992-07-12,Bruce Springsteen 1992–1993 World Tour,London,Wembley Arena
+1130,1992-07-13,Bruce Springsteen 1992–1993 World Tour,London,Wembley Arena
+1131,1992-07-23,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1132,1992-07-25,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1133,1992-07-26,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1134,1992-07-28,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1135,1992-07-30,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1136,1992-07-31,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1137,1992-08-02,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1138,1992-08-04,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1139,1992-08-06,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1140,1992-08-07,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1141,1992-08-08,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1142,1992-08-10,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1143,1992-08-13,Bruce Springsteen 1992–1993 World Tour,Worcester,Centrum in Worcester
+1144,1992-08-14,Bruce Springsteen 1992–1993 World Tour,Worcester,Centrum in Worcester
+1145,1992-08-17,Bruce Springsteen 1992–1993 World Tour,Auburn Hills,The Palace of Auburn Hills
+1146,1992-08-18,Bruce Springsteen 1992–1993 World Tour,Auburn Hills,The Palace of Auburn Hills
+1147,1992-08-21,Bruce Springsteen 1992–1993 World Tour,Richfield,Richfield Coliseum
+1148,1992-08-22,Bruce Springsteen 1992–1993 World Tour,Richfield,Richfield Coliseum
+1149,1992-08-25,Bruce Springsteen 1992–1993 World Tour,Landover,Capital Centre
+1150,1992-08-26,Bruce Springsteen 1992–1993 World Tour,Landover,Capital Centre
+1151,1992-08-28,Bruce Springsteen 1992–1993 World Tour,Philadelphia,Spectrum
+1152,1992-08-29,Bruce Springsteen 1992–1993 World Tour,Philadelphia,Spectrum
+1153,1992-09-02,Bruce Springsteen 1992–1993 World Tour,Tinley Park,World Music Theatre
+1154,1992-09-03,Bruce Springsteen 1992–1993 World Tour,Tinley Park,World Music Theatre
+1155,1992-09-22,Bruce Springsteen 1992–1993 World Tour,Los Angeles,Warner Hollywood Studios
+1156,1992-09-24,Bruce Springsteen 1992–1993 World Tour,Los Angeles,Los Angeles Sports Arena
+1157,1992-09-25,Bruce Springsteen 1992–1993 World Tour,Los Angeles,Los Angeles Sports Arena
+1158,1992-09-28,Bruce Springsteen 1992–1993 World Tour,Los Angeles,Los Angeles Sports Arena
+1159,1992-09-29,Bruce Springsteen 1992–1993 World Tour,San Diego,San Diego Sports Arena
+1160,1992-10-02,Bruce Springsteen 1992–1993 World Tour,Phoenix,America West Arena
+1161,1992-10-03,Bruce Springsteen 1992–1993 World Tour,Phoenix,America West Arena
+1162,1992-10-06,Bruce Springsteen 1992–1993 World Tour,Sacramento,ARCO Arena
+1163,1992-10-12,Bruce Springsteen 1992–1993 World Tour,Tacoma,Tacoma Dome
+1164,1992-10-13,Bruce Springsteen 1992–1993 World Tour,Tacoma,Tacoma Dome
+1165,1992-10-15,Bruce Springsteen 1992–1993 World Tour,Vancouver,Pacific Coliseum
+1166,1992-10-17,Bruce Springsteen 1992–1993 World Tour,Calgary,Olympic Saddledome
+1167,1992-10-18,Bruce Springsteen 1992–1993 World Tour,Edmonton,Northlands Coliseum
+1168,1992-10-21,Bruce Springsteen 1992–1993 World Tour,Mountain View,Shoreline Amphitheatre
+1169,1992-10-22,Bruce Springsteen 1992–1993 World Tour,Mountain View,Shoreline Amphitheatre
+1170,1992-10-26,Bruce Springsteen 1992–1993 World Tour,Denver,McNichols Sports Arena
+1171,1992-10-30,Bruce Springsteen 1992–1993 World Tour,Ames,Hilton Coliseum
+1172,1992-10-31,Bruce Springsteen 1992–1993 World Tour,Minneapolis,Target Center
+1173,1992-11-03,Bruce Springsteen 1992–1993 World Tour,Milwaukee,Bradley Center
+1174,1992-11-05,Bruce Springsteen 1992–1993 World Tour,Toronto,SkyDome
+1175,1992-11-06,Bruce Springsteen 1992–1993 World Tour,Toronto,SkyDome
+1176,1992-11-09,Bruce Springsteen 1992–1993 World Tour,Uniondale,Nassau Veterans Memorial Coliseum
+1177,1992-11-10,Bruce Springsteen 1992–1993 World Tour,Uniondale,Nassau Veterans Memorial Coliseum
+1178,1992-11-13,Bruce Springsteen 1992–1993 World Tour,Syracuse,Carrier Dome
+1179,1992-11-15,Bruce Springsteen 1992–1993 World Tour,Hartford,Hartford Civic Center
+1180,1992-11-17,Bruce Springsteen 1992–1993 World Tour,Chapel Hill,Dean E. Smith Student Activities Center
+1181,1992-11-18,Bruce Springsteen 1992–1993 World Tour,Charlotte,Charlotte Coliseum
+1182,1992-11-23,Bruce Springsteen 1992–1993 World Tour,Orlando,Orlando Arena
+1183,1992-11-24,Bruce Springsteen 1992–1993 World Tour,Miami,Miami Arena
+1184,1992-11-30,Bruce Springsteen 1992–1993 World Tour,Atlanta,The Omni
+1185,1992-12-02,Bruce Springsteen 1992–1993 World Tour,Dallas,Reunion Arena
+1186,1992-12-03,Bruce Springsteen 1992–1993 World Tour,St. Louis,St. Louis Arena
+1187,1992-12-05,Bruce Springsteen 1992–1993 World Tour,Indianapolis,Market Square Arena
+1188,1992-12-07,Bruce Springsteen 1992–1993 World Tour,Philadelphia,Spectrum
+1189,1992-12-08,Bruce Springsteen 1992–1993 World Tour,Philadelphia,Spectrum
+1190,1992-12-13,Bruce Springsteen 1992–1993 World Tour,Boston,Boston Garden
+1191,1992-12-14,Bruce Springsteen 1992–1993 World Tour,Boston,Boston Garden
+1192,1992-12-16,Bruce Springsteen 1992–1993 World Tour,Pittsburgh,Civic Arena
+1193,1992-12-17,Bruce Springsteen 1992–1993 World Tour,Lexington,Rupp Arena
+1194,1993-03-23,Bruce Springsteen 1992–1993 World Tour,Red Bank,Count Basie Theatre
+1195,1993-03-31,Bruce Springsteen 1992–1993 World Tour,Glasgow,Scottish Exhibition and Conference Centre
+1196,1993-04-03,Bruce Springsteen 1992–1993 World Tour,Dortmund,Westfalenhalle 1
+1197,1993-04-04,Bruce Springsteen 1992–1993 World Tour,Dortmund,Westfalenhalle
+1198,1993-04-07,Bruce Springsteen 1992–1993 World Tour,Zurich,Hallenstadion
+1199,1993-04-08,Bruce Springsteen 1992–1993 World Tour,Zurich,Hallenstadion
+1200,1993-04-11,Bruce Springsteen 1992–1993 World Tour,Verona,Stadio Marcantonio Bentegodi
+1201,1993-04-13,Bruce Springsteen 1992–1993 World Tour,Lyon,Halle Tony Garnier
+1202,1993-04-15,Bruce Springsteen 1992–1993 World Tour,Sheffield,Sheffield Arena
+1203,1993-04-16,Bruce Springsteen 1992–1993 World Tour,Sheffield,Sheffield Arena
+1204,1993-04-19,Bruce Springsteen 1992–1993 World Tour,Rotterdam,Ahoy
+1205,1993-04-20,Bruce Springsteen 1992–1993 World Tour,Rotterdam,Ahoy
+1206,1993-04-23,Bruce Springsteen 1992–1993 World Tour,Sint-Denijs-Westrem,Flanders Expo
+1207,1993-04-24,Bruce Springsteen 1992–1993 World Tour,Sint-Denijs-Westrem,Flanders Expo
+1208,1993-05-01,Bruce Springsteen 1992–1993 World Tour,Lisbon,Estádio José Alvalade
+1209,1993-05-05,Bruce Springsteen 1992–1993 World Tour,Madrid,Estadio Vicente Calderón
+1210,1993-05-07,Bruce Springsteen 1992–1993 World Tour,Gijón,Estadio El Molinón
+1211,1993-05-09,Bruce Springsteen 1992–1993 World Tour,Santiago de Compostela,Auditorio Monte do Gozo
+1212,1993-05-11,Bruce Springsteen 1992–1993 World Tour,Barcelona,Estadi Olímpic de Montjuïc
+1213,1993-05-14,Bruce Springsteen 1992–1993 World Tour,Berlin,Waldbühne
+1214,1993-05-16,Bruce Springsteen 1992–1993 World Tour,Munich,Alter Flughafen Riem
+1215,1993-05-17,Bruce Springsteen 1992–1993 World Tour,Mannheim,Maimarkthalle
+1216,1993-05-20,Bruce Springsteen 1992–1993 World Tour,Dublin,RDS Arena
+1217,1993-05-22,Bruce Springsteen 1992–1993 World Tour,Milton Keynes,Milton Keynes National Bowl
+1218,1993-05-25,Bruce Springsteen 1992–1993 World Tour,Rome,Stadio Flaminio
+1219,1993-05-28,Bruce Springsteen 1992–1993 World Tour,Stockholm,Stockholms Stadion
+1220,1993-05-30,Bruce Springsteen 1992–1993 World Tour,Gentofte,Gentofte Stadion
+1221,1993-06-01,Bruce Springsteen 1992–1993 World Tour,Oslo,Valle Hovin
+1222,1993-06-24,Bruce Springsteen 1992–1993 World Tour,East Rutherford,Brendan Byrne Arena
+1223,1993-06-25,1993,New York,Late Night With David Letterman
+1224,1993-06-26,Bruce Springsteen 1992–1993 World Tour,New York,Madison Square Garden
+1225,1994-01-17,1994,New York,Waldorf Astoria New York
+1226,1994-01-27,1994,Universal City,Universal Amphitheatre
+1227,1994-02-07,1994,Los Angeles,Shrine Auditorium
+1228,1994-03-01,1994,New York,Radio City Music Hall
+1229,1994-03-21,1994,Los Angeles,Dorothy Chandler Pavilion
+1230,1994-06-18,1994,Santa Monica,McCabe's Guitar Shop
+1231,1994-07-16,1994,Asbury Park,Stone Pony Big Top
+1232,1994-09-08,1994,New York,Radio City Music Hall
+1233,1994-10-21,1994,Sayreville,The Playpen
+1234,1995-02-21,1995,New York,Tramps
+1235,1995-03-01,1995,Los Angeles,Shrine Auditorium
+1236,1995-04-05,1995,New York,Sony Music Studios
+1237,1995-04-05,1995,New York,Late Show With David Letterman
+1238,1995-04-12,1995,New York,Carnegie Hall
+1239,1995-07-09,1995,Berlin,Cafe Eckstein
+1240,1995-07-22,1995,Sea Bright,Tradewinds
+1241,1995-09-02,1995,Cleveland,Cleveland Stadium
+1242,1995-09-14,1995,West Hollywood,The Viper Room
+1243,1995-10-28,1995,Mountain View,Shoreline Amphitheatre
+1244,1995-11-19,The Ghost of Tom Joad,Los Angeles,Shrine Auditorium
+1245,1995-11-21,The Ghost of Tom Joad,New Brunswick,State Theatre
+1246,1995-11-22,The Ghost of Tom Joad,Red Bank,Count Basie Theatre
+1247,1995-11-26,The Ghost of Tom Joad,Los Angeles,Wiltern Theatre
+1248,1995-11-27,1995,Burbank,The Tonight Show with Jay Leno
+1249,1995-11-27,The Ghost of Tom Joad,Los Angeles,Wiltern Theatre
+1250,1995-11-29,The Ghost of Tom Joad,Berkeley,Berkeley Community Theatre
+1251,1995-11-30,The Ghost of Tom Joad,Berkeley,Berkeley Community Theatre
+1252,1995-12-03,The Ghost of Tom Joad,Rosemont,Rosemont Theatre
+1253,1995-12-05,The Ghost of Tom Joad,Washington,D.A.R. Constitution Hall
+1254,1995-12-06,The Ghost of Tom Joad,Washington,D.A.R. Constitution Hall
+1255,1995-12-08,The Ghost of Tom Joad,Upper Darby,Tower Theatre
+1256,1995-12-09,The Ghost of Tom Joad,Upper Darby,Tower Theatre
+1257,1995-12-12,The Ghost of Tom Joad,New York,Beacon Theatre
+1258,1995-12-13,The Ghost of Tom Joad,New York,Beacon Theatre
+1259,1995-12-14,The Ghost of Tom Joad,New York,Late Show With David Letterman
+1260,1995-12-15,The Ghost of Tom Joad,Boston,Orpheum Theatre
+1261,1995-12-16,The Ghost of Tom Joad,Boston,Orpheum Theatre
+1262,1995-12-17,The Ghost of Tom Joad,New York,Beacon Theatre
+1263,1996-01-07,The Ghost of Tom Joad,Montreal,Salle Wilfrid-Pelletier
+1264,1996-01-08,The Ghost of Tom Joad,Toronto,Massey Hall
+1265,1996-01-10,The Ghost of Tom Joad,Detroit,Fox Theatre
+1266,1996-01-11,The Ghost of Tom Joad,Detroit,Fox Theatre
+1267,1996-01-12,The Ghost of Tom Joad,Youngstown,Stambaugh Auditorium
+1268,1996-01-16,The Ghost of Tom Joad,Cleveland,Cleveland Music Hall
+1269,1996-01-17,The Ghost of Tom Joad,Cleveland,Cleveland Music Hall
+1270,1996-01-18,The Ghost of Tom Joad,St. Louis,The Fabulous Fox Theatre
+1271,1996-01-22,The Ghost of Tom Joad,New Orleans,Saenger Performing Arts Theater
+1272,1996-01-23,The Ghost of Tom Joad,Houston,Jesse H. Jones Hall for the Performing Arts
+1273,1996-01-25,The Ghost of Tom Joad,Austin,Austin Music Hall
+1274,1996-01-26,The Ghost of Tom Joad,Dallas,Bronco Bowl
+1275,1996-01-28,The Ghost of Tom Joad,Atlanta,Fox Theatre
+1276,1996-02-12,The Ghost of Tom Joad,Frankfurt,Alte Oper
+1277,1996-02-14,The Ghost of Tom Joad,Dresden,Kulturpalast
+1278,1996-02-15,The Ghost of Tom Joad,Munich,Rudi-Sedlmayer-Halle
+1279,1996-02-17,The Ghost of Tom Joad,Hamburg,Congress Centrum CCH
+1280,1996-02-18,The Ghost of Tom Joad,Düsseldorf,Philipshalle
+1281,1996-02-20,1996,Sanremo,Teatro Ariston
+1282,1996-02-21,The Ghost of Tom Joad,Paris,Le Zénith
+1283,1996-02-22,The Ghost of Tom Joad,Paris,Le Zénith
+1284,1996-02-23,The Ghost of Tom Joad,Paris,"Canal+, Nulle Part Ailleurs"
+1285,1996-02-25,The Ghost of Tom Joad,Rotterdam,De Doelen
+1286,1996-02-26,The Ghost of Tom Joad,Amsterdam,Koninklijk Theater Carré
+1287,1996-02-28,The Ghost of Tom Joad,Manchester,Manchester Apollo
+1288,1996-02-29,The Ghost of Tom Joad,Birmingham,Symphony Hall
+1289,1996-03-02,The Ghost of Tom Joad,Newcastle upon Tyne,Newcastle City Hall
+1290,1996-03-03,The Ghost of Tom Joad,Edinburgh,Edinburgh Playhouse
+1291,1996-03-13,The Ghost of Tom Joad,Stockholm,Cirkus
+1292,1996-03-14,The Ghost of Tom Joad,Oslo,Oslo Spektrum
+1293,1996-03-16,The Ghost of Tom Joad,Copenhagen,Falconer Salen
+1294,1996-03-19,The Ghost of Tom Joad,Belfast,King's Hall
+1295,1996-03-20,The Ghost of Tom Joad,Dublin,Point Theatre
+1296,1996-03-25,1996,Los Angeles,Dorothy Chandler Pavilion
+1297,1996-04-10,The Ghost of Tom Joad,Rome,Auditorium Conciliazione
+1298,1996-04-11,The Ghost of Tom Joad,Milan,Teatro Smeraldo
+1299,1996-04-13,The Ghost of Tom Joad,Genoa,Teatro Carlo Felice
+1300,1996-04-16,The Ghost of Tom Joad,London,Royal Albert Hall
+1301,1996-04-17,The Ghost of Tom Joad,London,Royal Albert Hall
+1302,1996-04-19,The Ghost of Tom Joad,Berlin,ICC
+1303,1996-04-20,The Ghost of Tom Joad,Antwerp,Koningin Elisabethzaal
+1304,1996-04-22,The Ghost of Tom Joad,London,Royal Albert Hall
+1305,1996-04-24,The Ghost of Tom Joad,London,Brixton Academy
+1306,1996-04-25,The Ghost of Tom Joad,London,Brixton Academy
+1307,1996-04-27,The Ghost of Tom Joad,London,Royal Albert Hall
+1308,1996-04-30,The Ghost of Tom Joad,Strasbourg,Palais de la Musique et des Congrès
+1309,1996-05-01,The Ghost of Tom Joad,Brussels,Paleis voor Schone Kunsten Henry Le Boeufzaal / Palais des Beaux-Arts Salle Henry Le Boeuf
+1310,1996-05-02,The Ghost of Tom Joad,Zurich,Kongresshaus
+1311,1996-05-06,The Ghost of Tom Joad,Barcelona,Teatre Tivoli
+1312,1996-05-07,The Ghost of Tom Joad,Barcelona,Teatre Tivoli
+1313,1996-05-08,The Ghost of Tom Joad,Madrid,Palacio Municipal de Congresos
+1314,1996-09-16,The Ghost of Tom Joad,Pittsburgh,Benedum Center for the Performing Arts
+1315,1996-09-18,The Ghost of Tom Joad,Wallingford,Oakdale Theatre
+1316,1996-09-19,The Ghost of Tom Joad,Providence,Providence Performing Arts Center
+1317,1996-09-24,The Ghost of Tom Joad,Kalamazoo,"Miller Auditorium, Western Michigan University"
+1318,1996-09-25,The Ghost of Tom Joad,Akron,E. J. Thomas Performing Arts Hall
+1319,1996-09-26,The Ghost of Tom Joad,Ann Arbor,Hill Auditorium
+1320,1996-10-01,The Ghost of Tom Joad,Normal,Braden Auditorium
+1321,1996-10-02,The Ghost of Tom Joad,Milwaukee,Riverside Theater
+1322,1996-10-03,The Ghost of Tom Joad,Minneapolis,Northrop Auditorium
+1323,1996-10-15,The Ghost of Tom Joad,Salt Lake City,Abravanel Hall
+1324,1996-10-16,The Ghost of Tom Joad,Denver,Paramount Theatre
+1325,1996-10-17,The Ghost of Tom Joad,Denver,Paramount Theatre
+1326,1996-10-19,The Ghost of Tom Joad,Albuquerque,Kiva Auditorium
+1327,1996-10-21,The Ghost of Tom Joad,Tempe,Gammage Auditorium
+1328,1996-10-22,The Ghost of Tom Joad,San Diego,San Diego Civic Theatre
+1329,1996-10-23,The Ghost of Tom Joad,Fresno,William Saroyan Theatre
+1330,1996-10-25,The Ghost of Tom Joad,Santa Barbara,Arlington Theatre
+1331,1996-10-26,The Ghost of Tom Joad,San Jose,Event Center Arena
+1332,1996-10-28,The Ghost of Tom Joad,Portland,Arlene Schnitzer Concert Hall
+1333,1996-10-29,The Ghost of Tom Joad,Seattle,Paramount Theatre
+1334,1996-11-08,The Ghost of Tom Joad,Freehold,St. Rose of Lima School
+1335,1996-11-12,The Ghost of Tom Joad,Buffalo,Shea's Performing Arts Center
+1336,1996-11-13,The Ghost of Tom Joad,Syracuse,Landmark Theatre
+1337,1996-11-14,The Ghost of Tom Joad,Lowell,Lowell Memorial Auditorium
+1338,1996-11-19,The Ghost of Tom Joad,Memphis,North Hall Auditorium
+1339,1996-11-20,The Ghost of Tom Joad,Louisville,Louisville Palace Theatre
+1340,1996-11-21,The Ghost of Tom Joad,Indianapolis,Murat Theatre
+1341,1996-11-24,The Ghost of Tom Joad,Asbury Park,Paramount Theatre
+1342,1996-11-25,The Ghost of Tom Joad,Asbury Park,Paramount Theatre
+1343,1996-11-26,The Ghost of Tom Joad,Asbury Park,Paramount Theatre
+1344,1996-12-02,The Ghost of Tom Joad,Sunrise,Sunrise Musical Theater
+1345,1996-12-03,The Ghost of Tom Joad,Sunrise,Sunrise Musical Theater
+1346,1996-12-05,The Ghost of Tom Joad,Columbia,Township Auditorium
+1347,1996-12-06,The Ghost of Tom Joad,Birmingham,BJCC Concert Hall
+1348,1996-12-10,The Ghost of Tom Joad,Cincinnati,Cincinnati Music Hall
+1349,1996-12-11,1996,Columbus,Veterans Memorial Auditorium
+1350,1996-12-12,The Ghost of Tom Joad,Nashville,Ryman Auditorium
+1351,1996-12-14,The Ghost of Tom Joad,Charlotte,Ovens Auditorium
+1352,1997-01-27,The Ghost of Tom Joad,Tokyo,Tokyo Kokusai Forum
+1353,1997-01-29,The Ghost of Tom Joad,Tokyo,Tokyo Kokusai Forum
+1354,1997-01-30,The Ghost of Tom Joad,Tokyo,Tokyo Kokusai Forum
+1355,1997-01-31,The Ghost of Tom Joad,Tokyo,Tokyo Kokusai Forum
+1356,1997-02-04,The Ghost of Tom Joad,Brisbane,QPAC Concert Hall
+1357,1997-02-05,The Ghost of Tom Joad,Brisbane,QPAC Concert Hall
+1358,1997-02-07,The Ghost of Tom Joad,Sydney,Capitol Theatre
+1359,1997-02-08,The Ghost of Tom Joad,Sydney,Capitol Theatre
+1360,1997-02-10,The Ghost of Tom Joad,Sydney,Capitol Theatre
+1361,1997-02-11,The Ghost of Tom Joad,Sydney,Capitol Theatre
+1362,1997-02-12,The Ghost of Tom Joad,Sydney,Capitol Theatre
+1363,1997-02-15,The Ghost of Tom Joad,Melbourne,Palais Theatre
+1364,1997-02-16,The Ghost of Tom Joad,Melbourne,Palais Theatre
+1365,1997-02-17,The Ghost of Tom Joad,Melbourne,Palais Theatre
+1366,1997-02-26,1997,New York,Madison Square Garden
+1367,1997-04-18,The Ghost of Tom Joad,London,BBC Television Centre
+1368,1997-05-05,1997,Stockholm,Grand Hotel
+1369,1997-05-06,The Ghost of Tom Joad,Vienna,Austria Center
+1370,1997-05-07,The Ghost of Tom Joad,Vienna,Austria Center
+1371,1997-05-09,The Ghost of Tom Joad,Warsaw,Sala Kongresowa
+1372,1997-05-10,The Ghost of Tom Joad,Warsaw,Sala Kongresowa
+1373,1997-05-12,The Ghost of Tom Joad,Prague,Kongresové Centrum
+1374,1997-05-15,The Ghost of Tom Joad,Lyon,Auditorium Maurice-Ravel
+1375,1997-05-16,The Ghost of Tom Joad,Montpellier,Le Corum - Opéra Berlioz
+1376,1997-05-18,The Ghost of Tom Joad,Nice,Acropolis
+1377,1997-05-19,The Ghost of Tom Joad,Toulon,Zénith Oméga
+1378,1997-05-21,The Ghost of Tom Joad,Florence,Teatro Verdi
+1379,1997-05-22,The Ghost of Tom Joad,Naples,Teatro Augusteo
+1380,1997-05-25,The Ghost of Tom Joad,Paris,Palais des Congrès
+1381,1997-05-26,The Ghost of Tom Joad,Paris,Palais des Congrès
+1382,1997-11-20,1997,New York,Beacon Theatre
+1383,1997-12-07,1997,Washington,John F. Kennedy Center for the Performing Arts
+1384,1997-12-16,1997,Sea Bright,McLoone's Rum Runner
+1385,1998-01-22,1998,New York,Sony Studios
+1386,1998-01-31,1998,Red Bank,Count Basie Theatre
+1387,1998-02-07,1998,Red Bank,Count Basie Theatre
+1388,1998-03-02,1998,Pittsburgh,Nick's Fat City
+1389,1998-04-04,1998,Sag Harbor,Bay Street Theater
+1390,1998-10-11,1998,Colts Neck,Private Venue
+1391,1998-10-27,1998,Asbury Park,The Saint
+1392,1998-11-20,1998,New York,WNET Studios
+1393,1998-12-07,1998,Berlin,Bikini Studio RadioEins
+1394,1998-12-08,1998,Stockholm,Sen kväll med Luuk
+1395,1998-12-09,1998,Paris,"Canal+, Nulle Part Ailleurs"
+1396,1998-12-10,1998,Paris,Palais Omnisports de Paris-Bercy
+1397,1998-12-11,1998,Bologna,PalaDozza
+1398,1998-12-14,1998,Pozuelo de Alarcón,Estudios TVE de Prado del Rey
+1399,1999-02-12,1999,Rumson,Thrill Hill East
+1400,1999-02-26,1999,New York,Late Night With Conan O'Brien
+1401,1999-03-11,1999,Asbury Park,Convention Hall
+1402,1999-03-15,1999,New York,Waldorf Astoria New York
+1403,1999-03-18,Reunion Tour,Asbury Park,Convention Hall
+1404,1999-03-19,Reunion Tour,Asbury Park,Convention Hall
+1405,1999-04-06,Reunion Tour,New York,Hammerstein Ballroom
+1406,1999-04-09,Reunion Tour,Barcelona,Palau Sant Jordi
+1407,1999-04-11,Reunion Tour,Barcelona,Palau Sant Jordi
+1408,1999-04-13,Reunion Tour,Munich,Olympiahalle
+1409,1999-04-15,Reunion Tour,Cologne,Kölnarena
+1410,1999-04-17,Reunion Tour,Casalecchio di Reno,PalaMalaguti
+1411,1999-04-19,Reunion Tour,Assago,FilaForum di Assago
+1412,1999-04-20,Reunion Tour,Assago,FilaForum di Assago
+1413,1999-04-23,Reunion Tour,Regensburg,Donau-Arena
+1414,1999-04-24,Reunion Tour,Vienna,Wiener Stadthalle - Halle D
+1415,1999-04-26,Reunion Tour,Zurich,Hallenstadion
+1416,1999-04-28,Reunion Tour,Lyon,Halle Tony Garnier
+1417,1999-05-01,Reunion Tour,Manchester,Manchester Evening News Arena
+1418,1999-05-02,Reunion Tour,Manchester,Manchester Evening News Arena
+1419,1999-05-16,Reunion Tour,Birmingham,NEC Arena
+1420,1999-05-18,Reunion Tour,London,Earls Court
+1421,1999-05-19,Reunion Tour,London,Earls Court
+1422,1999-05-21,Reunion Tour,London,Earls Court
+1423,1999-05-23,Reunion Tour,London,Earls Court
+1424,1999-05-25,Reunion Tour,Dublin,RDS Arena
+1425,1999-05-27,Reunion Tour,Sint-Denijs-Westrem,Flanders Expo
+1426,1999-05-29,Reunion Tour,Berlin,Parkbühne Wuhlheide
+1427,1999-05-30,Reunion Tour,Berlin,Parkbühne Wuhlheide
+1428,1999-06-02,Reunion Tour,Paris,Palais Omnisports de Paris-Bercy
+1429,1999-06-03,Reunion Tour,Paris,Palais Omnisports de Paris-Bercy
+1430,1999-06-05,Reunion Tour,Zaragoza,Estadio de La Romareda
+1431,1999-06-07,Reunion Tour,Madrid,Estadio de la Comunidad de Madrid
+1432,1999-06-11,Reunion Tour,Genoa,Stadio Comunale Luigi Ferraris
+1433,1999-06-13,Reunion Tour,Leipzig,Bruno-Plache-Stadion
+1434,1999-06-15,Reunion Tour,Offenbach am Main,Stadion am Bieberer Berg
+1435,1999-06-17,Reunion Tour,Bremen,Weserstadion
+1436,1999-06-19,Reunion Tour,Arnhem,Gelredome
+1437,1999-06-20,Reunion Tour,Arnhem,Gelredome
+1438,1999-06-23,Reunion Tour,Stockholm,Stockholms Stadion
+1439,1999-06-24,Reunion Tour,Stockholm,Stockholms Stadion
+1440,1999-06-26,Reunion Tour,Copenhagen,Parken Stadium
+1441,1999-06-27,Reunion Tour,Oslo,Valle Hovin
+1442,1999-07-15,Reunion Tour,East Rutherford,Continental Airlines Arena
+1443,1999-07-18,Reunion Tour,East Rutherford,Continental Airlines Arena
+1444,1999-07-20,Reunion Tour,East Rutherford,Continental Airlines Arena
+1445,1999-07-24,Reunion Tour,East Rutherford,Continental Airlines Arena
+1446,1999-07-26,Reunion Tour,East Rutherford,Continental Airlines Arena
+1447,1999-07-27,Reunion Tour,East Rutherford,Continental Airlines Arena
+1448,1999-07-29,Reunion Tour,East Rutherford,Continental Airlines Arena
+1449,1999-08-01,Reunion Tour,East Rutherford,Continental Airlines Arena
+1450,1999-08-02,Reunion Tour,East Rutherford,Continental Airlines Arena
+1451,1999-08-04,Reunion Tour,East Rutherford,Continental Airlines Arena
+1452,1999-08-06,Reunion Tour,East Rutherford,Continental Airlines Arena
+1453,1999-08-07,Reunion Tour,East Rutherford,Continental Airlines Arena
+1454,1999-08-09,Reunion Tour,East Rutherford,Continental Airlines Arena
+1455,1999-08-11,Reunion Tour,East Rutherford,Continental Airlines Arena
+1456,1999-08-12,Reunion Tour,East Rutherford,Continental Airlines Arena
+1457,1999-08-21,Reunion Tour,Boston,Fleet Center
+1458,1999-08-22,Reunion Tour,Boston,Fleet Center
+1459,1999-08-24,Reunion Tour,Boston,Fleet Center
+1460,1999-08-26,Reunion Tour,Boston,Fleet Center
+1461,1999-08-27,Reunion Tour,Boston,Fleet Center
+1462,1999-08-31,Reunion Tour,Washington,MCI Center
+1463,1999-09-01,Reunion Tour,Washington,MCI Center
+1464,1999-09-03,Reunion Tour,Washington,MCI Center
+1465,1999-09-08,Reunion Tour,Auburn Hills,The Palace of Auburn Hills
+1466,1999-09-09,Reunion Tour,Auburn Hills,The Palace of Auburn Hills
+1467,1999-09-13,Reunion Tour,Philadelphia,First Union Center
+1468,1999-09-15,Reunion Tour,Philadelphia,First Union Center
+1469,1999-09-20,Reunion Tour,Philadelphia,First Union Center
+1470,1999-09-21,Reunion Tour,Philadelphia,First Union Center
+1471,1999-09-24,Reunion Tour,Philadelphia,First Union Spectrum
+1472,1999-09-25,Reunion Tour,Philadelphia,First Union Center
+1473,1999-09-27,Reunion Tour,Chicago,United Center
+1474,1999-09-28,Reunion Tour,Chicago,United Center
+1475,1999-09-30,Reunion Tour,Chicago,United Center
+1476,1999-10-15,Reunion Tour,Phoenix,America West Arena
+1477,1999-10-17,Reunion Tour,Los Angeles,Staples Center
+1478,1999-10-18,Reunion Tour,Los Angeles,Staples Center
+1479,1999-10-21,Reunion Tour,Los Angeles,Staples Center
+1480,1999-10-23,Reunion Tour,Los Angeles,Staples Center
+1481,1999-10-25,Reunion Tour,Oakland,The Arena in Oakland
+1482,1999-10-26,Reunion Tour,Oakland,The Arena in Oakland
+1483,1999-10-28,Reunion Tour,Oakland,The Arena in Oakland
+1484,1999-11-06,Reunion Tour,Fargo,Fargodome
+1485,1999-11-09,Reunion Tour,Milwaukee,Bradley Center
+1486,1999-11-10,Reunion Tour,Indianapolis,Conseco Fieldhouse
+1487,1999-11-14,Reunion Tour,Cleveland,Gund Arena
+1488,1999-11-15,Reunion Tour,Cleveland,Gund Arena
+1489,1999-11-17,Reunion Tour,Columbus,Value City Arena
+1490,1999-11-19,Reunion Tour,Buffalo,Marine Midland Arena
+1491,1999-11-21,Reunion Tour,Albany,Pepsi Arena
+1492,1999-11-28,Reunion Tour,Minneapolis,Target Center
+1493,1999-11-29,Reunion Tour,Minneapolis,Target Center
+1494,2000-02-28,Reunion Tour,University Park,Bryce Jordan Center
+1495,2000-03-04,Reunion Tour,Orlando,TD Waterhouse Centre
+1496,2000-03-06,Reunion Tour,Tampa,Ice Palace
+1497,2000-03-09,Reunion Tour,Sunrise,National Car Rental Center
+1498,2000-03-10,Reunion Tour,Sunrise,National Car Rental Center
+1499,2000-03-13,Reunion Tour,Dallas,Reunion Arena
+1500,2000-03-14,Reunion Tour,North Little Rock,Alltel Arena
+1501,2000-03-18,Reunion Tour,Memphis,The Pyramid Arena
+1502,2000-03-19,Reunion Tour,New Orleans,New Orleans Arena
+1503,2000-03-30,Reunion Tour,Denver,Pepsi Center
+1504,2000-03-31,Reunion Tour,Denver,Pepsi Center
+1505,2000-04-03,Reunion Tour,Portland,Rose Garden Arena
+1506,2000-04-04,Reunion Tour,Tacoma,Tacoma Dome
+1507,2000-04-08,Reunion Tour,St. Louis,Kiel Center
+1508,2000-04-09,Reunion Tour,Kansas City,Kemper Arena
+1509,2000-04-12,Reunion Tour,Nashville,Gaylord Entertainment Center
+1510,2000-04-15,Reunion Tour,Louisville,Freedom Hall
+1511,2000-04-17,Reunion Tour,Austin,Frank Erwin Center
+1512,2000-04-18,Reunion Tour,Houston,Compaq Center
+1513,2000-04-21,Reunion Tour,Charlotte,Charlotte Coliseum
+1514,2000-04-22,Reunion Tour,Raleigh,Raleigh Entertainment and Sports Arena
+1515,2000-04-25,Reunion Tour,Pittsburgh,Mellon Arena
+1516,2000-04-26,Reunion Tour,Pittsburgh,Mellon Arena
+1517,2000-04-30,Reunion Tour,Cincinnati,Firstar Center
+1518,2000-05-03,Reunion Tour,Toronto,Air Canada Centre
+1519,2000-05-04,Reunion Tour,Toronto,Air Canada Centre
+1520,2000-05-07,Reunion Tour,Hartford,Hartford Civic Center
+1521,2000-05-08,Reunion Tour,Hartford,Hartford Civic Center
+1522,2000-05-21,Reunion Tour,Anaheim,Arrowhead Pond of Anaheim
+1523,2000-05-22,Reunion Tour,Anaheim,Arrowhead Pond of Anaheim
+1524,2000-05-27,Reunion Tour,Las Vegas,MGM Grand Garden Arena
+1525,2000-05-29,Reunion Tour,Salt Lake City,Delta Center
+1526,2000-06-03,Reunion Tour,Atlanta,Philips Arena
+1527,2000-06-04,Reunion Tour,Atlanta,Philips Arena
+1528,2000-06-12,Reunion Tour,New York,Madison Square Garden
+1529,2000-06-15,Reunion Tour,New York,Madison Square Garden
+1530,2000-06-17,Reunion Tour,New York,Madison Square Garden
+1531,2000-06-20,Reunion Tour,New York,Madison Square Garden
+1532,2000-06-22,Reunion Tour,New York,Madison Square Garden
+1533,2000-06-23,Reunion Tour,New York,Madison Square Garden
+1534,2000-06-26,Reunion Tour,New York,Madison Square Garden
+1535,2000-06-27,Reunion Tour,New York,Madison Square Garden
+1536,2000-06-29,Reunion Tour,New York,Madison Square Garden
+1537,2000-07-01,Reunion Tour,New York,Madison Square Garden
+1538,2000-11-03,2000,Asbury Park,The Stone Pony
+1539,2000-12-17,2000,Asbury Park,Convention Hall
+1540,2000-12-18,2000,Asbury Park,Convention Hall
+1541,2001-05-27,2001,Asbury Park,The Stone Pony Summer Stage
+1542,2001-08-18,2001,Asbury Park,The Stone Pony Summer Stage
+1543,2001-09-21,2001,New York,Sony Studios
+1544,2001-10-18,2001,Red Bank,Count Basie Theatre
+1545,2001-10-19,2001,Red Bank,Count Basie Theatre
+1546,2001-11-03,2001,Sea Bright,Tradewinds
+1547,2001-12-06,2001,Asbury Park,Convention Hall
+1548,2002-04-13,2002,Asbury Park,The Stone Pony
+1549,2002-04-14,2002,Asbury Park,The Stone Pony
+1550,2002-07-23,2002,Asbury Park,Convention Hall
+1551,2002-07-25,2002,Asbury Park,Convention Hall
+1552,2002-07-26,2002,Asbury Park,Convention Hall
+1553,2002-07-30,2002,Asbury Park,Convention Hall
+1554,2002-08-01,2002,New York,Late Show With David Letterman
+1555,2002-08-02,2002,Asbury Park,Convention Hall
+1556,2002-08-05,2002,East Rutherford,Continental Airlines Arena
+1557,2002-08-07,The Rising,East Rutherford,Continental Airlines Arena
+1558,2002-08-10,The Rising,Washington,MCI Center
+1559,2002-08-12,The Rising,New York,Madison Square Garden
+1560,2002-08-14,The Rising,Cleveland,Gund Arena
+1561,2002-08-15,The Rising,Auburn Hills,The Palace of Auburn Hills
+1562,2002-08-18,The Rising,Las Vegas,Thomas & Mack Center
+1563,2002-08-20,The Rising,Portland,Rose Garden Arena
+1564,2002-08-21,The Rising,Tacoma,Tacoma Dome
+1565,2002-08-24,The Rising,Inglewood,Great Western Forum
+1566,2002-08-25,The Rising,Phoenix,America West Arena
+1567,2002-08-27,The Rising,San Jose,Compaq Center
+1568,2002-08-29,2002,New York,Radio City Music Hall
+1569,2002-08-30,The Rising,St. Louis,Savvis Center
+1570,2002-09-22,The Rising,Denver,Pepsi Center
+1571,2002-09-24,The Rising,Kansas City,Kemper Arena
+1572,2002-09-25,The Rising,Chicago,United Center
+1573,2002-09-27,The Rising,Milwaukee,Bradley Center
+1574,2002-09-29,The Rising,Fargo,Fargodome
+1575,2002-09-30,The Rising,St. Paul,Xcel Energy Center
+1576,2002-10-04,The Rising,Boston,Fleet Center
+1577,2002-10-04,2002,Boston,Leonard P. Zakim Bunker Hill Memorial Bridge
+1578,2002-10-05,2002,New York,Saturday Night Live
+1579,2002-10-06,The Rising,Philadelphia,First Union Center
+1580,2002-10-07,The Rising,Buffalo,HSBC Arena
+1581,2002-10-14,The Rising,Paris,Palais Omnisports de Paris-Bercy
+1582,2002-10-16,The Rising,Barcelona,Palau Sant Jordi
+1583,2002-10-18,The Rising,Casalecchio di Reno,PalaMalaguti
+1584,2002-10-20,The Rising,Berlin,Velodrom
+1585,2002-10-22,The Rising,Rotterdam,Ahoy
+1586,2002-10-24,The Rising,Stockholm,Stockholm Globe Arena
+1587,2002-10-27,The Rising,London,Wembley Arena
+1588,2002-11-02,2002,Sea Bright,Tradewinds
+1589,2002-11-03,The Rising,Dallas,American Airlines Center
+1590,2002-11-04,The Rising,Houston,Compaq Center
+1591,2002-11-06,The Rising,Austin,Frank Erwin Center
+1592,2002-11-10,The Rising,Indianapolis,Conseco Fieldhouse
+1593,2002-11-12,The Rising,Cincinnati,U.S. Bank Arena
+1594,2002-11-14,The Rising,Lexington,Rupp Arena
+1595,2002-11-16,The Rising,Greensboro,Greensboro Coliseum
+1596,2002-11-19,The Rising,Birmingham,BJCC Arena
+1597,2002-11-21,The Rising,Orlando,TD Waterhouse Centre
+1598,2002-11-23,The Rising,Miami,American Airlines Arena
+1599,2002-11-24,The Rising,Tampa,St. Pete Times Forum
+1600,2002-12-02,The Rising,Atlanta,Philips Arena
+1601,2002-12-04,The Rising,Pittsburgh,Mellon Arena
+1602,2002-12-05,The Rising,Toronto,Air Canada Centre
+1603,2002-12-08,The Rising,Charlotte,Charlotte Coliseum
+1604,2002-12-09,The Rising,Columbia,Carolina Center
+1605,2002-12-11,2002,New York,Late Night With Conan O'Brien
+1606,2002-12-13,The Rising,Albany,Pepsi Arena
+1607,2002-12-16,The Rising,Columbus,Value City Arena
+1608,2002-12-17,The Rising,Indianapolis,Conseco Fieldhouse
+1609,2002-12-22,2002,Asbury Park,The Stone Pony
+1610,2003-02-19,2003,Somerville,Somerville Theatre
+1611,2003-02-20,2003,Somerville,Somerville Theatre
+1612,2003-02-23,2003,New York,Madison Square Garden
+1613,2003-02-28,The Rising,Duluth,The Arena at Gwinnett Center
+1614,2003-03-02,The Rising,Austin,Frank Erwin Center
+1615,2003-03-04,The Rising,Jacksonville,Jacksonville Memorial Coliseum
+1616,2003-03-06,The Rising,Richmond,Richmond Coliseum
+1617,2003-03-07,The Rising,Atlantic City,Boardwalk Hall
+1618,2003-03-10,The Rising,Providence,Dunkin' Donuts Center
+1619,2003-03-11,The Rising,Rochester,Blue Cross Arena
+1620,2003-03-20,The Rising,Melbourne,Telstra Dome
+1621,2003-03-22,The Rising,Sydney,Sydney Cricket Ground
+1622,2003-03-25,The Rising,Brisbane,Brisbane Entertainment Centre
+1623,2003-03-26,The Rising,Brisbane,Brisbane Entertainment Centre
+1624,2003-03-28,The Rising,Auckland,Western Springs Stadium
+1625,2003-04-09,The Rising,Sacramento,ARCO Arena
+1626,2003-04-11,The Rising,Vancouver,Pacific Coliseum
+1627,2003-04-13,The Rising,Calgary,Pengrowth Saddledome
+1628,2003-04-14,The Rising,Edmonton,Skyreach Centre
+1629,2003-04-18,The Rising,Ottawa,Corel Centre
+1630,2003-04-19,The Rising,Montreal,Centre Bell
+1631,2003-04-28,2003,Red Bank,Count Basie Theatre
+1632,2003-04-29,2003,Red Bank,Count Basie Theatre
+1633,2003-04-30,2003,Asbury Park,The Stone Pony
+1634,2003-05-06,The Rising,Rotterdam,Feijenoord Stadion
+1635,2003-05-08,The Rising,Rotterdam,Feijenoord Stadion
+1636,2003-05-10,The Rising,Ludwigshafen am Rhein,Südweststadion
+1637,2003-05-12,The Rising,Laken / Laeken,Koning Boudewijnstadium / Stade Roi Baudouin
+1638,2003-05-15,The Rising,Gijón,Estadio El Molinón
+1639,2003-05-17,The Rising,Barcelona,Estadi Olímpic Lluís Companys
+1640,2003-05-19,The Rising,Madrid,Estadio de la Comunidad de Madrid
+1641,2003-05-22,The Rising,Gelsenkirchen,Arena AufSchalke
+1642,2003-05-24,The Rising,Saint-Denis,Stade de France
+1643,2003-05-26,The Rising,London,Crystal Palace National Sports Centre
+1644,2003-05-27,The Rising,London,Crystal Palace National Sports Centre
+1645,2003-05-29,The Rising,Manchester,Old Trafford Cricket Ground
+1646,2003-05-31,The Rising,Dublin,RDS Arena
+1647,2003-06-08,The Rising,Florence,Stadio Comunale Artemio Franchi
+1648,2003-06-10,The Rising,Munich,Olympiastadion
+1649,2003-06-12,The Rising,Hamburg,AOL Arena
+1650,2003-06-14,The Rising,Copenhagen,Parken Stadium
+1651,2003-06-16,The Rising,Helsinki,Olympiastadion
+1652,2003-06-17,The Rising,Helsinki,Olympiastadion
+1653,2003-06-19,The Rising,Oslo,Valle Hovin
+1654,2003-06-21,The Rising,Gothenburg,Ullevi Stadium
+1655,2003-06-22,The Rising,Gothenburg,Ullevi Stadium
+1656,2003-06-25,The Rising,Vienna,Ernst Happel Stadion
+1657,2003-06-28,The Rising,Milan,Stadio Giuseppe Meazza
+1658,2003-07-15,The Rising,East Rutherford,Giants Stadium
+1659,2003-07-17,The Rising,East Rutherford,Giants Stadium
+1660,2003-07-18,The Rising,East Rutherford,Giants Stadium
+1661,2003-07-21,The Rising,East Rutherford,Giants Stadium
+1662,2003-07-24,The Rising,East Rutherford,Giants Stadium
+1663,2003-07-26,The Rising,East Rutherford,Giants Stadium
+1664,2003-07-27,The Rising,East Rutherford,Giants Stadium
+1665,2003-08-01,The Rising,Foxborough,Gillette Stadium
+1666,2003-08-02,The Rising,Foxborough,Gillette Stadium
+1667,2003-08-06,The Rising,Pittsburgh,PNC Park
+1668,2003-08-08,The Rising,Philadelphia,Lincoln Financial Field
+1669,2003-08-09,The Rising,Philadelphia,Lincoln Financial Field
+1670,2003-08-11,The Rising,Philadelphia,Lincoln Financial Field
+1671,2003-08-13,The Rising,Chicago,U.S. Cellular Field
+1672,2003-08-16,The Rising,San Francisco,Pacific Bell Park
+1673,2003-08-17,The Rising,Los Angeles,Dodger Stadium
+1674,2003-08-28,The Rising,East Rutherford,Giants Stadium
+1675,2003-08-30,The Rising,East Rutherford,Giants Stadium
+1676,2003-08-31,The Rising,East Rutherford,Giants Stadium
+1677,2003-09-06,The Rising,Boston,Fenway Park
+1678,2003-09-07,The Rising,Boston,Fenway Park
+1679,2003-09-10,The Rising,Toronto,SkyDome
+1680,2003-09-13,The Rising,Landover,FedExField
+1681,2003-09-14,The Rising,Chapel Hill,Kenan Memorial Stadium
+1682,2003-09-16,The Rising,East Hartford,Rentschler Field
+1683,2003-09-18,The Rising,East Hartford,Rentschler Field
+1684,2003-09-20,The Rising,Darien Center,Darien Lake Performing Arts Center
+1685,2003-09-21,The Rising,Detroit,Comerica Park
+1686,2003-09-25,The Rising,Denver,Invesco Field
+1687,2003-09-27,The Rising,Milwaukee,Miller Park
+1688,2003-10-01,The Rising,Queens,Shea Stadium
+1689,2003-10-03,The Rising,Queens,Shea Stadium
+1690,2003-10-04,The Rising,Queens,Shea Stadium
+1691,2003-11-01,2003,Asbury Park,The Stone Pony
+1692,2003-12-05,2003,Asbury Park,Convention Hall
+1693,2003-12-07,2003,Asbury Park,Convention Hall
+1694,2003-12-08,2003,Asbury Park,Convention Hall
+1695,2003-12-19,2003,Rumson,Holy Cross Church
+1696,2004-04-25,2004,Asbury Park,The Stone Pony
+1697,2004-07-17,2004,Asbury Park,The Stone Pony
+1698,2004-09-27,Vote for Change,Asbury Park,Convention Hall
+1699,2004-09-28,Vote for Change,Asbury Park,Convention Hall
+1700,2004-09-29,Vote for Change,Asbury Park,Convention Hall
+1701,2004-10-01,Vote for Change,Philadelphia,Wachovia Center
+1702,2004-10-02,Vote for Change,Cleveland,Gund Arena
+1703,2004-10-03,Vote for Change,Detroit,Cobo Arena
+1704,2004-10-05,Vote for Change,St. Paul,Xcel Energy Center
+1705,2004-10-08,Vote for Change,Orlando,TD Waterhouse Centre
+1706,2004-10-11,Vote for Change,Washington,MCI Center
+1707,2004-10-13,Vote for Change,East Rutherford,Continental Airlines Arena
+1708,2004-10-28,2004,Columbus,South Oval
+1709,2004-10-28,2004,Madison,Capitol Square
+1710,2004-10-29,2004,Miami,Bayfront Park Amphitheater
+1711,2004-11-01,2004,Cleveland,Strawbridge Plaza
+1712,2004-11-06,2004,Asbury Park,The Stone Pony
+1713,2004-12-02,2004,Pittsburgh,Heinz Hall
+1714,2004-12-19,2004,Asbury Park,Harry's Roadhouse
+1715,2005-04-04,2005,Red Bank,Two River Theater
+1716,2005-04-10,2005,Asbury Park,The Stone Pony
+1717,2005-04-21,2005,Asbury Park,Paramount Theatre
+1718,2005-04-25,Devils & Dust,Detroit,Fox Theatre
+1719,2005-04-28,Devils & Dust,Grand Prairie,Nokia Live at Grand Prairie
+1720,2005-04-30,Devils & Dust,Glendale,Glendale Arena
+1721,2005-05-02,Devils & Dust,Los Angeles,Pantages Theatre
+1722,2005-05-03,Devils & Dust,Los Angeles,Pantages Theatre
+1723,2005-05-05,Devils & Dust,Oakland,Paramount Theatre
+1724,2005-05-07,Devils & Dust,Denver,The Lecture Hall
+1725,2005-05-10,Devils & Dust,St. Paul,Xcel Energy Center
+1726,2005-05-11,Devils & Dust,Rosemont,Rosemont Theatre
+1727,2005-05-14,Devils & Dust,Fairfax,Patriot Center
+1728,2005-05-15,Devils & Dust,Cleveland,CSU Convocation Center
+1729,2005-05-17,Devils & Dust,Upper Darby,Tower Theatre
+1730,2005-05-19,Devils & Dust,East Rutherford,Continental Airlines Arena
+1731,2005-05-20,Devils & Dust,Boston,Orpheum Theatre
+1732,2005-05-24,Devils & Dust,Dublin,Point Theatre
+1733,2005-05-27,Devils & Dust,London,Royal Albert Hall
+1734,2005-05-28,Devils & Dust,London,Royal Albert Hall
+1735,2005-05-30,Devils & Dust,Vorst / Forest,Vorst Nationaal / Forest National
+1736,2005-06-01,Devils & Dust,Badalona,Pavelló Olímpic de Badalona
+1737,2005-06-02,Devils & Dust,Madrid,Palacio de Deportes de la Comunidad de Madrid
+1738,2005-06-04,Devils & Dust,Casalecchio di Reno,PalaMalaguti
+1739,2005-06-06,Devils & Dust,Rome,PalaLottomatica
+1740,2005-06-07,Devils & Dust,Assago,FilaForum di Assago
+1741,2005-06-13,Devils & Dust,Munich,Olympiahalle
+1742,2005-06-15,Devils & Dust,Frankfurt,Festhalle
+1743,2005-06-16,Devils & Dust,Düsseldorf,Philipshalle
+1744,2005-06-19,Devils & Dust,Rotterdam,Ahoy
+1745,2005-06-20,Devils & Dust,Paris,Palais Omnisports de Paris-Bercy
+1746,2005-06-22,Devils & Dust,Copenhagen,Forum København
+1747,2005-06-23,Devils & Dust,Gothenburg,Scandinavium
+1748,2005-06-25,Devils & Dust,Stockholm,Hovet
+1749,2005-06-27,Devils & Dust,Hamburg,Color Line Arena
+1750,2005-06-28,Devils & Dust,Berlin,ICC
+1751,2005-06-30,2005,Reykjanes Peninsula,Keflavík International Airport
+1752,2005-07-13,Devils & Dust,Ottawa,Corel Centre
+1753,2005-07-14,Devils & Dust,Toronto,Air Canada Centre
+1754,2005-07-16,Devils & Dust,Albany,Pepsi Arena
+1755,2005-07-18,Devils & Dust,Buffalo,HSBC Arena
+1756,2005-07-20,Devils & Dust,Bridgeport,Arena At Harbor Yard
+1757,2005-07-23,Devils & Dust,Atlanta,Philips Arena
+1758,2005-07-24,Devils & Dust,Charlotte,Charlotte Coliseum
+1759,2005-07-26,Devils & Dust,Greensboro,Greensboro Coliseum
+1760,2005-07-28,Devils & Dust,Pittsburgh,Petersen Events Center
+1761,2005-07-31,Devils & Dust,Columbus,Value City Arena
+1762,2005-08-01,Devils & Dust,Cincinnati,U.S. Bank Arena
+1763,2005-08-03,Devils & Dust,Grand Rapids,Van Andel Arena
+1764,2005-08-06,Devils & Dust,St. Louis,The Fabulous Fox Theatre
+1765,2005-08-07,Devils & Dust,Milwaukee,Bradley Center
+1766,2005-08-10,Devils & Dust,Portland,Theater of the Clouds
+1767,2005-08-11,Devils & Dust,Seattle,KeyArena
+1768,2005-08-13,Devils & Dust,Vancouver,Pontiac Theatre at GM Place
+1769,2005-10-04,Devils & Dust,Asbury Park,Paramount Theatre
+1770,2005-10-06,Devils & Dust,Rochester,Blue Cross Arena
+1771,2005-10-07,Devils & Dust,Hartford,Hartford Civic Center
+1772,2005-10-09,Devils & Dust,Uniondale,Nassau Veterans Memorial Coliseum
+1773,2005-10-12,Devils & Dust,Minneapolis,Northrop Auditorium
+1774,2005-10-13,Devils & Dust,Chicago,United Center
+1775,2005-10-15,Devils & Dust,Madison,Alliant Energy Center
+1776,2005-10-20,Devils & Dust,Worcester,DCU Center
+1777,2005-10-21,Devils & Dust,Providence,Dunkin' Donuts Center
+1778,2005-10-24,Devils & Dust,Richmond,Richmond Coliseum
+1779,2005-10-28,Devils & Dust,Boston,TD Banknorth Garden
+1780,2005-10-30,Devils & Dust,Boston,TD Banknorth Garden
+1781,2005-11-04,Devils & Dust,Tampa,St. Pete Times Forum
+1782,2005-11-08,Devils & Dust,Philadelphia,Wachovia Spectrum
+1783,2005-11-09,Devils & Dust,Philadelphia,Wachovia Spectrum
+1784,2005-11-11,Devils & Dust,Norfolk,Ted Constant Convocation Center
+1785,2005-11-13,Devils & Dust,Atlantic City,Boardwalk Hall
+1786,2005-11-16,Devils & Dust,East Rutherford,Continental Airlines Arena
+1787,2005-11-17,Devils & Dust,East Rutherford,Continental Airlines Arena
+1788,2005-11-19,Devils & Dust,Hollywood,Hard Rock Live
+1789,2005-11-21,Devils & Dust,Trenton,Sovereign Bank Arena
+1790,2005-11-22,Devils & Dust,Trenton,Sovereign Bank Arena
+1791,2006-02-06,2006,Los Angeles,Los Angeles Convention Center
+1792,2006-02-08,2006,Los Angeles,Staples Center
+1793,2006-04-20,2006,Asbury Park,Convention Hall
+1794,2006-04-25,2006,Asbury Park,Convention Hall
+1795,2006-04-26,2006,Asbury Park,Convention Hall
+1796,2006-04-30,Seeger Sessions,New Orleans,Fair Grounds Race Course
+1797,2006-05-02,2006,Asbury Park,The Stone Pony
+1798,2006-05-05,Seeger Sessions,Dublin,Point Theatre
+1799,2006-05-07,Seeger Sessions,Manchester,Manchester Evening News Arena
+1800,2006-05-08,Seeger Sessions,London,Hammersmith Apollo
+1801,2006-05-09,Seeger Sessions,London,LSO St Luke's
+1802,2006-05-10,Seeger Sessions,Paris,Palais Omnisports de Paris-Bercy
+1803,2006-05-12,Seeger Sessions,Assago,DatchForum di Assago
+1804,2006-05-14,Seeger Sessions,Badalona,Pavelló Olímpic de Badalona
+1805,2006-05-16,Seeger Sessions,Amsterdam,Heineken Music Hall
+1806,2006-05-17,Seeger Sessions,Frankfurt,Festhalle
+1807,2006-05-20,Seeger Sessions,Oslo,Oslo Spektrum
+1808,2006-05-21,Seeger Sessions,Stockholm,Hovet
+1809,2006-05-27,Seeger Sessions,Mansfield,Tweeter Center for the Performing Arts
+1810,2006-05-28,Seeger Sessions,Bristow,Nissan Pavilion
+1811,2006-05-30,Seeger Sessions,Columbus,Germain Amphitheater
+1812,2006-05-31,Seeger Sessions,Noblesville,Verizon Wireless Music Center
+1813,2006-06-03,Seeger Sessions,Glendale,Glendale Arena
+1814,2006-06-05,Seeger Sessions,Los Angeles,Greek Theatre
+1815,2006-06-05,2006,Burbank,The Tonight Show with Jay Leno
+1816,2006-06-06,Seeger Sessions,Concord,Sleep Train Pavilion
+1817,2006-06-10,Seeger Sessions,Des Moines,Wells Fargo Arena
+1818,2006-06-11,Seeger Sessions,St. Paul,Xcel Energy Center
+1819,2006-06-13,Seeger Sessions,Tinley Park,First Midwest Bank Amphitheatre
+1820,2006-06-14,Seeger Sessions,Milwaukee,Bradley Center
+1821,2006-06-16,Seeger Sessions,Cuyahoga Falls,Blossom Music Center
+1822,2006-06-17,Seeger Sessions,Clarkston,DTE Energy Music Theatre
+1823,2006-06-19,Seeger Sessions,Saratoga Springs,Saratoga Performing Arts Center
+1824,2006-06-20,Seeger Sessions,Camden,Tweeter Center
+1825,2006-06-22,Seeger Sessions,New York,Madison Square Garden
+1826,2006-06-23,2006,New York,Late Night With Conan O'Brien
+1827,2006-06-24,Seeger Sessions,Holmdel,PNC Bank Arts Center
+1828,2006-06-25,Seeger Sessions,Holmdel,PNC Bank Arts Center
+1829,2006-08-05,Seeger Sessions,Holmdel,PNC Bank Arts Center
+1830,2006-10-01,Seeger Sessions,Casalecchio di Reno,PalaMalaguti
+1831,2006-10-02,Seeger Sessions,Turin,PalaOlimpico
+1832,2006-10-04,Seeger Sessions,Codroipo,Villa Manin
+1833,2006-10-05,Seeger Sessions,Verona,Arena di Verona
+1834,2006-10-07,Seeger Sessions,Perugia,Stadio Comunale Santa Giuliana
+1835,2006-10-08,Seeger Sessions,Castel Morrone,PalaMaggiò
+1836,2006-10-10,Seeger Sessions,Rome,PalaLottomatica
+1837,2006-10-12,Seeger Sessions,Hamburg,Color Line Arena
+1838,2006-10-13,Seeger Sessions,Rotterdam,Ahoy
+1839,2006-10-19,Seeger Sessions,Madrid,Plaza de Toros de Las Ventas
+1840,2006-10-21,Seeger Sessions,Valencia,Estadi Ciutat de València
+1841,2006-10-22,Seeger Sessions,Granada,Plaza de toros de Granada
+1842,2006-10-24,Seeger Sessions,Barcelona,Palau Sant Jordi
+1843,2006-10-25,Seeger Sessions,Santander,Palacio de Deportes de Santander
+1844,2006-10-28,Seeger Sessions,Copenhagen,Parken Stadium
+1845,2006-10-29,Seeger Sessions,Oslo,Oslo Spektrum
+1846,2006-10-30,Seeger Sessions,Stockholm,Stockholm Globe Arena
+1847,2006-11-06,Seeger Sessions,Cologne,Kölnarena
+1848,2006-11-07,Seeger Sessions,Merksem,Sportpaleis
+1849,2006-11-09,Seeger Sessions,Birmingham,NEC Arena
+1850,2006-11-11,Seeger Sessions,London,Wembley Arena
+1851,2006-11-12,Seeger Sessions,London,Wembley Arena
+1852,2006-11-14,Seeger Sessions,Sheffield,Hallam FM Arena
+1853,2006-11-17,Seeger Sessions,Dublin,Point Theatre
+1854,2006-11-18,Seeger Sessions,Dublin,Point Theatre
+1855,2006-11-19,Seeger Sessions,Dublin,Point Theatre
+1856,2006-11-21,Seeger Sessions,Belfast,Odyssey Arena
+1857,2006-12-12,2006,Red Bank,Count Basie Theatre
+1858,2007-04-05,2007,New York,Isaac Stern Auditorium at Carnegie Hall
+1859,2007-04-29,2007,Asbury Park,The Stone Pony
+1860,2007-09-24,2007,Asbury Park,Convention Hall
+1861,2007-09-25,2007,Asbury Park,Convention Hall
+1862,2007-09-28,2007,New York,Rockefeller Plaza
+1863,2007-09-28,2007,East Rutherford,Continental Airlines Arena
+1864,2007-10-02,Magic,Hartford,Hartford Civic Center
+1865,2007-10-05,Magic,Philadelphia,Wachovia Center
+1866,2007-10-06,Magic,Philadelphia,Wachovia Center
+1867,2007-10-09,Magic,East Rutherford,Continental Airlines Arena
+1868,2007-10-10,Magic,East Rutherford,Continental Airlines Arena
+1869,2007-10-14,Magic,Ottawa,Scotiabank Place
+1870,2007-10-15,Magic,Toronto,Air Canada Centre
+1871,2007-10-17,Magic,New York,Madison Square Garden
+1872,2007-10-18,Magic,New York,Madison Square Garden
+1873,2007-10-21,Magic,Chicago,United Center
+1874,2007-10-22,Magic,Chicago,United Center
+1875,2007-10-25,Magic,Oakland,Oracle Arena
+1876,2007-10-26,Magic,Oakland,Oracle Arena
+1877,2007-10-29,Magic,Los Angeles,Los Angeles Sports Arena
+1878,2007-10-30,Magic,Los Angeles,Los Angeles Sports Arena
+1879,2007-11-02,Magic,St. Paul,Xcel Energy Center
+1880,2007-11-04,Magic,Cleveland,Quicken Loans Arena
+1881,2007-11-05,Magic,Auburn Hills,The Palace of Auburn Hills
+1882,2007-11-07,2007,New York,The Town Hall
+1883,2007-11-09,2007,New York,Chelsea Piers
+1884,2007-11-11,Magic,Washington,Verizon Center
+1885,2007-11-12,Magic,Washington,Verizon Center
+1886,2007-11-14,Magic,Pittsburgh,Mellon Arena
+1887,2007-11-15,Magic,Albany,Times Union Center
+1888,2007-11-18,Magic,Boston,TD Banknorth Garden
+1889,2007-11-19,Magic,Boston,TD Banknorth Garden
+1890,2007-11-25,Magic,Madrid,Palacio de Deportes de la Comunidad de Madrid
+1891,2007-11-26,Magic,Barakaldo,Bilbao Exhibition Centre
+1892,2007-11-28,Magic,Assago,DatchForum di Assago
+1893,2007-12-01,Magic,Arnhem,Gelredome
+1894,2007-12-02,Magic,Mannheim,SAP Arena
+1895,2007-12-04,Magic,Oslo,Oslo Spektrum
+1896,2007-12-08,Magic,Copenhagen,Forum København
+1897,2007-12-10,Magic,Stockholm,Stockholm Globe Arena
+1898,2007-12-12,Magic,Merksem,Sportpaleis
+1899,2007-12-13,Magic,Cologne,Kölnarena
+1900,2007-12-15,Magic,Belfast,Odyssey Arena
+1901,2007-12-17,Magic,Paris,Palais Omnisports de Paris-Bercy
+1902,2007-12-19,Magic,London,The O2 Arena
+1903,2008-02-28,Magic,Hartford,XL Center
+1904,2008-03-02,Magic,Montreal,Centre Bell
+1905,2008-03-03,Magic,Hamilton,Copps Coliseum
+1906,2008-03-06,Magic,Rochester,Blue Cross Arena
+1907,2008-03-07,Magic,Buffalo,HSBC Arena
+1908,2008-03-10,Magic,Uniondale,Nassau Veterans Memorial Coliseum
+1909,2008-03-14,Magic,Omaha,Qwest Center
+1910,2008-03-16,Magic,St. Paul,Xcel Energy Center
+1911,2008-03-17,Magic,Milwaukee,Bradley Center
+1912,2008-03-20,Magic,Indianapolis,Conseco Fieldhouse
+1913,2008-03-22,Magic,Cincinnati,U.S. Bank Arena
+1914,2008-03-24,Magic,Columbus,Value City Arena
+1915,2008-03-28,Magic,Portland,Rose Garden Arena
+1916,2008-03-29,Magic,Seattle,KeyArena
+1917,2008-03-31,Magic,Vancouver,General Motors Place
+1918,2008-04-04,Magic,Sacramento,ARCO Arena
+1919,2008-04-05,Magic,San Jose,HP Pavilion
+1920,2008-04-07,Magic,Anaheim,Honda Center
+1921,2008-04-08,Magic,Anaheim,Honda Center
+1922,2008-04-13,Magic,Dallas,American Airlines Center
+1923,2008-04-14,Magic,Houston,Toyota Center
+1924,2008-04-19,Magic,Orlando,Amway Arena
+1925,2008-04-21,2008,Red Bank,United Methodist Church of Red Bank
+1926,2008-04-22,Magic,Tampa,St. Pete Times Forum
+1927,2008-04-23,Magic,Orlando,Amway Arena
+1928,2008-04-25,Magic,Atlanta,Philips Arena
+1929,2008-04-27,Magic,Charlotte,Time Warner Cable Arena
+1930,2008-04-28,Magic,Greensboro,Greensboro Coliseum
+1931,2008-04-30,Magic,Charlottesville,John Paul Jones Arena
+1932,2008-05-02,Magic,Sunrise,BankAtlantic Center
+1933,2008-05-07,2008,Red Bank,Count Basie Theatre
+1934,2008-05-13,2008,Asbury Park,The Stone Pony
+1935,2008-05-22,Magic,Dublin,RDS Arena
+1936,2008-05-23,Magic,Dublin,RDS Arena
+1937,2008-05-25,Magic,Dublin,RDS Arena
+1938,2008-05-28,Magic,Manchester,Old Trafford Football Stadium
+1939,2008-05-29,Magic,Foxborough,Gillette Stadium
+1940,2008-05-30,Magic,London,Emirates Stadium
+1941,2008-05-31,Magic,London,Emirates Stadium
+1942,2008-06-14,Magic,Cardiff,Millennium Stadium
+1943,2008-06-16,Magic,Düsseldorf,LTU-Arena
+1944,2008-06-18,Magic,Amsterdam,ArenA
+1945,2008-06-21,Magic,Hamburg,HSH Nordbank Arena
+1946,2008-06-23,Magic,Merksem,Sportpaleis
+1947,2008-06-25,Magic,Milan,Stadio Giuseppe Meazza
+1948,2008-06-27,Magic,Paris,Parc des Princes
+1949,2008-06-29,Magic,Copenhagen,Parken Stadium
+1950,2008-07-04,Magic,Gothenburg,Ullevi Stadium
+1951,2008-07-05,Magic,Gothenburg,Ullevi Stadium
+1952,2008-07-07,Magic,Oslo,Valle Hovin
+1953,2008-07-08,Magic,Oslo,Valle Hovin
+1954,2008-07-11,Magic,Helsinki,Olympiastadion
+1955,2008-07-15,Magic,San Sebastian,Estadio de Anoeta
+1956,2008-07-17,Magic,Madrid,Estadio Santiago Bernabeu
+1957,2008-07-19,Magic,Barcelona,Camp Nou
+1958,2008-07-20,Magic,Barcelona,Camp Nou
+1959,2008-07-27,Magic,East Rutherford,Giants Stadium
+1960,2008-07-28,Magic,East Rutherford,Giants Stadium
+1961,2008-07-31,Magic,East Rutherford,Giants Stadium
+1962,2008-08-02,Magic,Foxborough,Gillette Stadium
+1963,2008-08-15,Magic,Jacksonville,Jacksonville Veterans Memorial Arena
+1964,2008-08-16,Magic,North Charleston,North Charleston Coliseum
+1965,2008-08-18,Magic,Richmond,Richmond Coliseum
+1966,2008-08-19,Magic,Hershey,Hersheypark Stadium
+1967,2008-08-21,Magic,Nashville,Sommet Center
+1968,2008-08-23,Magic,St. Louis,Scottrade Center
+1969,2008-08-24,Magic,Kansas City,Sprint Center
+1970,2008-08-30,Magic,Milwaukee,Veterans Park
+1971,2008-10-04,2008,Philadelphia,Benjamin Franklin Parkway
+1972,2008-10-05,2008,Columbus,The Ohio State University
+1973,2008-10-06,2008,Ypsilanti,Oestrike Stadium
+1974,2008-10-16,2008,New York,Hammerstein Ballroom
+1975,2008-11-02,2008,Cleveland,Mall B
+1976,2008-11-05,2008,New York,The Town Hall
+1977,2009-01-18,2009,Washington,Lincoln Memorial
+1978,2009-02-01,2009,Tampa,Raymond James Stadium
+1979,2009-03-19,2009,Asbury Park,Convention Hall
+1980,2009-03-19,2009,New York,The Daily Show With Jon Stewart
+1981,2009-03-21,2009,Ocean City,Ocean City Music Pier
+1982,2009-03-23,Working on a Dream,Asbury Park,Convention Hall
+1983,2009-03-24,Working on a Dream,Asbury Park,Convention Hall
+1984,2009-04-01,Working on a Dream,San Jose,HP Pavilion
+1985,2009-04-03,Working on a Dream,Glendale,Jobing.com Arena
+1986,2009-04-05,Working on a Dream,Austin,Frank Erwin Center
+1987,2009-04-07,Working on a Dream,Tulsa,BOK Center
+1988,2009-04-08,Working on a Dream,Houston,Toyota Center
+1989,2009-04-10,Working on a Dream,Denver,Pepsi Center
+1990,2009-04-15,Working on a Dream,Los Angeles,Los Angeles Sports Arena
+1991,2009-04-16,Working on a Dream,Los Angeles,Los Angeles Sports Arena
+1992,2009-04-21,Working on a Dream,Boston,TD Banknorth Garden
+1993,2009-04-22,Working on a Dream,Boston,TD Banknorth Garden
+1994,2009-04-24,Working on a Dream,Hartford,XL Center
+1995,2009-04-26,Working on a Dream,Atlanta,Philips Arena
+1996,2009-04-27,2009,New York,Alice Tully Hall
+1997,2009-04-28,Working on a Dream,Philadelphia,Wachovia Spectrum
+1998,2009-04-29,Working on a Dream,Philadelphia,Wachovia Spectrum
+1999,2009-05-02,Working on a Dream,Greensboro,Greensboro Coliseum
+2000,2009-05-03,2009,New York,Madison Square Garden
+2001,2009-05-04,Working on a Dream,Uniondale,Nassau Veterans Memorial Coliseum
+2002,2009-05-05,Working on a Dream,Charlottesville,John Paul Jones Arena
+2003,2009-05-07,Working on a Dream,Toronto,Air Canada Centre
+2004,2009-05-08,Working on a Dream,University Park,Bryce Jordan Center
+2005,2009-05-11,Working on a Dream,St. Paul,Xcel Energy Center
+2006,2009-05-12,Working on a Dream,Chicago,United Center
+2007,2009-05-14,Working on a Dream,Albany,Times Union Center
+2008,2009-05-15,Working on a Dream,Hershey,Hersheypark Stadium
+2009,2009-05-18,Working on a Dream,Washington,Verizon Center
+2010,2009-05-19,Working on a Dream,Pittsburgh,Mellon Arena
+2011,2009-05-21,Working on a Dream,East Rutherford,Izod Center
+2012,2009-05-23,Working on a Dream,East Rutherford,Izod Center
+2013,2009-05-30,Working on a Dream,Landgraaf,Megaland
+2014,2009-06-02,Working on a Dream,Tampere,Ratinan Stadion
+2015,2009-06-04,Working on a Dream,Stockholm,Stockholms Stadion
+2016,2009-06-05,Working on a Dream,Stockholm,Stockholms Stadion
+2017,2009-06-07,Working on a Dream,Stockholm,Stockholms Stadion
+2018,2009-06-09,Working on a Dream,Bergen,Koengen
+2019,2009-06-10,Working on a Dream,Bergen,Koengen
+2020,2009-06-13,Working on a Dream,Manchester,Great Stage Park
+2021,2009-06-27,Working on a Dream,Pilton,Worthy Farm
+2022,2009-06-28,Working on a Dream,London,Hyde Park
+2023,2009-06-30,Working on a Dream,Bern,Stade de Suisse
+2024,2009-07-02,Working on a Dream,Munich,Olympiastadion
+2025,2009-07-03,Working on a Dream,Frankfurt,Commerzbank-Arena
+2026,2009-07-05,Working on a Dream,Vienna,Ernst Happel Stadion
+2027,2009-07-08,Working on a Dream,Herning,Messecenter
+2028,2009-07-11,Working on a Dream,Dublin,RDS Arena
+2029,2009-07-12,Working on a Dream,Dublin,RDS Arena
+2030,2009-07-14,Working on a Dream,Glasgow,Hampden Park
+2031,2009-07-16,Working on a Dream,Carhaix-Plouguer,La Prairie de Kerampuilh
+2032,2009-07-19,Working on a Dream,Rome,Stadio Olimpico
+2033,2009-07-21,Working on a Dream,Turin,Stadio Olimpico
+2034,2009-07-23,Working on a Dream,Udine,Stadio Friuli
+2035,2009-07-26,Working on a Dream,Bilbao,Estadio San Mamés
+2036,2009-07-28,Working on a Dream,Seville,Estadio La Cartuja de Sevilla
+2037,2009-07-30,Working on a Dream,Benidorm,Estadio Municipal de Foietes
+2038,2009-08-01,Working on a Dream,Valladolid,Estadio Municipal José Zorrilla
+2039,2009-08-02,Working on a Dream,Santiago de Compostela,Auditorio Monte do Gozo
+2040,2009-08-19,Working on a Dream,Hartford,Comcast Theatre
+2041,2009-08-22,Working on a Dream,Mansfield,Comcast Center
+2042,2009-08-23,Working on a Dream,Mansfield,Comcast Center
+2043,2009-08-25,Working on a Dream,Saratoga Springs,Saratoga Performing Arts Center
+2044,2009-09-12,Working on a Dream,Tampa,Ford Amphitheatre
+2045,2009-09-13,Working on a Dream,Sunrise,BankAtlantic Center
+2046,2009-09-16,Working on a Dream,Greenville,BI-LO Center
+2047,2009-09-20,Working on a Dream,Chicago,United Center
+2048,2009-09-21,Working on a Dream,Des Moines,Wells Fargo Arena
+2049,2009-09-25,Working on a Dream,New York,Apollo Theater
+2050,2009-09-30,Working on a Dream,East Rutherford,Giants Stadium
+2051,2009-10-02,Working on a Dream,East Rutherford,Giants Stadium
+2052,2009-10-03,Working on a Dream,East Rutherford,Giants Stadium
+2053,2009-10-08,Working on a Dream,East Rutherford,Giants Stadium
+2054,2009-10-09,Working on a Dream,East Rutherford,Giants Stadium
+2055,2009-10-13,Working on a Dream,Philadelphia,Wachovia Spectrum
+2056,2009-10-14,Working on a Dream,Philadelphia,Wachovia Spectrum
+2057,2009-10-17,2009,Asbury Park,The Stone Pony
+2058,2009-10-19,Working on a Dream,Philadelphia,Wachovia Spectrum
+2059,2009-10-20,Working on a Dream,Philadelphia,Wachovia Spectrum
+2060,2009-10-25,Working on a Dream,St. Louis,Scottrade Center
+2061,2009-10-29,2009,New York,Madison Square Garden
+2062,2009-11-02,Working on a Dream,Washington,Verizon Center
+2063,2009-11-03,Working on a Dream,Charlotte,Time Warner Cable Arena
+2064,2009-11-04,2009,New York,The Town Hall
+2065,2009-11-07,Working on a Dream,New York,Madison Square Garden
+2066,2009-11-08,Working on a Dream,New York,Madison Square Garden
+2067,2009-11-10,Working on a Dream,Cleveland,Quicken Loans Arena
+2068,2009-11-13,Working on a Dream,Auburn Hills,The Palace of Auburn Hills
+2069,2009-11-15,Working on a Dream,Milwaukee,Bradley Center
+2070,2009-11-17,2009,New York,Isaac Stern Auditorium at Carnegie Hall
+2071,2009-11-18,Working on a Dream,Nashville,Sommet Center
+2072,2009-11-20,Working on a Dream,Baltimore,1st Mariner Arena
+2073,2009-11-22,Working on a Dream,Buffalo,HSBC Arena
+2074,2009-12-13,2009,Asbury Park,Paramount Theatre
+2075,2010-01-16,2010,Asbury Park,Paramount Theatre
+2076,2010-01-22,2010,New York,Kaufman Astoria Studios
+2077,2010-01-23,2010,Asbury Park,The Stone Pony
+2078,2010-05-02,2010,Newark,New Jersey Performing Arts Center
+2079,2010-05-06,2010,Madison,Dreyfuss Theater
+2080,2010-05-13,2010,New York,Isaac Stern Auditorium at Carnegie Hall
+2081,2010-05-22,2010,New York,Nokia Theatre Times Square
+2082,2010-09-11,2010,Asbury Park,The Stone Pony
+2083,2010-11-03,2010,New York,Beacon Theatre
+2084,2010-11-04,2010,Pittsburgh,Soldiers and Sailors Memorial Hall and Museum
+2085,2010-11-05,2010,Pittsburgh,Soldiers and Sailors Memorial Hall and Museum
+2086,2010-11-16,2010,New York,Late Night With Jimmy Fallon
+2087,2010-12-07,2010,Asbury Park,Carousel House
+2088,2011-01-15,2011,Asbury Park,Paramount Theatre
+2089,2011-01-29,2011,Asbury Park,The Stone Pony
+2090,2011-06-21,2011,Palm Beach,Royal Poinciana Playhouse
+2091,2011-07-17,2011,Asbury Park,Wonder Bar
+2092,2011-10-01,2011,New York,Beacon Theatre
+2093,2011-10-22,2011,Asbury Park,The Stone Pony
+2094,2011-11-03,2011,Pittsburgh,Soldiers and Sailors Memorial Hall and Museum
+2095,2011-11-04,2011,Pittsburgh,Soldiers and Sailors Memorial Hall and Museum
+2096,2011-11-09,2011,New York,Beacon Theatre
+2097,2012-01-14,2012,Asbury Park,Paramount Theatre
+2098,2012-02-12,2012,Los Angeles,Staples Center
+2099,2012-02-27,2012,New York,Late Night With Jimmy Fallon
+2100,2012-03-02,2012,New York,Late Night With Jimmy Fallon
+2101,2012-03-09,2012,New York,Apollo Theater
+2102,2012-03-15,2012,Austin,ACL Live at The Moody Theater
+2103,2012-03-18,Wrecking Ball,Atlanta,Philips Arena
+2104,2012-03-19,Wrecking Ball,Greensboro,Greensboro Coliseum
+2105,2012-03-23,Wrecking Ball,Tampa,Tampa Bay Times Forum
+2106,2012-03-26,Wrecking Ball,Boston,TD Garden
+2107,2012-03-28,Wrecking Ball,Philadelphia,Wells Fargo Center
+2108,2012-03-29,Wrecking Ball,Philadelphia,Wells Fargo Center
+2109,2012-04-01,Wrecking Ball,Washington,Verizon Center
+2110,2012-04-03,Wrecking Ball,East Rutherford,Izod Center
+2111,2012-04-04,Wrecking Ball,East Rutherford,Izod Center
+2112,2012-04-06,Wrecking Ball,New York,Madison Square Garden
+2113,2012-04-09,Wrecking Ball,New York,Madison Square Garden
+2114,2012-04-12,Wrecking Ball,Auburn Hills,The Palace of Auburn Hills
+2115,2012-04-13,Wrecking Ball,Buffalo,First Niagara Center
+2116,2012-04-16,Wrecking Ball,Albany,Times Union Center
+2117,2012-04-17,Wrecking Ball,Cleveland,Quicken Loans Arena
+2118,2012-04-24,Wrecking Ball,San Jose,HP Pavilion
+2119,2012-04-26,Wrecking Ball,Los Angeles,Los Angeles Sports Arena
+2120,2012-04-27,Wrecking Ball,Los Angeles,Los Angeles Sports Arena
+2121,2012-04-29,Wrecking Ball,New Orleans,Fair Grounds Race Course
+2122,2012-05-02,Wrecking Ball,Newark,Prudential Center
+2123,2012-05-13,Wrecking Ball,Seville,Estadio La Cartuja de Sevilla
+2124,2012-05-15,Wrecking Ball,Las Palmas de Gran Canaria,Estadio de Gran Canaria
+2125,2012-05-17,Wrecking Ball,Barcelona,Estadi Olímpic Lluís Companys
+2126,2012-05-18,Wrecking Ball,Barcelona,Estadi Olímpic Lluís Companys
+2127,2012-05-25,Wrecking Ball,Frankfurt,Commerzbank-Arena
+2128,2012-05-27,Wrecking Ball,Cologne,RheinEnergieStadion
+2129,2012-05-28,Wrecking Ball,Landgraaf,Megaland
+2130,2012-05-30,Wrecking Ball,Berlin,Olympiastadion
+2131,2012-06-02,Wrecking Ball,San Sebastian,Estadio de Anoeta
+2132,2012-06-03,Wrecking Ball,Lisbon,Parque da Bela Vista
+2133,2012-06-07,Wrecking Ball,Milan,Stadio Giuseppe Meazza
+2134,2012-06-10,Wrecking Ball,Florence,Stadio Comunale Artemio Franchi
+2135,2012-06-11,Wrecking Ball,Trieste,Stadio Nereo Rocco
+2136,2012-06-17,Wrecking Ball,Madrid,Estadio Santiago Bernabeu
+2137,2012-06-19,Wrecking Ball,Pérols,Park&Suites Arena
+2138,2012-06-21,Wrecking Ball,Sunderland,Stadium of Light
+2139,2012-06-22,Wrecking Ball,Manchester,Etihad Stadium
+2140,2012-06-24,Wrecking Ball,Newport,Seaclose Park
+2141,2012-07-04,Wrecking Ball,Paris,Palais Omnisports de Paris-Bercy
+2142,2012-07-05,Wrecking Ball,Paris,Palais Omnisports de Paris-Bercy
+2143,2012-07-07,Wrecking Ball,Roskilde,Dyrskuepladsen
+2144,2012-07-09,Wrecking Ball,Zurich,Letzigrund Stadion
+2145,2012-07-11,Wrecking Ball,Prague,Synot Tip Arena
+2146,2012-07-12,Wrecking Ball,Vienna,Ernst Happel Stadion
+2147,2012-07-14,Wrecking Ball,London,Hyde Park
+2148,2012-07-17,Wrecking Ball,Dublin,RDS Arena
+2149,2012-07-18,Wrecking Ball,Dublin,RDS Arena
+2150,2012-07-21,Wrecking Ball,Oslo,Valle Hovin
+2151,2012-07-22,2012,Oslo,Rådhusplassen
+2152,2012-07-23,Wrecking Ball,Bergen,Koengen
+2153,2012-07-24,Wrecking Ball,Bergen,Koengen
+2154,2012-07-27,Wrecking Ball,Gothenburg,Ullevi Stadium
+2155,2012-07-28,Wrecking Ball,Gothenburg,Ullevi Stadium
+2156,2012-07-31,Wrecking Ball,Helsinki,Olympiastadion
+2157,2012-08-14,Wrecking Ball,Boston,Fenway Park
+2158,2012-08-15,Wrecking Ball,Boston,Fenway Park
+2159,2012-08-18,Wrecking Ball,Foxborough,Gillette Stadium
+2160,2012-08-24,Wrecking Ball,Toronto,Rogers Centre
+2161,2012-08-26,Wrecking Ball,Moncton,Magnetic Hill Park
+2162,2012-08-29,Wrecking Ball,Vernon,Vernon Downs
+2163,2012-09-02,Wrecking Ball,Philadelphia,Citizens Bank Park
+2164,2012-09-03,Wrecking Ball,Philadelphia,Citizens Bank Park
+2165,2012-09-07,Wrecking Ball,Chicago,Wrigley Field
+2166,2012-09-08,Wrecking Ball,Chicago,Wrigley Field
+2167,2012-09-14,Wrecking Ball,Washington,Nationals Park
+2168,2012-09-19,Wrecking Ball,East Rutherford,MetLife Stadium
+2169,2012-09-21,Wrecking Ball,East Rutherford,MetLife Stadium
+2170,2012-09-22,Wrecking Ball,East Rutherford,MetLife Stadium
+2171,2012-10-16,Wrecking Ball,New York,Hammerstein Ballroom
+2172,2012-10-18,Forward,Parma,Cuyahoga Community College Western Campus
+2173,2012-10-18,Forward,Ames,Iowa State University
+2174,2012-10-19,Wrecking Ball,Ottawa,Scotiabank Place
+2175,2012-10-21,Wrecking Ball,Hamilton,Copps Coliseum
+2176,2012-10-23,Wrecking Ball,Charlottesville,John Paul Jones Arena
+2177,2012-10-23,Forward,Charlottesville,nTelos Wireless Pavilion
+2178,2012-10-25,Wrecking Ball,Hartford,XL Center
+2179,2012-10-27,Forward,Pittsburgh,Soldiers and Sailors Memorial Hall and Museum
+2180,2012-10-27,Wrecking Ball,Pittsburgh,Consol Energy Center
+2181,2012-10-31,Wrecking Ball,Rochester,Blue Cross Arena
+2182,2012-11-01,Wrecking Ball,University Park,Bryce Jordan Center
+2183,2012-11-02,Wrecking Ball,New York,NBC Studios
+2184,2012-11-03,Wrecking Ball,Louisville,KFC Yum! Center
+2185,2012-11-05,Forward,Des Moines,East Village
+2186,2012-11-05,Forward,Columbus,Nationwide Arena
+2187,2012-11-05,Forward,Madison,Monona Terrace Community and Convention Center
+2188,2012-11-08,2012,New York,Beacon Theatre
+2189,2012-11-11,Wrecking Ball,St. Paul,Xcel Energy Center
+2190,2012-11-12,Wrecking Ball,St. Paul,Xcel Energy Center
+2191,2012-11-15,Wrecking Ball,Omaha,CenturyLink Center
+2192,2012-11-17,Wrecking Ball,Kansas City,Sprint Center
+2193,2012-11-19,Wrecking Ball,Denver,Pepsi Center
+2194,2012-11-26,Wrecking Ball,Vancouver,Rogers Arena
+2195,2012-11-28,Wrecking Ball,Portland,Rose Garden Arena
+2196,2012-11-30,Wrecking Ball,Oakland,Oracle Arena
+2197,2012-12-04,Wrecking Ball,Anaheim,Honda Center
+2198,2012-12-06,Wrecking Ball,Glendale,Jobing.com Arena
+2199,2012-12-10,Wrecking Ball,Mexico City,Palacio de los Deportes
+2200,2012-12-12,2012,New York,Madison Square Garden
+2201,2013-02-08,Wrecking Ball,Los Angeles,Los Angeles Convention Center
+2202,2013-03-14,Wrecking Ball,Brisbane,Brisbane Entertainment Centre
+2203,2013-03-16,Wrecking Ball,Brisbane,Brisbane Entertainment Centre
+2204,2013-03-18,Wrecking Ball,Sydney,Allphones Arena
+2205,2013-03-20,Wrecking Ball,Sydney,Allphones Arena
+2206,2013-03-22,Wrecking Ball,Sydney,Allphones Arena
+2207,2013-03-24,Wrecking Ball,Melbourne,Rod Laver Arena
+2208,2013-03-26,Wrecking Ball,Melbourne,Rod Laver Arena
+2209,2013-03-27,Wrecking Ball,Melbourne,Rod Laver Arena
+2210,2013-03-30,Wrecking Ball,Newham,Hanging Rock Reserve
+2211,2013-03-31,Wrecking Ball,Newham,Hanging Rock Reserve
+2212,2013-04-29,Wrecking Ball,Fornebu,Telenor Arena
+2213,2013-04-30,Wrecking Ball,Fornebu,Telenor Arena
+2214,2013-05-03,Wrecking Ball,Solna,Friends Arena
+2215,2013-05-04,Wrecking Ball,Solna,Friends Arena
+2216,2013-05-07,Wrecking Ball,Turku,HK Areena
+2217,2013-05-08,Wrecking Ball,Turku,HK Areena
+2218,2013-05-11,Wrecking Ball,Solna,Friends Arena
+2219,2013-05-14,Wrecking Ball,Copenhagen,Parken Stadium
+2220,2013-05-16,Wrecking Ball,Herning,Jyske Bank Boxen
+2221,2013-05-23,Wrecking Ball,Naples,Piazza del Plebiscito
+2222,2013-05-26,Wrecking Ball,Munich,Olympiastadion
+2223,2013-05-28,Wrecking Ball,Hanover,AWD Arena
+2224,2013-05-31,Wrecking Ball,Padua,Stadio Euganeo
+2225,2013-06-03,Wrecking Ball,Milan,Stadio Giuseppe Meazza
+2226,2013-06-10,2013,London,MTV Studios
+2227,2013-06-15,Wrecking Ball,London,Wembley Stadium
+2228,2013-06-18,Wrecking Ball,Glasgow,Hampden Park
+2229,2013-06-20,Wrecking Ball,Coventry,Ricoh Arena
+2230,2013-06-22,Wrecking Ball,Nijmegen,Goffertpark
+2231,2013-06-26,Wrecking Ball,Gijón,Estadio El Molinón
+2232,2013-06-29,Wrecking Ball,Saint-Denis,Stade de France
+2233,2013-06-30,Wrecking Ball,London,Queen Elizabeth Olympic Park
+2234,2013-07-03,Wrecking Ball,Lancy,Stade de Genève
+2235,2013-07-05,Wrecking Ball,Mönchengladbach,Borussia-Park
+2236,2013-07-07,Wrecking Ball,Leipzig,Red Bull Arena
+2237,2013-07-11,Wrecking Ball,Rome,Ippodromo delle Capannelle
+2238,2013-07-13,Wrecking Ball,Werchter,Festivalpark
+2239,2013-07-16,Wrecking Ball,Limerick,Thomond Park
+2240,2013-07-18,Wrecking Ball,Cork,Pairc Ui Chaoimh
+2241,2013-07-20,Wrecking Ball,Belfast,King's Hall
+2242,2013-07-23,Wrecking Ball,Cardiff,Millennium Stadium
+2243,2013-07-24,Wrecking Ball,Leeds,First Direct Arena
+2244,2013-07-27,Wrecking Ball,Kilkenny,Nowlan Park
+2245,2013-07-28,Wrecking Ball,Kilkenny,Nowlan Park
+2246,2013-09-12,Wrecking Ball,Santiago,Movistar Arena
+2247,2013-09-14,Wrecking Ball,Buenos Aires,Club GEBA - Sede Jorge Newbery
+2248,2013-09-18,Wrecking Ball,São Paulo,Espaço das Américas
+2249,2013-09-21,Wrecking Ball,Rio de Janeiro,Cidade do Rock
+2250,2013-11-06,2013,New York,Madison Square Garden
+2251,2014-01-14,2014,New York,Late Night With Jimmy Fallon
+2252,2014-01-18,2014,Asbury Park,Paramount Theatre
+2253,2014-01-26,High Hopes,Cape Town,Bellville Velodrome and Athletics Stadium
+2254,2014-01-28,High Hopes,Cape Town,Bellville Velodrome and Athletics Stadium
+2255,2014-01-29,High Hopes,Cape Town,Bellville Velodrome and Athletics Stadium
+2256,2014-02-01,High Hopes,Johannesburg,FNB Stadium
+2257,2014-02-05,High Hopes,Perth,Perth Arena
+2258,2014-02-07,High Hopes,Perth,Perth Arena
+2259,2014-02-08,High Hopes,Perth,Perth Arena
+2260,2014-02-11,High Hopes,Adelaide,Adelaide Entertainment Centre
+2261,2014-02-12,High Hopes,Adelaide,Adelaide Entertainment Centre
+2262,2014-02-15,High Hopes,Melbourne,AAMI Park
+2263,2014-02-16,High Hopes,Melbourne,AAMI Park
+2264,2014-02-19,High Hopes,Sydney,Allphones Arena
+2265,2014-02-22,High Hopes,Pokolbin,Hope Estate Winery
+2266,2014-02-23,High Hopes,Pokolbin,Hope Estate Winery
+2267,2014-02-26,High Hopes,Brisbane,Brisbane Entertainment Centre
+2268,2014-03-01,High Hopes,Auckland,Mount Smart Stadium
+2269,2014-03-02,High Hopes,Auckland,Mount Smart Stadium
+2270,2014-04-06,High Hopes,Dallas,Reunion Park
+2271,2014-04-08,High Hopes,Cincinnati,U.S. Bank Arena
+2272,2014-04-10,2014,Brooklyn,Barclays Center
+2273,2014-04-12,High Hopes,Virginia Beach,Farm Bureau Live at Virginia Beach
+2274,2014-04-15,High Hopes,Columbus,Nationwide Arena
+2275,2014-04-17,High Hopes,Nashville,Bridgestone Arena
+2276,2014-04-19,High Hopes,Charlotte,Time Warner Cable Arena
+2277,2014-04-22,High Hopes,Pittsburgh,Consol Energy Center
+2278,2014-04-24,High Hopes,Raleigh,PNC Arena
+2279,2014-04-26,High Hopes,Atlanta,Aaron's Amphitheatre at Lakewood
+2280,2014-04-29,High Hopes,Sunrise,BB&T Center
+2281,2014-05-01,High Hopes,Tampa,MidFlorida Credit Union Amphitheatre
+2282,2014-05-03,High Hopes,New Orleans,Fair Grounds Race Course
+2283,2014-05-06,High Hopes,The Woodlands,Cynthia Woods Mitchell Pavilion
+2284,2014-05-13,High Hopes,Albany,Times Union Center
+2285,2014-05-14,High Hopes,Hershey,Hersheypark Stadium
+2286,2014-05-17,High Hopes,Uncasville,Mohegan Sun Arena
+2287,2014-05-18,High Hopes,Uncasville,Mohegan Sun Arena
+2288,2014-05-22,2014,Pittsburgh,Soldiers and Sailors Memorial Hall and Museum
+2289,2014-05-23,2014,Pittsburgh,Soldiers and Sailors Memorial Hall and Museum
+2290,2014-11-05,2014,New York,The Theater at Madison Square Garden
+2291,2014-11-11,2014,Washington,National Mall
+2292,2014-12-07,2014,Washington,John F. Kennedy Center for the Performing Arts
+2293,2015-01-17,2015,Asbury Park,Paramount Theatre
+2294,2015-02-06,2015,Los Angeles,Los Angeles Convention Center
+2295,2015-04-30,2015,Cambridge,Story Chapel at Mount Auburn Cemetery
+2296,2015-05-16,2015,New York,Tribeca Grill
+2297,2015-07-18,2015,Asbury Park,Wonder Bar
+2298,2015-08-06,2015,New York,The Daily Show With Jon Stewart
+2299,2015-11-10,2015,New York,The Theater at Madison Square Garden
+2300,2015-11-18,2015,Los Angeles,Shrine Auditorium
+2301,2015-12-19,2015,New York,Saturday Night Live
+2302,2016-01-16,The River Tour,Pittsburgh,Consol Energy Center
+2303,2016-01-19,The River Tour,Chicago,United Center
+2304,2016-01-27,The River Tour,New York,Madison Square Garden
+2305,2016-01-29,The River Tour,Washington,Verizon Center
+2306,2016-01-31,The River Tour,Newark,Prudential Center
+2307,2016-02-02,The River Tour,Toronto,Air Canada Centre
+2308,2016-02-04,The River Tour,Boston,TD Garden
+2309,2016-02-08,The River Tour,Albany,Times Union Center
+2310,2016-02-10,The River Tour,Hartford,XL Center
+2311,2016-02-12,The River Tour,Philadelphia,Wells Fargo Center
+2312,2016-02-16,The River Tour,Sunrise,BB&T Center
+2313,2016-02-18,The River Tour,Atlanta,Philips Arena
+2314,2016-02-21,The River Tour,Louisville,KFC Yum! Center
+2315,2016-02-23,The River Tour,Cleveland,Quicken Loans Arena
+2316,2016-02-25,The River Tour,Buffalo,First Niagara Center
+2317,2016-02-27,The River Tour,Rochester,Blue Cross Arena
+2318,2016-02-29,The River Tour,St. Paul,Xcel Energy Center
+2319,2016-03-03,The River Tour,Milwaukee,BMO Harris Bradley Center
+2320,2016-03-06,The River Tour,St. Louis,Chaifetz Arena
+2321,2016-03-10,The River Tour,Phoenix,Talking Stick Resort Arena
+2322,2016-03-13,The River Tour,Oakland,Oracle Arena
+2323,2016-03-15,The River Tour,Los Angeles,Los Angeles Sports Arena
+2324,2016-03-17,The River Tour,Los Angeles,Los Angeles Sports Arena
+2325,2016-03-19,The River Tour,Los Angeles,Los Angeles Sports Arena
+2326,2016-03-22,The River Tour,Portland,Moda Center
+2327,2016-03-24,The River Tour,Seattle,KeyArena
+2328,2016-03-28,The River Tour,New York,Madison Square Garden
+2329,2016-03-31,The River Tour,Denver,Pepsi Center
+2330,2016-04-03,The River Tour,Oklahoma City,Chesapeake Energy Arena
+2331,2016-04-05,The River Tour,Dallas,American Airlines Center
+2332,2016-04-07,The River Tour,Kansas City,Sprint Center
+2333,2016-04-12,The River Tour,Columbus,Value City Arena
+2334,2016-04-14,The River Tour,Auburn Hills,The Palace of Auburn Hills
+2335,2016-04-18,The River Tour,University Park,Bryce Jordan Center
+2336,2016-04-20,The River Tour,Baltimore,Royal Farms Arena
+2337,2016-04-23,The River Tour,Brooklyn,Barclays Center
+2338,2016-04-25,The River Tour,Brooklyn,Barclays Center
+2339,2016-05-14,The River Tour,Barcelona,Camp Nou
+2340,2016-05-17,The River Tour,San Sebastian,Estadio de Anoeta
+2341,2016-05-19,The River Tour,Lisbon,Parque da Bela Vista
+2342,2016-05-21,The River Tour,Madrid,Estadio Santiago Bernabeu
+2343,2016-05-25,The River Tour,Manchester,Etihad Stadium
+2344,2016-05-27,The River Tour,Dublin,Croke Park
+2345,2016-05-29,The River Tour,Dublin,Croke Park
+2346,2016-06-01,The River Tour,Glasgow,Hampden Park
+2347,2016-06-03,The River Tour,Coventry,Ricoh Arena
+2348,2016-06-05,The River Tour,London,Wembley Stadium
+2349,2016-06-14,The River Tour,The Hague,Malieveld
+2350,2016-06-17,The River Tour,Munich,Olympiastadion
+2351,2016-06-19,The River Tour,Berlin,Olympiastadion
+2352,2016-06-22,The River Tour,Copenhagen,Telia Parken
+2353,2016-06-25,The River Tour,Gothenburg,Ullevi Stadium
+2354,2016-06-27,The River Tour,Gothenburg,Ullevi Stadium
+2355,2016-06-29,The River Tour,Oslo,Ullevaal Stadion
+2356,2016-07-03,The River Tour,Milan,Stadio Giuseppe Meazza
+2357,2016-07-05,The River Tour,Milan,Stadio Giuseppe Meazza
+2358,2016-07-09,The River Tour,Werchter,Festivalpark
+2359,2016-07-11,The River Tour,Paris,AccorHotels Arena
+2360,2016-07-13,The River Tour,Paris,AccorHotels Arena
+2361,2016-07-16,The River Tour,Rome,Circo Massimo
+2362,2016-07-20,The River Tour,Horsens,CASA Arena Horsens
+2363,2016-07-23,The River Tour,Gothenburg,Ullevi Stadium
+2364,2016-07-26,The River Tour,Trondheim,Granåsen Arena
+2365,2016-07-28,The River Tour,Oslo,Frognerparken
+2366,2016-07-31,The River Tour,Zurich,Letzigrund Stadion
+2367,2016-08-23,The River Tour,East Rutherford,MetLife Stadium
+2368,2016-08-25,The River Tour,East Rutherford,MetLife Stadium
+2369,2016-08-28,The River Tour,Chicago,United Center
+2370,2016-08-30,The River Tour,East Rutherford,MetLife Stadium
+2371,2016-09-01,The River Tour,Washington,Nationals Park
+2372,2016-09-05,The River Tour,Virginia Beach,Veterans United Home Loans Amphitheater at Virginia Beach
+2373,2016-09-07,The River Tour,Philadelphia,Citizens Bank Park
+2374,2016-09-09,The River Tour,Philadelphia,Citizens Bank Park
+2375,2016-09-11,The River Tour,Pittsburgh,Consol Energy Center
+2376,2016-09-14,The River Tour,Foxborough,Gillette Stadium
+2377,2016-10-05,2016,San Francisco,Nourse Theater
+2378,2016-11-01,2016,New York,The Theater at Madison Square Garden
+2379,2016-11-07,2016,Philadelphia,Independence Mall
+2380,2016-11-30,2016,Denver,Tattered Cover
+2381,2016-12-14,2016,New York,Isaac Stern Auditorium at Carnegie Hall
+2382,2017-01-12,2017,Washington,White House
+2383,2017-01-22,Summer '17 Tour,Perth,Perth Arena
+2384,2017-01-25,Summer '17 Tour,Perth,Perth Arena
+2385,2017-01-27,Summer '17 Tour,Perth,Perth Arena
+2386,2017-01-30,Summer '17 Tour,Adelaide,Adelaide Entertainment Centre
+2387,2017-02-02,Summer '17 Tour,Melbourne,AAMI Park
+2388,2017-02-04,Summer '17 Tour,Melbourne,AAMI Park
+2389,2017-02-07,Summer '17 Tour,Sydney,Qudos Bank Arena
+2390,2017-02-09,Summer '17 Tour,Sydney,Qudos Bank Arena
+2391,2017-02-11,Summer '17 Tour,Newham,Hanging Rock Reserve
+2392,2017-02-14,Summer '17 Tour,Brisbane,Brisbane Entertainment Centre
+2393,2017-02-16,Summer '17 Tour,Brisbane,Brisbane Entertainment Centre
+2394,2017-02-18,Summer '17 Tour,Pokolbin,Hope Estate Winery
+2395,2017-02-21,Summer '17 Tour,Christchurch,Christchurch AMI Stadium
+2396,2017-02-25,Summer '17 Tour,Auckland,Mount Smart Stadium
+2397,2017-09-19,2017,West Long Branch,Pollak Theatre
+2398,2017-09-21,2017,Holmdel,PNC Bank Arts Center
+2399,2017-09-22,2017,West Long Branch,Pollak Theatre
+2400,2017-09-29,2017,New York,Walter Kerr Theatre
+2401,2017-09-30,2017,Toronto,Air Canada Centre
+2402,2017-10-03,Springsteen On Broadway,New York,Walter Kerr Theatre
+2403,2017-10-04,Springsteen On Broadway,New York,Walter Kerr Theatre
+2404,2017-10-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2405,2017-10-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2406,2017-10-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2407,2017-10-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2408,2017-10-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2409,2017-10-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2410,2017-10-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2411,2017-10-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2412,2017-10-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2413,2017-10-18,Springsteen On Broadway,New York,Walter Kerr Theatre
+2414,2017-10-19,Springsteen On Broadway,New York,Walter Kerr Theatre
+2415,2017-10-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2416,2017-10-21,Springsteen On Broadway,New York,Walter Kerr Theatre
+2417,2017-10-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2418,2017-10-25,Springsteen On Broadway,New York,Walter Kerr Theatre
+2419,2017-10-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2420,2017-10-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2421,2017-10-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2422,2017-10-31,Springsteen On Broadway,New York,Walter Kerr Theatre
+2423,2017-11-01,Springsteen On Broadway,New York,Walter Kerr Theatre
+2424,2017-11-02,Springsteen On Broadway,New York,Walter Kerr Theatre
+2425,2017-11-03,Springsteen On Broadway,New York,Walter Kerr Theatre
+2426,2017-11-04,Springsteen On Broadway,New York,Walter Kerr Theatre
+2427,2017-11-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2428,2017-11-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2429,2017-11-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2430,2017-11-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2431,2017-11-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2432,2017-11-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2433,2017-11-15,Springsteen On Broadway,New York,Walter Kerr Theatre
+2434,2017-11-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2435,2017-11-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2436,2017-11-18,Springsteen On Broadway,New York,Walter Kerr Theatre
+2437,2017-11-21,Springsteen On Broadway,New York,Walter Kerr Theatre
+2438,2017-11-22,Springsteen On Broadway,New York,Walter Kerr Theatre
+2439,2017-11-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2440,2017-11-25,Springsteen On Broadway,New York,Walter Kerr Theatre
+2441,2017-11-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2442,2017-12-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2443,2017-12-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2444,2017-12-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2445,2017-12-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2446,2017-12-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2447,2017-12-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2448,2017-12-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2449,2017-12-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2450,2017-12-15,Springsteen On Broadway,New York,Walter Kerr Theatre
+2451,2017-12-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2452,2017-12-19,Springsteen On Broadway,New York,Walter Kerr Theatre
+2453,2017-12-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2454,2017-12-21,Springsteen On Broadway,New York,Walter Kerr Theatre
+2455,2017-12-22,Springsteen On Broadway,New York,Walter Kerr Theatre
+2456,2017-12-23,Springsteen On Broadway,New York,Walter Kerr Theatre
+2457,2017-12-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2458,2017-12-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2459,2017-12-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2460,2017-12-29,Springsteen On Broadway,New York,Walter Kerr Theatre
+2461,2017-12-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2462,2018-01-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2463,2018-01-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2464,2018-01-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2465,2018-01-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2466,2018-01-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2467,2018-01-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2468,2018-01-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2469,2018-01-18,Springsteen On Broadway,New York,Walter Kerr Theatre
+2470,2018-01-19,Springsteen On Broadway,New York,Walter Kerr Theatre
+2471,2018-01-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2472,2018-01-23,Springsteen On Broadway,New York,Walter Kerr Theatre
+2473,2018-01-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2474,2018-01-25,Springsteen On Broadway,New York,Walter Kerr Theatre
+2475,2018-01-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2476,2018-01-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2477,2018-01-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2478,2018-01-31,Springsteen On Broadway,New York,Walter Kerr Theatre
+2479,2018-02-01,Springsteen On Broadway,New York,Walter Kerr Theatre
+2480,2018-02-02,Springsteen On Broadway,New York,Walter Kerr Theatre
+2481,2018-02-03,Springsteen On Broadway,New York,Walter Kerr Theatre
+2482,2018-02-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2483,2018-03-01,Springsteen On Broadway,New York,Walter Kerr Theatre
+2484,2018-03-02,Springsteen On Broadway,New York,Walter Kerr Theatre
+2485,2018-03-03,Springsteen On Broadway,New York,Walter Kerr Theatre
+2486,2018-03-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2487,2018-03-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2488,2018-03-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2489,2018-03-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2490,2018-03-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2491,2018-03-15,Springsteen On Broadway,New York,Walter Kerr Theatre
+2492,2018-03-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2493,2018-03-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2494,2018-03-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2495,2018-03-21,Springsteen On Broadway,New York,Walter Kerr Theatre
+2496,2018-03-22,Springsteen On Broadway,New York,Walter Kerr Theatre
+2497,2018-03-23,Springsteen On Broadway,New York,Walter Kerr Theatre
+2498,2018-03-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2499,2018-03-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2500,2018-03-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2501,2018-03-29,Springsteen On Broadway,New York,Walter Kerr Theatre
+2502,2018-03-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2503,2018-04-04,Springsteen On Broadway,New York,Walter Kerr Theatre
+2504,2018-04-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2505,2018-04-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2506,2018-04-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2507,2018-04-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2508,2018-04-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2509,2018-04-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2510,2018-04-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2511,2018-04-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2512,2018-04-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2513,2018-04-18,Springsteen On Broadway,New York,Walter Kerr Theatre
+2514,2018-04-19,Springsteen On Broadway,New York,Walter Kerr Theatre
+2515,2018-04-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2516,2018-05-02,Springsteen On Broadway,New York,Walter Kerr Theatre
+2517,2018-05-03,Springsteen On Broadway,New York,Walter Kerr Theatre
+2518,2018-05-04,Springsteen On Broadway,New York,Walter Kerr Theatre
+2519,2018-05-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2520,2018-05-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2521,2018-05-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2522,2018-05-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2523,2018-05-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2524,2018-05-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2525,2018-05-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2526,2018-05-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2527,2018-05-18,Springsteen On Broadway,New York,Walter Kerr Theatre
+2528,2018-05-19,Springsteen On Broadway,New York,Walter Kerr Theatre
+2529,2018-05-22,Springsteen On Broadway,New York,Walter Kerr Theatre
+2530,2018-05-23,Springsteen On Broadway,New York,Walter Kerr Theatre
+2531,2018-05-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2532,2018-05-25,Springsteen On Broadway,New York,Walter Kerr Theatre
+2533,2018-05-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2534,2018-05-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2535,2018-05-31,Springsteen On Broadway,New York,Walter Kerr Theatre
+2536,2018-06-01,Springsteen On Broadway,New York,Walter Kerr Theatre
+2537,2018-06-02,Springsteen On Broadway,New York,Walter Kerr Theatre
+2538,2018-06-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2539,2018-06-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2540,2018-06-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2541,2018-06-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2542,2018-06-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2543,2018-06-10,2018,New York,Radio City Music Hall
+2544,2018-06-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2545,2018-06-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2546,2018-06-15,Springsteen On Broadway,New York,Walter Kerr Theatre
+2547,2018-06-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2548,2018-06-18,2018,Asbury Park,Asbury Lanes
+2549,2018-06-19,Springsteen On Broadway,New York,Walter Kerr Theatre
+2550,2018-06-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2551,2018-06-21,Springsteen On Broadway,New York,Walter Kerr Theatre
+2552,2018-06-22,Springsteen On Broadway,New York,Walter Kerr Theatre
+2553,2018-06-23,Springsteen On Broadway,New York,Walter Kerr Theatre
+2554,2018-06-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2555,2018-06-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2556,2018-06-29,Springsteen On Broadway,New York,Walter Kerr Theatre
+2557,2018-06-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2558,2018-07-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2559,2018-07-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2560,2018-07-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2561,2018-07-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2562,2018-07-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2563,2018-07-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2564,2018-07-21,Springsteen On Broadway,New York,Walter Kerr Theatre
+2565,2018-07-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2566,2018-07-25,Springsteen On Broadway,New York,Walter Kerr Theatre
+2567,2018-07-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2568,2018-07-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2569,2018-08-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2570,2018-08-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2571,2018-08-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2572,2018-08-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2573,2018-08-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2574,2018-08-15,Springsteen On Broadway,New York,Walter Kerr Theatre
+2575,2018-08-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2576,2018-08-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2577,2018-08-18,Springsteen On Broadway,New York,Walter Kerr Theatre
+2578,2018-08-22,Springsteen On Broadway,New York,Walter Kerr Theatre
+2579,2018-08-23,Springsteen On Broadway,New York,Walter Kerr Theatre
+2580,2018-08-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2581,2018-08-25,Springsteen On Broadway,New York,Walter Kerr Theatre
+2582,2018-08-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2583,2018-08-29,Springsteen On Broadway,New York,Walter Kerr Theatre
+2584,2018-08-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2585,2018-08-31,Springsteen On Broadway,New York,Walter Kerr Theatre
+2586,2018-09-04,Springsteen On Broadway,New York,Walter Kerr Theatre
+2587,2018-09-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2588,2018-09-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2589,2018-09-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2590,2018-09-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2591,2018-09-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2592,2018-09-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2593,2018-09-29,Springsteen On Broadway,New York,Walter Kerr Theatre
+2594,2018-10-02,Springsteen On Broadway,New York,Walter Kerr Theatre
+2595,2018-10-03,Springsteen On Broadway,New York,Walter Kerr Theatre
+2596,2018-10-04,Springsteen On Broadway,New York,Walter Kerr Theatre
+2597,2018-10-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2598,2018-10-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2599,2018-10-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2600,2018-10-11,Springsteen On Broadway,New York,Walter Kerr Theatre
+2601,2018-10-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2602,2018-10-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2603,2018-10-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2604,2018-10-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2605,2018-10-18,Springsteen On Broadway,New York,Walter Kerr Theatre
+2606,2018-10-19,Springsteen On Broadway,New York,Walter Kerr Theatre
+2607,2018-10-20,Springsteen On Broadway,New York,Walter Kerr Theatre
+2608,2018-10-24,Springsteen On Broadway,New York,Walter Kerr Theatre
+2609,2018-10-25,Springsteen On Broadway,New York,Walter Kerr Theatre
+2610,2018-10-26,Springsteen On Broadway,New York,Walter Kerr Theatre
+2611,2018-10-27,Springsteen On Broadway,New York,Walter Kerr Theatre
+2612,2018-10-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2613,2018-10-31,Springsteen On Broadway,New York,Walter Kerr Theatre
+2614,2018-11-01,Springsteen On Broadway,New York,Walter Kerr Theatre
+2615,2018-11-02,Springsteen On Broadway,New York,Walter Kerr Theatre
+2616,2018-11-03,Springsteen On Broadway,New York,Walter Kerr Theatre
+2617,2018-11-05,2018,New York,Hulu Theater at Madison Square Garden
+2618,2018-11-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2619,2018-11-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2620,2018-11-09,Springsteen On Broadway,New York,Walter Kerr Theatre
+2621,2018-11-10,Springsteen On Broadway,New York,Walter Kerr Theatre
+2622,2018-11-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2623,2018-11-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2624,2018-11-15,Springsteen On Broadway,New York,Walter Kerr Theatre
+2625,2018-11-16,Springsteen On Broadway,New York,Walter Kerr Theatre
+2626,2018-11-17,Springsteen On Broadway,New York,Walter Kerr Theatre
+2627,2018-11-28,Springsteen On Broadway,New York,Walter Kerr Theatre
+2628,2018-11-29,Springsteen On Broadway,New York,Walter Kerr Theatre
+2629,2018-11-30,Springsteen On Broadway,New York,Walter Kerr Theatre
+2630,2018-12-01,Springsteen On Broadway,New York,Walter Kerr Theatre
+2631,2018-12-04,Springsteen On Broadway,New York,Walter Kerr Theatre
+2632,2018-12-05,Springsteen On Broadway,New York,Walter Kerr Theatre
+2633,2018-12-06,Springsteen On Broadway,New York,Walter Kerr Theatre
+2634,2018-12-07,Springsteen On Broadway,New York,Walter Kerr Theatre
+2635,2018-12-08,Springsteen On Broadway,New York,Walter Kerr Theatre
+2636,2018-12-12,Springsteen On Broadway,New York,Walter Kerr Theatre
+2637,2018-12-13,Springsteen On Broadway,New York,Walter Kerr Theatre
+2638,2018-12-14,Springsteen On Broadway,New York,Walter Kerr Theatre
+2639,2018-12-15,Springsteen On Broadway,New York,Walter Kerr Theatre
+2640,2019-04-15,2019,Colts Neck,Private Venue
+2641,2019-05-05,2019,Los Angeles,Raleigh Studios
+2642,2019-08-07,2019,Asbury Park,Convention Hall
+2643,2019-11-04,2019,New York,Hulu Theater at Madison Square Garden
+2644,2019-11-16,2019,Asbury Park,The Stone Pony
+2645,2019-12-09,2019,New York,Beacon Theatre
+2646,2020-01-18,2020,Asbury Park,Paramount Theatre
+2647,2020-04-22,2020,Colts Neck,Private Venue
+2648,2020-11-18,2020,Colts Neck,Private Venue
+2649,2020-12-12,2020,New York,Saturday Night Live
+2650,2021-01-20,2021,Washington,Lincoln Memorial
+2651,2021-04-21,2021,Colts Neck,Private Venue
+2652,2021-06-26,Springsteen On Broadway 2021,New York,St. James Theatre
+2653,2021-06-29,Springsteen On Broadway 2021,New York,St. James Theatre
+2654,2021-06-30,Springsteen On Broadway 2021,New York,St. James Theatre
+2655,2021-07-01,Springsteen On Broadway 2021,New York,St. James Theatre
+2656,2021-07-02,Springsteen On Broadway 2021,New York,St. James Theatre
+2657,2021-07-03,Springsteen On Broadway 2021,New York,St. James Theatre
+2658,2021-07-06,Springsteen On Broadway 2021,New York,St. James Theatre
+2659,2021-07-07,Springsteen On Broadway 2021,New York,St. James Theatre
+2660,2021-07-08,Springsteen On Broadway 2021,New York,St. James Theatre
+2661,2021-07-09,Springsteen On Broadway 2021,New York,St. James Theatre
+2662,2021-07-10,Springsteen On Broadway 2021,New York,St. James Theatre
+2663,2021-07-13,Springsteen On Broadway 2021,New York,St. James Theatre
+2664,2021-07-14,Springsteen On Broadway 2021,New York,St. James Theatre
+2665,2021-07-15,Springsteen On Broadway 2021,New York,St. James Theatre
+2666,2021-07-16,Springsteen On Broadway 2021,New York,St. James Theatre
+2667,2021-07-17,Springsteen On Broadway 2021,New York,St. James Theatre
+2668,2021-08-17,Springsteen On Broadway 2021,New York,St. James Theatre
+2669,2021-08-18,Springsteen On Broadway 2021,New York,St. James Theatre
+2670,2021-08-19,Springsteen On Broadway 2021,New York,St. James Theatre
+2671,2021-08-20,Springsteen On Broadway 2021,New York,St. James Theatre
+2672,2021-08-24,Springsteen On Broadway 2021,New York,St. James Theatre
+2673,2021-08-25,Springsteen On Broadway 2021,New York,St. James Theatre
+2674,2021-08-26,Springsteen On Broadway 2021,New York,St. James Theatre
+2675,2021-08-27,Springsteen On Broadway 2021,New York,St. James Theatre
+2676,2021-08-28,Springsteen On Broadway 2021,New York,St. James Theatre
+2677,2021-08-31,Springsteen On Broadway 2021,New York,St. James Theatre
+2678,2021-09-01,Springsteen On Broadway 2021,New York,St. James Theatre
+2679,2021-09-02,Springsteen On Broadway 2021,New York,St. James Theatre
+2680,2021-09-03,Springsteen On Broadway 2021,New York,St. James Theatre
+2681,2021-09-04,Springsteen On Broadway 2021,New York,St. James Theatre
+2682,2021-09-11,2021,New York,9/11 Memorial & Museum
+2683,2021-10-20,2021,New York,Jacob K. Javits Convention Center
+2684,2021-10-25,2021,New York,Late Show With Stephen Colbert
+2685,2021-11-08,2021,New York,Alice Tully Hall
+2686,2021-12-13,2021,New York,The Town Hall
+2687,2022-04-24,2022,Washington,John F. Kennedy Center for the Performing Arts
+2688,2022-09-29,2022,New York,New York Public Library
+2689,2022-10-31,2022,New York,Howard Stern Radio Program
+2690,2022-11-05,2022,Los Angeles,Microsoft Theater
+2691,2022-11-07,2022,New York,David Geffen Hall
+2692,2022-11-14,2022,New York,The Tonight Show Starring Jimmy Fallon
+2693,2022-11-15,2022,New York,The Tonight Show Starring Jimmy Fallon
+2694,2023-02-01,Springsteen & E Street Band 2023 Tour,Tampa,Amalie Arena
+2695,2023-02-03,Springsteen & E Street Band 2023 Tour,Atlanta,State Farm Arena
+2696,2023-02-05,Springsteen & E Street Band 2023 Tour,Orlando,Amway Center
+2697,2023-02-07,Springsteen & E Street Band 2023 Tour,Hollywood,Hard Rock Live
+2698,2023-02-10,Springsteen & E Street Band 2023 Tour,Dallas,American Airlines Center
+2699,2023-02-14,Springsteen & E Street Band 2023 Tour,Houston,Toyota Center
+2700,2023-02-16,Springsteen & E Street Band 2023 Tour,Austin,Moody Center
+2701,2023-02-18,Springsteen & E Street Band 2023 Tour,Kansas City,T-Mobile Center
+2702,2023-02-21,Springsteen & E Street Band 2023 Tour,Tulsa,BOK Center
+2703,2023-02-25,Springsteen & E Street Band 2023 Tour,Portland,Moda Center
+2704,2023-02-27,Springsteen & E Street Band 2023 Tour,Seattle,Climate Pledge Arena
+2705,2023-03-02,Springsteen & E Street Band 2023 Tour,Denver,Ball Arena
+2706,2023-03-05,Springsteen & E Street Band 2023 Tour,St. Paul,Xcel Energy Center
+2707,2023-03-07,Springsteen & E Street Band 2023 Tour,Milwaukee,Fiserv Forum
+2708,2023-03-16,Springsteen & E Street Band 2023 Tour,Philadelphia,Wells Fargo Center
+2709,2023-03-18,Springsteen & E Street Band 2023 Tour,University Park,Bryce Jordan Center
+2710,2023-03-20,Springsteen & E Street Band 2023 Tour,Boston,TD Garden
+2711,2023-03-23,Springsteen & E Street Band 2023 Tour,Buffalo,KeyBank Center
+2712,2023-03-25,Springsteen & E Street Band 2023 Tour,Greensboro,Greensboro Coliseum
+2713,2023-03-27,Springsteen & E Street Band 2023 Tour,Washington,Capital One Arena
+2714,2023-03-29,Springsteen & E Street Band 2023 Tour,Detroit,Little Caesars Arena
+2715,2023-04-01,Springsteen & E Street Band 2023 Tour,New York,Madison Square Garden
+2716,2023-04-03,Springsteen & E Street Band 2023 Tour,Brooklyn,Barclays Center
+2717,2023-04-05,Springsteen & E Street Band 2023 Tour,Cleveland,Rocket Mortgage FieldHouse
+2718,2023-04-07,Springsteen & E Street Band 2023 Tour,Baltimore,CFG Bank Arena
+2719,2023-04-09,Springsteen & E Street Band 2023 Tour,Elmont,UBS Arena
+2720,2023-04-11,Springsteen & E Street Band 2023 Tour,Elmont,UBS Arena
+2721,2023-04-14,Springsteen & E Street Band 2023 Tour,Newark,Prudential Center
+2722,2023-04-28,Springsteen & E Street Band 2023 Tour,Barcelona,Estadi Olímpic Lluís Companys
+2723,2023-04-30,Springsteen & E Street Band 2023 Tour,Barcelona,Estadi Olímpic Lluís Companys
+2724,2023-05-05,Springsteen & E Street Band 2023 Tour,Dublin,RDS Arena
+2725,2023-05-07,Springsteen & E Street Band 2023 Tour,Dublin,RDS Arena
+2726,2023-05-09,Springsteen & E Street Band 2023 Tour,Dublin,RDS Arena
+2727,2023-05-13,Springsteen & E Street Band 2023 Tour,Nanterre,Paris La Défense Arena
+2728,2023-05-15,Springsteen & E Street Band 2023 Tour,Nanterre,Paris La Défense Arena
+2729,2023-05-18,Springsteen & E Street Band 2023 Tour,Ferrara,Parco urbano Giorgio Bassani
+2730,2023-05-21,Springsteen & E Street Band 2023 Tour,Rome,Circo Massimo
+2731,2023-05-25,Springsteen & E Street Band 2023 Tour,Amsterdam,Johan Cruijff ArenA
+2732,2023-05-27,Springsteen & E Street Band 2023 Tour,Amsterdam,Johan Cruijff ArenA
+2733,2023-05-30,Springsteen & E Street Band 2023 Tour,Edinburgh,BT Murrayfield Stadium
+2734,2023-06-11,Springsteen & E Street Band 2023 Tour,Landgraaf,Megaland
+2735,2023-06-13,Springsteen & E Street Band 2023 Tour,Zurich,Letzigrund Stadion
+2736,2023-06-16,Springsteen & E Street Band 2023 Tour,Birmingham,Villa Park
+2737,2023-06-18,Springsteen & E Street Band 2023 Tour,Werchter,Festivalpark
+2738,2023-06-21,Springsteen & E Street Band 2023 Tour,Düsseldorf,Merkur Spiel-Arena
+2739,2023-06-24,Springsteen & E Street Band 2023 Tour,Gothenburg,Ullevi Stadium
+2740,2023-06-26,Springsteen & E Street Band 2023 Tour,Gothenburg,Ullevi Stadium
+2741,2023-06-28,Springsteen & E Street Band 2023 Tour,Gothenburg,Ullevi Stadium
+2742,2023-06-30,Springsteen & E Street Band 2023 Tour,Oslo,Voldsløkka
+2743,2023-07-02,Springsteen & E Street Band 2023 Tour,Oslo,Voldsløkka
+2744,2023-07-06,Springsteen & E Street Band 2023 Tour,London,Hyde Park
+2745,2023-07-08,Springsteen & E Street Band 2023 Tour,London,Hyde Park
+2746,2023-07-11,Springsteen & E Street Band 2023 Tour,Copenhagen,Parken Stadium
+2747,2023-07-13,Springsteen & E Street Band 2023 Tour,Copenhagen,Parken Stadium
+2748,2023-07-15,Springsteen & E Street Band 2023 Tour,Hamburg,Volksparkstadion
+2749,2023-07-18,Springsteen & E Street Band 2023 Tour,Vienna,Ernst Happel Stadion
+2750,2023-07-21,Springsteen & E Street Band 2023 Tour,Hockenheim,Hockenheimring
+2751,2023-07-23,Springsteen & E Street Band 2023 Tour,Munich,Olympiastadion
+2752,2023-07-25,Springsteen & E Street Band 2023 Tour,Monza,Autodromo Nazionale di Monza
+2753,2023-08-09,Springsteen & E Street Band 2023 Tour,Chicago,Wrigley Field
+2754,2023-08-11,Springsteen & E Street Band 2023 Tour,Chicago,Wrigley Field
+2755,2023-08-24,Springsteen & E Street Band 2023 Tour,Foxborough,Gillette Stadium
+2756,2023-08-26,Springsteen & E Street Band 2023 Tour,Foxborough,Gillette Stadium
+2757,2023-08-30,Springsteen & E Street Band 2023 Tour,East Rutherford,MetLife Stadium
+2758,2023-09-01,Springsteen & E Street Band 2023 Tour,East Rutherford,MetLife Stadium
+2759,2023-09-03,Springsteen & E Street Band 2023 Tour,East Rutherford,MetLife Stadium
+2760,2023-11-06,2023-2024 World Tour,New York,David Geffen Hall
+2761,2024-01-19,2023-2024 World Tour,Wellington,Five Rings Farm
+2762,2024-02-02,2023-2024 World Tour,Los Angeles,Los Angeles Convention Center
+2763,2024-02-06,2023-2024 World Tour,Freehold,St. Rose Of Lima Church
+2764,2024-03-19,Springsteen & E Street Band 2024 World Tour,Phoenix,Footprint Center
+2765,2024-03-22,Springsteen & E Street Band 2024 World Tour,Las Vegas,T-Mobile Arena
+2766,2024-03-25,Springsteen & E Street Band 2024 World Tour,San Diego,Pechanga Arena
+2767,2024-03-28,Springsteen & E Street Band 2024 World Tour,San Francisco,Chase Center
+2768,2024-03-31,Springsteen & E Street Band 2024 World Tour,San Francisco,Chase Center
+2769,2024-04-04,Springsteen & E Street Band 2024 World Tour,Inglewood,Kia Forum
+2770,2024-04-07,Springsteen & E Street Band 2024 World Tour,Inglewood,Kia Forum
+2771,2024-04-12,Springsteen & E Street Band 2024 World Tour,Uncasville,Mohegan Sun Arena
+2772,2024-04-15,Springsteen & E Street Band 2024 World Tour,Albany,MVP Arena
+2773,2024-04-18,Springsteen & E Street Band 2024 World Tour,Syracuse,JMA Wireless Dome
+2774,2024-04-21,Springsteen & E Street Band 2024 World Tour,Columbus,Nationwide Arena
+2775,2024-04-24,2023-2024 World Tour,West Long Branch,Pollak Theatre
+2776,2024-05-05,Springsteen & E Street Band 2024 World Tour,Cardiff,Principality Stadium
+2777,2024-05-09,Springsteen & E Street Band 2024 World Tour,Belfast,Boucher Road Playing Fields
+2778,2024-05-12,Springsteen & E Street Band 2024 World Tour,Kilkenny,Nowlan Park
+2779,2024-05-16,Springsteen & E Street Band 2024 World Tour,Cork,Pairc Ui Chaoimh
+2780,2024-05-19,Springsteen & E Street Band 2024 World Tour,Dublin,Croke Park
+2781,2024-05-22,Springsteen & E Street Band 2024 World Tour,Sunderland,Stadium of Light
+2782,2024-05-23,2023-2024 World Tour,London,Grosvenor House Hotel
+2783,2024-06-12,Springsteen & E Street Band 2024 World Tour,Madrid,Estadio Metropolitano
+2784,2024-06-14,Springsteen & E Street Band 2024 World Tour,Madrid,Estadio Metropolitano
+2785,2024-06-17,Springsteen & E Street Band 2024 World Tour,Madrid,Estadio Metropolitano
+2786,2024-06-20,Springsteen & E Street Band 2024 World Tour,Barcelona,Estadi Olímpic Lluís Companys
+2787,2024-06-22,Springsteen & E Street Band 2024 World Tour,Barcelona,Estadi Olímpic Lluís Companys
+2788,2024-06-27,Springsteen & E Street Band 2024 World Tour,Nijmegen,Goffertpark
+2789,2024-06-29,Springsteen & E Street Band 2024 World Tour,Nijmegen,Goffertpark
+2790,2024-07-02,Springsteen & E Street Band 2024 World Tour,Werchter,Festivalpark
+2791,2024-07-05,Springsteen & E Street Band 2024 World Tour,Hanover,Heinz von Heiden Arena
+2792,2024-07-09,Springsteen & E Street Band 2024 World Tour,Odense,Dyrskuepladsen
+2793,2024-07-12,Springsteen & E Street Band 2024 World Tour,Helsinki,Olympiastadion
+2794,2024-07-15,Springsteen & E Street Band 2024 World Tour,Solna,Strawberry Arena
+2795,2024-07-18,Springsteen & E Street Band 2024 World Tour,Solna,Strawberry Arena
+2796,2024-07-21,Springsteen & E Street Band 2024 World Tour,Bergen,Dokken
+2797,2024-07-25,Springsteen & E Street Band 2024 World Tour,London,Wembley Stadium
+2798,2024-07-27,Springsteen & E Street Band 2024 World Tour,London,Wembley Stadium
+2799,2024-08-15,Springsteen & E Street Band 2024 World Tour,Pittsburgh,PPG Paints Arena
+2800,2024-08-18,Springsteen & E Street Band 2024 World Tour,Pittsburgh,PPG Paints Arena
+2801,2024-08-21,Springsteen & E Street Band 2024 World Tour,Philadelphia,Citizens Bank Park
+2802,2024-08-23,Springsteen & E Street Band 2024 World Tour,Philadelphia,Citizens Bank Park
+2803,2024-09-07,Springsteen & E Street Band 2024 World Tour,Washington,Nationals Park
+2804,2024-09-13,Springsteen & E Street Band 2024 World Tour,Baltimore,Oriole Park at Camden Yards
+2805,2024-09-15,Springsteen & E Street Band 2024 World Tour,Asbury Park,Asbury Park Oceanfront
+2806,2024-10-13,2023-2024 World Tour,New York,New York Hilton Midtown Hotel
+2807,2024-10-23,2023-2024 World Tour,New York,Howard Stern Radio Program
+2808,2024-10-24,When We Vote We Win,Clarkston,James R. Hallford Stadium
+2809,2024-10-28,When We Vote We Win,Philadelphia,Liacouras Center
+2810,2024-10-31,Springsteen & E Street Band 2024 World Tour,Montreal,Centre Bell
+2811,2024-11-03,Springsteen & E Street Band 2024 World Tour,Toronto,Scotiabank Arena
+2812,2024-11-06,Springsteen & E Street Band 2024 World Tour,Toronto,Scotiabank Arena
+2813,2024-11-09,Springsteen & E Street Band 2024 World Tour,Ottawa,Canadian Tire Centre
+2814,2024-11-11,2023-2024 World Tour,New York,David Geffen Hall
+2815,2024-11-13,Springsteen & E Street Band 2024 World Tour,Winnipeg,Canada Life Centre
+2816,2024-11-16,Springsteen & E Street Band 2024 World Tour,Calgary,Scotiabank Saddledome
+2817,2024-11-19,Springsteen & E Street Band 2024 World Tour,Edmonton,Rogers Place
+2818,2024-11-22,Springsteen & E Street Band 2024 World Tour,Vancouver,Rogers Arena

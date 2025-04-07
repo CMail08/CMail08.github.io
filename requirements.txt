@@ -1,0 +1,13 @@
+# Core data handling and web framework
+pandas
+psycopg2-binary
+Flask
+aiohttp # For Set_List_Finder.py async calls
+numpy # Added based on script analysis
+
+# LLM Integration (to be used later)
+google-generativeai
+
+# Optional: For charting (if using a Python backend charting library)
+# matplotlib
+# seaborn
